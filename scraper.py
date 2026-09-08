@@ -4,7 +4,7 @@ import re
 import time
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
-from email.utils import format_datetime
+from email.utils import format_datetime, parsedate_to_datetime
 from pathlib import Path
 from urllib.parse import urljoin, urlparse
 
@@ -16,7 +16,7 @@ LIST_URL = f"{BASE}/vagas"
 OUT = Path("vagas.xml")
 STATE = Path("state.json")
 MAX_ITEMS = 100
-MAX_LIST_PAGES = 10
+MAX_LIST_PAGES = 3
 TIMEOUT = 25
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (compatible; ItajaiOnlineRSS/1.0; +https://github.com/joaofpr-sudo/itajaionline-rss)"
@@ -58,7 +58,7 @@ def extract_list_page(url):
     next_pages = []
     for a in soup.find_all("a", href=True):
         href = absolute(a["href"])
-        if "/vagas/parte-" in href and href not in next_pages:
+        if re.search(r"/vagas/parte-\d+$", urlparse(href).path) and href not in next_pages:
             next_pages.append(href)
     return jobs, next_pages
 
@@ -67,33 +67,39 @@ def extract_detail(job):
     r = session.get(job["url"], timeout=TIMEOUT)
     r.raise_for_status()
     soup = BeautifulSoup(r.text, "html.parser")
-    title = clean(soup.title.get_text()) if soup.title else job["list_title"]
-    title = re.sub(r"\s*\|\s*Itajaí Online.*$", "", title, flags=re.I)
+    page_title = clean(soup.title.get_text()) if soup.title else ""
 
-    # The detail page has a compact, stable text structure: title, city, description.
-    body = soup.get_text("\n", strip=True)
-    lines = [clean(x) for x in body.splitlines() if clean(x)]
+    title = job["list_title"]
     city = ""
     description = ""
 
-    for i, line in enumerate(lines):
-        m = re.match(r"Vaga:\s*(.*?)\s+Cidade:\s*(.*)$", line, re.I)
-        if m:
-            title = clean(m.group(1)) or title
-            city = clean(m.group(2)).rstrip("-").strip()
-            if i + 1 < len(lines):
-                description = clean(lines[i + 1])
-            break
+    # The page title follows: Vaga: NOME Cidade: CIDADE | Itajaí Online
+    m = re.match(r"Vaga:\s*(.*?)\s+Cidade:\s*(.*?)\s*\|\s*Itajaí Online\s*$", page_title, re.I)
+    if m:
+        title = clean(m.group(1)) or title
+        city = clean(m.group(2)).rstrip("-").strip()
+
+    body = soup.get_text("\n", strip=True)
+    lines = [clean(x) for x in body.splitlines() if clean(x)]
 
     if not city:
         for line in lines:
             m = re.match(r"Cidade:\s*(.+)$", line, re.I)
             if m:
-                city = clean(m.group(1))
+                city = clean(m.group(1)).rstrip("-").strip()
                 break
 
+    # On the current site the main content is title, city, description.
+    if city:
+        for i, line in enumerate(lines):
+            if line.rstrip("-").strip().casefold() == city.casefold() and i + 1 < len(lines):
+                candidate = clean(lines[i + 1])
+                if candidate and candidate.casefold() not in {"hoje", "ontem"}:
+                    description = candidate
+                    break
+
     if not description:
-        # Prefer visible paragraphs near the main content, excluding navigation/footer.
+        # Fallback: visible paragraph text, excluding navigation/footer boilerplate.
         for p in soup.find_all("p"):
             text = clean(p.get_text(" ", strip=True))
             if text and len(text) > 20 and "Itajaí Online" not in text:
@@ -103,7 +109,7 @@ def extract_detail(job):
     job["title"] = title or job["list_title"]
     job["city"] = city or ""
     job["description"] = description or "Descrição não informada."
-    job["updated"] = datetime.now(timezone.utc).isoformat()
+    job["published_at"] = datetime.now(timezone.utc).isoformat()
     return job
 
 
@@ -116,13 +122,19 @@ def load_state():
         return {}
 
 
-def rss_escape(text):
-    return html.escape(text or "", quote=True)
+def parse_date(value):
+    try:
+        return datetime.fromisoformat(value).astimezone(timezone.utc)
+    except Exception:
+        try:
+            return parsedate_to_datetime(value).astimezone(timezone.utc)
+        except Exception:
+            return datetime.now(timezone.utc)
 
 
 def build_rss(items):
     now = datetime.now(timezone.utc)
-    rss = ET.Element("rss", {"version": "2.0", "xmlns:content": "http://purl.org/rss/1.0/modules/content/"})
+    rss = ET.Element("rss", {"version": "2.0"})
     channel = ET.SubElement(rss, "channel")
     ET.SubElement(channel, "title").text = "Vagas de Emprego — Itajaí Online"
     ET.SubElement(channel, "link").text = LIST_URL
@@ -141,7 +153,7 @@ def build_rss(items):
         ET.SubElement(item, "description").text = job["description"]
         if job.get("city"):
             ET.SubElement(item, "category").text = job["city"]
-        ET.SubElement(item, "pubDate").text = format_datetime(now)
+        ET.SubElement(item, "pubDate").text = format_datetime(parse_date(job.get("published_at")))
 
     tree = ET.ElementTree(rss)
     ET.indent(tree, space="  ")
@@ -190,13 +202,15 @@ def main():
             job["title"] = job["list_title"]
             job["city"] = ""
             job["description"] = "Abra a vaga para ver a descrição completa."
+            job["published_at"] = datetime.now(timezone.utc).isoformat()
             result.append(job)
 
-    # Keep current items first, and preserve older known items so the feed does not churn.
+    current_urls = {x["url"] for x in result}
     merged = {j["url"]: j for j in result}
     for url, job in state.items():
         merged.setdefault(url, job)
-    ordered = result + [j for u, j in merged.items() if u not in {x["url"] for x in result}]
+
+    ordered = result + [j for u, j in merged.items() if u not in current_urls]
     ordered = ordered[:MAX_ITEMS]
 
     new_state = {j["url"]: j for j in ordered}
