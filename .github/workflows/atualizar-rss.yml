@@ -1,0 +1,35 @@
+name: Atualizar RSS de vagas
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Baixar repositório
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Instalar dependências
+        run: pip install -r requirements.txt
+
+      - name: Atualizar RSS
+        run: python scraper.py
+
+      - name: Publicar alterações
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add vagas.xml state.json
+          git diff --cached --quiet || git commit -m 'Atualizar feed de vagas'
+          git push
