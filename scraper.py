@@ -18,44 +18,35 @@ STATE = Path("state.json")
 MAX_ITEMS = 100
 MAX_LIST_PAGES = 3
 TIMEOUT = 25
-HEADERS = {
-    "User-Agent": "Mozilla/5.0 (compatible; ItajaiOnlineRSS/1.0; +https://github.com/joaofpr-sudo/itajaionline-rss)"
-}
+HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; ItajaiOnlineRSS/1.0)"}
 
-# Palavras e expressões usadas para priorizar vagas do perfil desejado.
-# Quanto maior a pontuação, mais acima a vaga aparece no RSS.
-FINANCE_KEYWORDS = {
-    "faturamento": 100,
-    "faturacao": 100,
-    "financeiro": 100,
-    "financeira": 100,
-    "contas a pagar": 100,
-    "contas a receber": 100,
-    "accounts payable": 100,
-    "accounts receivable": 100,
-    "billing": 95,
-    "analista financeiro": 95,
-    "assistente financeiro": 95,
-    "auxiliar financeiro": 95,
-    "coordenador financeiro": 95,
-    "supervisor financeiro": 95,
-    "gerente financeiro": 95,
-    "cobrança": 85,
-    "cobranca": 85,
-    "tesouraria": 85,
-    "conciliação bancária": 85,
-    "conciliacao bancaria": 85,
-    "contas a pagar e receber": 100,
-    "crédito e cobrança": 80,
-    "credito e cobranca": 80,
-    "controladoria": 75,
-    "contábil": 70,
-    "contabil": 70,
-    "contabilidade": 70,
-    "fiscal": 55,
-    "billing analyst": 90,
-    "billing assistant": 90,
-    "finance analyst": 90,
+# Pesos maiores = maior prioridade no feed.
+# Financeiro vem antes de Administrativo; dentro de cada grupo,
+# termos específicos pesam mais do que termos genéricos.
+KEYWORDS = {
+    # FINANCEIRO — prioridade máxima
+    "faturamento": 120, "faturacao": 120, "financeiro": 120, "financeira": 120,
+    "contas a pagar": 120, "contas a receber": 120, "contas a pagar e receber": 125,
+    "accounts payable": 115, "accounts receivable": 115, "billing": 110,
+    "analista financeiro": 115, "assistente financeiro": 115, "auxiliar financeiro": 110,
+    "coordenador financeiro": 115, "supervisor financeiro": 115, "gerente financeiro": 115,
+    "cobrança": 100, "cobranca": 100, "tesouraria": 100,
+    "conciliação bancária": 100, "conciliacao bancaria": 100,
+    "crédito e cobrança": 95, "credito e cobranca": 95,
+    "controladoria": 90, "contabilidade": 90, "contábil": 90, "contabil": 90,
+    "fiscal": 70, "billing analyst": 105, "billing assistant": 105,
+    "finance analyst": 105, "finance assistant": 105,
+
+    # ADMINISTRATIVO — segunda prioridade
+    "administrativo": 85, "administrativa": 85,
+    "analista administrativo": 95, "assistente administrativo": 95, "auxiliar administrativo": 90,
+    "coordenador administrativo": 95, "supervisor administrativo": 95, "gerente administrativo": 95,
+    "rotinas administrativas": 85, "rotina administrativa": 85,
+    "apoio administrativo": 85, "setor administrativo": 85, "área administrativa": 85,
+    "backoffice": 80, "back office": 80, "secretária": 70, "secretaria": 70,
+    "recepção administrativa": 70, "recepcao administrativa": 70,
+    "compras": 70, "suprimentos": 70, "departamento pessoal": 75,
+    "recursos humanos": 65, "rh": 55,
 }
 
 session = requests.Session()
@@ -63,9 +54,7 @@ session.headers.update(HEADERS)
 
 
 def clean(text):
-    text = html.unescape(text or "")
-    text = re.sub(r"\s+", " ", text).strip()
-    return text
+    return re.sub(r"\s+", " ", html.unescape(text or "")).strip()
 
 
 def absolute(url):
@@ -73,39 +62,35 @@ def absolute(url):
 
 
 def is_job_url(url):
-    path = urlparse(url).path.rstrip("/")
-    return bool(re.fullmatch(r"/vaga/\d+-[^/]+", path))
+    return bool(re.fullmatch(r"/vaga/\d+-[^/]+", urlparse(url).path.rstrip("/")))
 
 
-def finance_score(job):
-    text = clean(" ".join([
-        job.get("title", ""),
-        job.get("list_title", ""),
-        job.get("description", ""),
-    ])).casefold()
-    score = 0
-    matched = []
-    for keyword, points in FINANCE_KEYWORDS.items():
-        if keyword.casefold() in text:
-            score += points
-            matched.append(keyword)
-    return score, matched
+def classify(job):
+    text = clean(" ".join([job.get("title", ""), job.get("list_title", ""), job.get("description", "")])).casefold()
+    finance = []
+    admin = []
+    for word, points in KEYWORDS.items():
+        if word.casefold() in text:
+            (finance if points >= 100 else admin).append((word, points))
+    finance_score = sum(p for _, p in finance)
+    admin_score = sum(p for _, p in admin)
+    if finance_score:
+        return finance_score, "FINANCEIRO", [w for w, _ in sorted(finance, key=lambda x: -x[1])]
+    if admin_score:
+        return admin_score, "ADMINISTRATIVO", [w for w, _ in sorted(admin, key=lambda x: -x[1])]
+    return 0, "OUTRAS", []
 
 
 def extract_list_page(url):
-    r = session.get(url, timeout=TIMEOUT)
-    r.raise_for_status()
+    r = session.get(url, timeout=TIMEOUT); r.raise_for_status()
     soup = BeautifulSoup(r.text, "html.parser")
-    jobs = []
-    seen = set()
+    jobs, seen = [], set()
     for a in soup.find_all("a", href=True):
         href = absolute(a["href"])
-        if not is_job_url(href) or href in seen:
-            continue
-        seen.add(href)
-        title = clean(a.get_text(" ", strip=True))
-        if title:
-            jobs.append({"url": href, "list_title": title})
+        if is_job_url(href) and href not in seen:
+            seen.add(href)
+            title = clean(a.get_text(" ", strip=True))
+            if title: jobs.append({"url": href, "list_title": title})
     next_pages = []
     for a in soup.find_all("a", href=True):
         href = absolute(a["href"])
@@ -115,175 +100,110 @@ def extract_list_page(url):
 
 
 def extract_detail(job):
-    r = session.get(job["url"], timeout=TIMEOUT)
-    r.raise_for_status()
+    r = session.get(job["url"], timeout=TIMEOUT); r.raise_for_status()
     soup = BeautifulSoup(r.text, "html.parser")
     page_title = clean(soup.title.get_text()) if soup.title else ""
-
-    title = job["list_title"]
-    city = ""
-    description = ""
-
-    # The page title follows: Vaga: NOME Cidade: CIDADE | Itajaí Online
+    title, city, description = job["list_title"], "", ""
     m = re.match(r"Vaga:\s*(.*?)\s+Cidade:\s*(.*?)\s*\|\s*Itajaí Online\s*$", page_title, re.I)
     if m:
-        title = clean(m.group(1)) or title
-        city = clean(m.group(2)).rstrip("-").strip()
-
-    body = soup.get_text("\n", strip=True)
-    lines = [clean(x) for x in body.splitlines() if clean(x)]
-
+        title, city = clean(m.group(1)), clean(m.group(2)).rstrip("-").strip()
+    lines = [clean(x) for x in soup.get_text("\n", strip=True).splitlines() if clean(x)]
     if not city:
         for line in lines:
             m = re.match(r"Cidade:\s*(.+)$", line, re.I)
-            if m:
-                city = clean(m.group(1)).rstrip("-").strip()
-                break
-
+            if m: city = clean(m.group(1)).rstrip("-").strip(); break
     if city:
         for i, line in enumerate(lines):
             if line.rstrip("-").strip().casefold() == city.casefold() and i + 1 < len(lines):
                 candidate = clean(lines[i + 1])
-                if candidate and candidate.casefold() not in {"hoje", "ontem"}:
-                    description = candidate
-                    break
-
+                if candidate.casefold() not in {"hoje", "ontem"} and len(candidate) > 10:
+                    description = candidate; break
     if not description:
         for p in soup.find_all("p"):
             text = clean(p.get_text(" ", strip=True))
-            if text and len(text) > 20 and "Itajaí Online" not in text:
-                description = text
-                break
-
-    job["title"] = title or job["list_title"]
-    job["city"] = city or ""
-    job["description"] = description or "Descrição não informada."
-    job["published_at"] = datetime.now(timezone.utc).isoformat()
-    score, matched = finance_score(job)
-    job["finance_score"] = score
-    job["finance_matches"] = matched
+            if len(text) > 20 and "Itajaí Online" not in text:
+                description = text; break
+    job.update(title=title or job["list_title"], city=city, description=description or "Descrição não informada.")
+    job["published_at"] = job.get("published_at") or datetime.now(timezone.utc).isoformat()
+    score, category, matches = classify(job)
+    job.update(priority_score=score, category=category, matches=matches)
     return job
 
 
 def load_state():
-    if not STATE.exists():
-        return {}
-    try:
-        return json.loads(STATE.read_text(encoding="utf-8"))
-    except Exception:
-        return {}
+    try: return json.loads(STATE.read_text(encoding="utf-8")) if STATE.exists() else {}
+    except Exception: return {}
 
 
 def parse_date(value):
-    try:
-        return datetime.fromisoformat(value).astimezone(timezone.utc)
+    try: return datetime.fromisoformat(value).astimezone(timezone.utc)
     except Exception:
-        try:
-            return parsedate_to_datetime(value).astimezone(timezone.utc)
-        except Exception:
-            return datetime.now(timezone.utc)
+        try: return parsedate_to_datetime(value).astimezone(timezone.utc)
+        except Exception: return datetime.now(timezone.utc)
 
 
 def build_rss(items):
     now = datetime.now(timezone.utc)
     rss = ET.Element("rss", {"version": "2.0"})
-    channel = ET.SubElement(rss, "channel")
-    ET.SubElement(channel, "title").text = "Vagas de Emprego — Itajaí Online — Foco Financeiro"
-    ET.SubElement(channel, "link").text = LIST_URL
-    ET.SubElement(channel, "description").text = "Vagas do Itajaí Online, com prioridade para Faturamento, Financeiro, Contas a Pagar, Contas a Receber, Cobrança, Tesouraria e áreas relacionadas."
-    ET.SubElement(channel, "language").text = "pt-BR"
-    ET.SubElement(channel, "lastBuildDate").text = format_datetime(now)
-
+    ch = ET.SubElement(rss, "channel")
+    ET.SubElement(ch, "title").text = "Vagas — Itajaí Online — Financeiro e Administrativo"
+    ET.SubElement(ch, "link").text = LIST_URL
+    ET.SubElement(ch, "description").text = "Feed de vagas com prioridade para Financeiro, Faturamento, Contas a Pagar/Receber e Administrativo."
+    ET.SubElement(ch, "language").text = "pt-BR"
+    ET.SubElement(ch, "lastBuildDate").text = format_datetime(now)
     for job in items[:MAX_ITEMS]:
-        title = job["title"]
-        if job.get("city"):
-            title = f"{title} — {job['city']}"
-        if job.get("finance_score", 0) > 0:
-            title = f"★ FINANCEIRO | {title}"
-
-        item = ET.SubElement(channel, "item")
+        prefix = {"FINANCEIRO": "★ FINANCEIRO", "ADMINISTRATIVO": "☆ ADMINISTRATIVO"}.get(job.get("category"), "")
+        title = f"{prefix} | " if prefix else ""
+        title += job["title"] + (f" — {job['city']}" if job.get("city") else "")
+        item = ET.SubElement(ch, "item")
         ET.SubElement(item, "title").text = title
         ET.SubElement(item, "link").text = job["url"]
         ET.SubElement(item, "guid", {"isPermaLink": "true"}).text = job["url"]
-
         desc = job["description"]
-        if job.get("finance_score", 0) > 0:
-            desc = "[PRIORIDADE FINANCEIRO] " + desc
+        if job.get("category") != "OUTRAS":
+            desc = f"[{job['category']}] " + desc
+            if job.get("matches"): desc += " | Termos identificados: " + ", ".join(job["matches"][:6])
         ET.SubElement(item, "description").text = desc
-
-        ET.SubElement(item, "category").text = "Financeiro" if job.get("finance_score", 0) > 0 else "Outras vagas"
-        if job.get("city"):
-            ET.SubElement(item, "category").text = job["city"]
-        if job.get("finance_matches"):
-            ET.SubElement(item, "category").text = "Financeiro"
+        ET.SubElement(item, "category").text = job.get("category", "OUTRAS")
         ET.SubElement(item, "pubDate").text = format_datetime(parse_date(job.get("published_at")))
-
-    tree = ET.ElementTree(rss)
-    ET.indent(tree, space="  ")
-    tree.write(OUT, encoding="utf-8", xml_declaration=True)
+    tree = ET.ElementTree(rss); ET.indent(tree, space="  "); tree.write(OUT, encoding="utf-8", xml_declaration=True)
 
 
 def main():
-    state = load_state()
-    jobs = []
-    seen = set()
-    queue = [LIST_URL]
-    visited = set()
-
+    state = load_state(); jobs=[]; seen=set(); queue=[LIST_URL]; visited=set()
     while queue and len(visited) < MAX_LIST_PAGES and len(jobs) < MAX_ITEMS:
-        page = queue.pop(0)
-        if page in visited:
-            continue
+        page=queue.pop(0)
+        if page in visited: continue
         visited.add(page)
-        try:
-            found, next_pages = extract_list_page(page)
-        except Exception as exc:
-            print(f"Falha ao ler {page}: {exc}")
-            continue
-        for job in found:
-            if job["url"] not in seen:
-                seen.add(job["url"])
-                jobs.append(job)
-                if len(jobs) >= MAX_ITEMS:
-                    break
-        for nxt in next_pages:
-            if nxt not in visited and nxt not in queue:
-                queue.append(nxt)
-
-    result = []
-    for index, job in enumerate(jobs):
-        url = job["url"]
-        if url in state:
-            result.append(state[url])
-            continue
-        try:
-            print(f"Nova vaga {index + 1}/{len(jobs)}: {url}")
-            result.append(extract_detail(job))
-            time.sleep(0.15)
-        except Exception as exc:
-            print(f"Falha no detalhe {url}: {exc}")
-            job["title"] = job["list_title"]
-            job["city"] = ""
-            job["description"] = "Abra a vaga para ver a descrição completa."
-            job["published_at"] = datetime.now(timezone.utc).isoformat()
-            job["finance_score"], job["finance_matches"] = finance_score(job)
-            result.append(job)
-
-    current_urls = {x["url"] for x in result}
-    merged = {j["url"]: j for j in result}
-    for url, job in state.items():
-        merged.setdefault(url, job)
-
-    # Principal mudança: vagas financeiras ficam primeiro; as demais continuam no feed.
-    ordered = result + [j for u, j in merged.items() if u not in current_urls]
-    ordered.sort(key=lambda j: (j.get("finance_score", 0), parse_date(j.get("published_at"))), reverse=True)
-    ordered = ordered[:MAX_ITEMS]
-
-    new_state = {j["url"]: j for j in ordered}
-    STATE.write_text(json.dumps(new_state, ensure_ascii=False, indent=2), encoding="utf-8")
+        try: found, nxt = extract_list_page(page)
+        except Exception as e: print(f"Falha {page}: {e}"); continue
+        for j in found:
+            if j["url"] not in seen:
+                seen.add(j["url"]); jobs.append(j)
+                if len(jobs)>=MAX_ITEMS: break
+        for n in nxt:
+            if n not in visited and n not in queue: queue.append(n)
+    result=[]
+    for j in jobs:
+        if j["url"] in state:
+            # Reclassifica inclusive vagas antigas para que a nova regra seja aplicada.
+            old=state[j["url"]]; score,cat,matches=classify(old)
+            old.update(priority_score=score, category=cat, matches=matches)
+            result.append(old); continue
+        try: result.append(extract_detail(j)); time.sleep(0.15)
+        except Exception as e:
+            print(f"Falha detalhe {j['url']}: {e}")
+            j.update(title=j["list_title"], city="", description="Abra a vaga para ver a descrição completa.", published_at=datetime.now(timezone.utc).isoformat())
+            score,cat,matches=classify(j); j.update(priority_score=score,category=cat,matches=matches); result.append(j)
+    # Preserva histórico e coloca primeiro Financeiro, depois Administrativo, depois demais.
+    merged={j["url"]:j for j in result}
+    for u,j in state.items():
+        if u not in merged:
+            score,cat,matches=classify(j); j.update(priority_score=score,category=cat,matches=matches); merged[u]=j
+    ordered=list(merged.values())
+    ordered.sort(key=lambda j:(j.get("priority_score",0), parse_date(j.get("published_at"))), reverse=True)
+    ordered=ordered[:MAX_ITEMS]
+    STATE.write_text(json.dumps({j["url"]:j for j in ordered}, ensure_ascii=False, indent=2), encoding="utf-8")
     build_rss(ordered)
-    print(f"RSS atualizado com {len(ordered)} vagas.")
 
-
-if __name__ == "__main__":
-    main()
+if __name__ == "__main__": main()
