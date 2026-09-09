@@ -22,6 +22,42 @@ HEADERS = {
     "User-Agent": "Mozilla/5.0 (compatible; ItajaiOnlineRSS/1.0; +https://github.com/joaofpr-sudo/itajaionline-rss)"
 }
 
+# Palavras e expressões usadas para priorizar vagas do perfil desejado.
+# Quanto maior a pontuação, mais acima a vaga aparece no RSS.
+FINANCE_KEYWORDS = {
+    "faturamento": 100,
+    "faturacao": 100,
+    "financeiro": 100,
+    "financeira": 100,
+    "contas a pagar": 100,
+    "contas a receber": 100,
+    "accounts payable": 100,
+    "accounts receivable": 100,
+    "billing": 95,
+    "analista financeiro": 95,
+    "assistente financeiro": 95,
+    "auxiliar financeiro": 95,
+    "coordenador financeiro": 95,
+    "supervisor financeiro": 95,
+    "gerente financeiro": 95,
+    "cobrança": 85,
+    "cobranca": 85,
+    "tesouraria": 85,
+    "conciliação bancária": 85,
+    "conciliacao bancaria": 85,
+    "contas a pagar e receber": 100,
+    "crédito e cobrança": 80,
+    "credito e cobranca": 80,
+    "controladoria": 75,
+    "contábil": 70,
+    "contabil": 70,
+    "contabilidade": 70,
+    "fiscal": 55,
+    "billing analyst": 90,
+    "billing assistant": 90,
+    "finance analyst": 90,
+}
+
 session = requests.Session()
 session.headers.update(HEADERS)
 
@@ -39,6 +75,21 @@ def absolute(url):
 def is_job_url(url):
     path = urlparse(url).path.rstrip("/")
     return bool(re.fullmatch(r"/vaga/\d+-[^/]+", path))
+
+
+def finance_score(job):
+    text = clean(" ".join([
+        job.get("title", ""),
+        job.get("list_title", ""),
+        job.get("description", ""),
+    ])).casefold()
+    score = 0
+    matched = []
+    for keyword, points in FINANCE_KEYWORDS.items():
+        if keyword.casefold() in text:
+            score += points
+            matched.append(keyword)
+    return score, matched
 
 
 def extract_list_page(url):
@@ -89,7 +140,6 @@ def extract_detail(job):
                 city = clean(m.group(1)).rstrip("-").strip()
                 break
 
-    # On the current site the main content is title, city, description.
     if city:
         for i, line in enumerate(lines):
             if line.rstrip("-").strip().casefold() == city.casefold() and i + 1 < len(lines):
@@ -99,7 +149,6 @@ def extract_detail(job):
                     break
 
     if not description:
-        # Fallback: visible paragraph text, excluding navigation/footer boilerplate.
         for p in soup.find_all("p"):
             text = clean(p.get_text(" ", strip=True))
             if text and len(text) > 20 and "Itajaí Online" not in text:
@@ -110,6 +159,9 @@ def extract_detail(job):
     job["city"] = city or ""
     job["description"] = description or "Descrição não informada."
     job["published_at"] = datetime.now(timezone.utc).isoformat()
+    score, matched = finance_score(job)
+    job["finance_score"] = score
+    job["finance_matches"] = matched
     return job
 
 
@@ -136,23 +188,34 @@ def build_rss(items):
     now = datetime.now(timezone.utc)
     rss = ET.Element("rss", {"version": "2.0"})
     channel = ET.SubElement(rss, "channel")
-    ET.SubElement(channel, "title").text = "Vagas de Emprego — Itajaí Online"
+    ET.SubElement(channel, "title").text = "Vagas de Emprego — Itajaí Online — Foco Financeiro"
     ET.SubElement(channel, "link").text = LIST_URL
-    ET.SubElement(channel, "description").text = "Vagas de emprego do Itajaí Online, com cargo, cidade e descrição."
+    ET.SubElement(channel, "description").text = "Vagas do Itajaí Online, com prioridade para Faturamento, Financeiro, Contas a Pagar, Contas a Receber, Cobrança, Tesouraria e áreas relacionadas."
     ET.SubElement(channel, "language").text = "pt-BR"
     ET.SubElement(channel, "lastBuildDate").text = format_datetime(now)
 
     for job in items[:MAX_ITEMS]:
-        item = ET.SubElement(channel, "item")
         title = job["title"]
         if job.get("city"):
             title = f"{title} — {job['city']}"
+        if job.get("finance_score", 0) > 0:
+            title = f"★ FINANCEIRO | {title}"
+
+        item = ET.SubElement(channel, "item")
         ET.SubElement(item, "title").text = title
         ET.SubElement(item, "link").text = job["url"]
         ET.SubElement(item, "guid", {"isPermaLink": "true"}).text = job["url"]
-        ET.SubElement(item, "description").text = job["description"]
+
+        desc = job["description"]
+        if job.get("finance_score", 0) > 0:
+            desc = "[PRIORIDADE FINANCEIRO] " + desc
+        ET.SubElement(item, "description").text = desc
+
+        ET.SubElement(item, "category").text = "Financeiro" if job.get("finance_score", 0) > 0 else "Outras vagas"
         if job.get("city"):
             ET.SubElement(item, "category").text = job["city"]
+        if job.get("finance_matches"):
+            ET.SubElement(item, "category").text = "Financeiro"
         ET.SubElement(item, "pubDate").text = format_datetime(parse_date(job.get("published_at")))
 
     tree = ET.ElementTree(rss)
@@ -203,6 +266,7 @@ def main():
             job["city"] = ""
             job["description"] = "Abra a vaga para ver a descrição completa."
             job["published_at"] = datetime.now(timezone.utc).isoformat()
+            job["finance_score"], job["finance_matches"] = finance_score(job)
             result.append(job)
 
     current_urls = {x["url"] for x in result}
@@ -210,7 +274,9 @@ def main():
     for url, job in state.items():
         merged.setdefault(url, job)
 
+    # Principal mudança: vagas financeiras ficam primeiro; as demais continuam no feed.
     ordered = result + [j for u, j in merged.items() if u not in current_urls]
+    ordered.sort(key=lambda j: (j.get("finance_score", 0), parse_date(j.get("published_at"))), reverse=True)
     ordered = ordered[:MAX_ITEMS]
 
     new_state = {j["url"]: j for j in ordered}
