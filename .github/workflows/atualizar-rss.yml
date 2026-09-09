@@ -1,6 +1,10 @@
 name: Atualizar RSS de vagas
 
 on:
+  push:
+    paths-ignore:
+      - 'vagas.xml'
+      - 'state.json'
   schedule:
     - cron: '*/15 * * * *'
   workflow_dispatch:
