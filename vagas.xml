@@ -1,577 +1,161 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss version="2.0">
   <channel>
-    <title>Vagas de Emprego — Itajaí Online</title>
+    <title>Vagas — Itajaí Online — Financeiro e Administrativo</title>
     <link>https://itajaionline.com.br/vagas</link>
-    <description>Vagas de emprego do Itajaí Online, com cargo, cidade e descrição.</description>
+    <description>Feed de vagas com prioridade para Financeiro, Faturamento, Contas a Pagar/Receber e Administrativo.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 09 Sep 2026 11:40:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 14:35:43 +0000</lastBuildDate>
     <item>
-      <title>MONITOTA/CUIDADORA DE CÃES — ITAJAI</title>
-      <link>https://itajaionline.com.br/vaga/191984-monitotacuidadora-de-caes</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/191984-monitotacuidadora-de-caes</guid>
-      <description>Vaga – Monitora/Cuidadora de Cães</description>
-      <category>ITAJAI</category>
-      <pubDate>Wed, 09 Sep 2026 11:40:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Atendente de Administrativo — Itajaí</title>
-      <link>https://itajaionline.com.br/vaga/192065-atendente-de-administrativo</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/192065-atendente-de-administrativo</guid>
-      <description>Atendente Administrativo - Salário de R$ 2655,00 - Benefício iFood Atividades - Atendimento telefônico e presencial - Organização de documentos e arquivos - Lançamento de informações em sistemas - Apoio nas rotinas administrativas - Demais atividades da área Horário Segunda a Sexta das 08h00 às 12h00 e das 13h00 às 18h00 Interessados enviar e-mail vagascentraldocaminhao@gmail.com</description>
-      <category>Itajaí</category>
-      <pubDate>Wed, 09 Sep 2026 11:40:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ajudante de serviços Gerais — Camboriú</title>
-      <link>https://itajaionline.com.br/vaga/197386-ajudante-de-servicos-gerais</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197386-ajudante-de-servicos-gerais</guid>
-      <description>Empresa localizada em Camboriú proximo a Casetex.</description>
-      <category>Camboriú</category>
-      <pubDate>Wed, 09 Sep 2026 11:40:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Soldador Calderista — Camboriú</title>
-      <link>https://itajaionline.com.br/vaga/197385-soldador-calderista</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197385-soldador-calderista</guid>
-      <description>Soldador com experiência em MIG/MAG - que tenha conhecimento</description>
-      <category>Camboriú</category>
-      <pubDate>Wed, 09 Sep 2026 11:40:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gerente Operacional de transportes — Itajaí</title>
-      <link>https://itajaionline.com.br/vaga/197383-gerente-operacional-de-transportes</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197383-gerente-operacional-de-transportes</guid>
-      <description>Gerente Operacional de transportes</description>
-      <category>Itajaí</category>
-      <pubDate>Wed, 09 Sep 2026 01:21:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Baba — Itajaí</title>
-      <link>https://itajaionline.com.br/vaga/197243-baba</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197243-baba</guid>
-      <description>Contrato Babá com experiência. Segundaà sexta R$3.300 + R$200 ajuda de custo, maiores informações whats (44)99750-8762</description>
-      <category>Itajaí</category>
-      <pubDate>Wed, 09 Sep 2026 01:21:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Líder de Projeto — Itajaí</title>
-      <link>https://itajaionline.com.br/vaga/196296-lider-de-projeto</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/196296-lider-de-projeto</guid>
-      <description>🚀 Oportunidade na Filtrovali | Líder de Projetos</description>
-      <category>Itajaí</category>
-      <pubDate>Wed, 09 Sep 2026 01:21:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tecnico Segurança do Trabalho — Itajaí</title>
-      <link>https://itajaionline.com.br/vaga/193772-tecnico-seguranca-do-trabalho</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/193772-tecnico-seguranca-do-trabalho</guid>
-      <description>📌 DADOS DA VAGA</description>
-      <category>Itajaí</category>
-      <pubDate>Wed, 09 Sep 2026 01:21:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Assistente de Operações — Itajaí</title>
-      <link>https://itajaionline.com.br/vaga/193770-assistente-de-operacoes</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/193770-assistente-de-operacoes</guid>
-      <description>Resumo da vaga!</description>
-      <category>Itajaí</category>
-      <pubDate>Wed, 09 Sep 2026 01:21:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>AUXILIAR DE EXPEDIÇÃO DE MERCADORIA — ITAJAI</title>
-      <link>https://itajaionline.com.br/vaga/197358-auxiliar-de-expedicao-de-mercadoria</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197358-auxiliar-de-expedicao-de-mercadoria</guid>
-      <description>AUXILIAR DE EXPEDIÇÃO DE MERCADORIAS</description>
-      <category>ITAJAI</category>
-      <pubDate>Wed, 09 Sep 2026 01:21:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Desenvolvedor(a) Pleno – PHP / Laravel / Vue.js — Itajaí</title>
-      <link>https://itajaionline.com.br/vaga/196600-desenvolvedora-pleno-php-laravel-vue-js</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/196600-desenvolvedora-pleno-php-laravel-vue-js</guid>
-      <description>Vaga: Desenvolvedor(a) Pleno – PHP / Laravel / Vue.js</description>
-      <category>Itajaí</category>
-      <pubDate>Wed, 09 Sep 2026 01:21:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>AUXILIAR DE OPERAÇÃO I — Espinheiros - Itajaí SC</title>
-      <link>https://itajaionline.com.br/vaga/196518-auxiliar-de-operacao-i</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/196518-auxiliar-de-operacao-i</guid>
-      <description>📢 VAGA: AUXILIAR DE OPERAÇÃO 1 – SEPARAÇÃO</description>
-      <category>Espinheiros - Itajaí SC</category>
-      <pubDate>Wed, 09 Sep 2026 01:21:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>AUXILIAR DE ESTOQUE I — Espinheiros - Itajaí SC</title>
-      <link>https://itajaionline.com.br/vaga/193929-auxiliar-de-estoque-i</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/193929-auxiliar-de-estoque-i</guid>
-      <description>Estoquista</description>
-      <category>Espinheiros - Itajaí SC</category>
-      <pubDate>Wed, 09 Sep 2026 01:21:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>AUX. DOCUMENTAL JR - EXPORTAÇÃO — Itajaí</title>
-      <link>https://itajaionline.com.br/vaga/195618-aux-documental-jr-exportacao</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/195618-aux-documental-jr-exportacao</guid>
-      <description>VAGA P/ AUX. DOCUMENTAL JR - EXPORTAÇÃO - Inicial entre R$ 1.800,00 - 2.000,00 (Benefícios UNIMED/ UNIODONTO/ CONVÊNIO C/ FARMÁCIA + RESTAURANTES)</description>
-      <category>Itajaí</category>
-      <pubDate>Wed, 09 Sep 2026 01:21:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Motorista de entrega — ITAJAI</title>
-      <link>https://itajaionline.com.br/vaga/162048-motorista-de-entrega</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/162048-motorista-de-entrega</guid>
-      <description>VAGA: MOTORISTA DE ENTREGA – ITAJAÍ E REGIÃO</description>
-      <category>ITAJAI</category>
-      <pubDate>Wed, 09 Sep 2026 01:21:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>AUXILIAR DE CARREGAMENTO — Itajaí</title>
-      <link>https://itajaionline.com.br/vaga/180693-auxiliar-de-carregamento</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/180693-auxiliar-de-carregamento</guid>
-      <description>VAGA: AUXILIAR DE CARREGAMENTO – ITAJAÍ E REGIÃO</description>
-      <category>Itajaí</category>
-      <pubDate>Wed, 09 Sep 2026 01:21:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>AUXILIAR ADMINISTRATIVO — ITAJAÍ</title>
-      <link>https://itajaionline.com.br/vaga/195699-auxiliar-administrativo</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/195699-auxiliar-administrativo</guid>
-      <description>📢 VAGA | AUXILIAR ADMINISTRATIVO(A)</description>
-      <category>ITAJAÍ</category>
-      <pubDate>Wed, 09 Sep 2026 01:21:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Técnico instalador/manutenção — itajaí</title>
-      <link>https://itajaionline.com.br/vaga/197293-tecnico-instaladormanutencao</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197293-tecnico-instaladormanutencao</guid>
-      <description>VAGA – TÉCNICO INSTALADOR E DE MANUTENÇÃO</description>
-      <category>itajaí</category>
-      <pubDate>Wed, 09 Sep 2026 01:21:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Aux. de Manutenção — itajaí</title>
-      <link>https://itajaionline.com.br/vaga/197294-aux-de-manutencao</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197294-aux-de-manutencao</guid>
-      <description>VAGA – AUXILIAR DE OFICINA/MANUTENÇÃO</description>
-      <category>itajaí</category>
-      <pubDate>Wed, 09 Sep 2026 01:21:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Analsita de E-Commerce — Navegantes</title>
-      <link>https://itajaionline.com.br/vaga/197284-analsita-de-e-commerce</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197284-analsita-de-e-commerce</guid>
-      <description>Analista de E-Commerce</description>
-      <category>Navegantes</category>
-      <pubDate>Wed, 09 Sep 2026 01:21:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Assistente Financeiro - Ctas a Receber — Itajaí</title>
+      <title>★ FINANCEIRO | Assistente Financeiro - Ctas a Receber — Itajaí</title>
       <link>https://itajaionline.com.br/vaga/197272-assistente-financeiro-ctas-a-receber</link>
       <guid isPermaLink="true">https://itajaionline.com.br/vaga/197272-assistente-financeiro-ctas-a-receber</guid>
-      <description>Estamos em busca de um(a) Assistente Financeiro para atuar com foco em contas a receber, contribuindo para a organização dos processos financeiros e garantindo o acompanhamento eficiente das rotinas de cobrança e faturamento.</description>
-      <category>Itajaí</category>
+      <description>[FINANCEIRO] Estamos em busca de um(a) Assistente Financeiro para atuar com foco em contas a receber, contribuindo para a organização dos processos financeiros e garantindo o acompanhamento eficiente das rotinas de cobrança e faturamento. | Termos identificados: faturamento, financeiro, contas a receber, assistente financeiro, cobrança</description>
+      <category>FINANCEIRO</category>
       <pubDate>Wed, 09 Sep 2026 01:21:31 +0000</pubDate>
     </item>
     <item>
-      <title>AUXILIAR DE PRODUÇÃO ( CONFECÇÃO DE ROUPAS) — ITAJAÍ</title>
-      <link>https://itajaionline.com.br/vaga/197267-auxiliar-de-producao-confeccao-de-roupas</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197267-auxiliar-de-producao-confeccao-de-roupas</guid>
-      <description>Contratamos para trabalhar em produção de confecção de roupas, bairro Dom Bosco, salario inicial 1.930,00 + 200,00 de bônus, horário das 07:30 as 12:00 das 13:00 as 17:17 de segunda a sexta feira, interessadas chamar Douglas via WhatsApp 47 996467704.</description>
-      <category>ITAJAÍ</category>
-      <pubDate>Wed, 09 Sep 2026 01:21:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>auxiliar de cozinha — Itajaí</title>
-      <link>https://itajaionline.com.br/vaga/196079-auxiliar-de-cozinha</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/196079-auxiliar-de-cozinha</guid>
-      <description>VAGA CLT: AUXILIAR DE COZINHA – JUNGLES BURGER</description>
-      <category>Itajaí</category>
-      <pubDate>Wed, 09 Sep 2026 01:21:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Auxiliar de Portaria — Itajaí</title>
-      <link>https://itajaionline.com.br/vaga/197229-auxiliar-de-portaria</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197229-auxiliar-de-portaria</guid>
-      <description>A MHunting está selecionando Auxiliar de Portaria para uma empresa de referência na cidade de Itajaí/SC (Bairro Murta) 🚀🎯</description>
-      <category>Itajaí</category>
-      <pubDate>Wed, 09 Sep 2026 01:21:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Comercial — Itajaí</title>
-      <link>https://itajaionline.com.br/vaga/197197-comercial</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197197-comercial</guid>
-      <description>VAGA | SETOR COMERCIAL</description>
-      <category>Itajaí</category>
-      <pubDate>Wed, 09 Sep 2026 01:21:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Instalador Automotivo — itajai</title>
-      <link>https://itajaionline.com.br/vaga/194957-instalador-automotivo</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/194957-instalador-automotivo</guid>
-      <description>Descrição da função:</description>
-      <category>itajai</category>
-      <pubDate>Wed, 09 Sep 2026 01:21:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Auxiliar de Manutenção - PFIFFNER — Itajaí, SC</title>
-      <link>https://itajaionline.com.br/vaga/197154-auxiliar-de-manutencao-pfiffner</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197154-auxiliar-de-manutencao-pfiffner</guid>
-      <description>Cargo:</description>
-      <category>Itajaí, SC</category>
-      <pubDate>Wed, 09 Sep 2026 01:21:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Técnico de Manutenção - PFIFFNER — Itajaí, SC</title>
-      <link>https://itajaionline.com.br/vaga/197155-tecnico-de-manutencao-pfiffner</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197155-tecnico-de-manutencao-pfiffner</guid>
-      <description>Cargo:</description>
-      <category>Itajaí, SC</category>
-      <pubDate>Wed, 09 Sep 2026 01:21:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>ASSISTENTE COMERCIAL — Itajaí</title>
-      <link>https://itajaionline.com.br/vaga/197117-assistente-comercial</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197117-assistente-comercial</guid>
-      <description>ASSISTENTE COMERCIAL</description>
-      <category>Itajaí</category>
-      <pubDate>Wed, 09 Sep 2026 01:21:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Montador de moveis sob medida — Itajaí</title>
-      <link>https://itajaionline.com.br/vaga/194986-montador-de-moveis-sob-medida</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/194986-montador-de-moveis-sob-medida</guid>
-      <description>Vaga: montador e ajudante de montagem</description>
-      <category>Itajaí</category>
-      <pubDate>Wed, 09 Sep 2026 01:21:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Auxiliar de Produção — BALNEARIO CAMBORIU</title>
-      <link>https://itajaionline.com.br/vaga/183494-auxiliar-de-producao</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/183494-auxiliar-de-producao</guid>
-      <description>Auxiliar</description>
-      <category>BALNEARIO CAMBORIU</category>
-      <pubDate>Wed, 09 Sep 2026 01:21:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Operador de Maquina de Bordado — Balneario Camboriu</title>
-      <link>https://itajaionline.com.br/vaga/195390-operador-de-maquina-de-bordado</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/195390-operador-de-maquina-de-bordado</guid>
-      <description>OPERADOR DE MAQUINA DE BORDADO</description>
-      <category>Balneario Camboriu</category>
-      <pubDate>Wed, 09 Sep 2026 01:21:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Costureiro (a) — Balneario Camboriu</title>
-      <link>https://itajaionline.com.br/vaga/195389-costureiro-a</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/195389-costureiro-a</guid>
-      <description>VAGA DE COSTUREIRO (a)</description>
-      <category>Balneario Camboriu</category>
-      <pubDate>Wed, 09 Sep 2026 01:21:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>SECRETÁRIA – ATENDIMENTO E COMERCIAL — Itajaí</title>
-      <link>https://itajaionline.com.br/vaga/197060-secretaria-atendimento-e-comercial</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197060-secretaria-atendimento-e-comercial</guid>
-      <description>Estamos contratando uma secretária para atuar no</description>
-      <category>Itajaí</category>
-      <pubDate>Wed, 09 Sep 2026 01:21:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>🚛 VAGA: SDR — SALES DEVELOPMENT REPRESENTATIVE — Itajaí/SC</title>
-      <link>https://itajaionline.com.br/vaga/197105-vaga-sdr-sales-development-representative</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197105-vaga-sdr-sales-development-representative</guid>
-      <description>Empresa:</description>
-      <category>Itajaí/SC</category>
-      <pubDate>Wed, 09 Sep 2026 01:21:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Comercial — ITAJAI</title>
-      <link>https://itajaionline.com.br/vaga/162371-comercial</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/162371-comercial</guid>
-      <description>Empresa: America Maritime Services !!</description>
-      <category>ITAJAI</category>
-      <pubDate>Wed, 09 Sep 2026 01:21:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>MecÂnico — Itajaí</title>
-      <link>https://itajaionline.com.br/vaga/197087-mecanico</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197087-mecanico</guid>
-      <description>Estamos contratando Mecânico / Auxiliar de Mecânico</description>
-      <category>Itajaí</category>
-      <pubDate>Wed, 09 Sep 2026 01:21:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Operador de Paleteira — Itajaí-SC</title>
-      <link>https://itajaionline.com.br/vaga/194188-operador-de-paleteira</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/194188-operador-de-paleteira</guid>
-      <description>A MHunting está selecionando</description>
-      <category>Itajaí-SC</category>
-      <pubDate>Wed, 09 Sep 2026 01:21:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>ALMOXARIFE — ITAJAI</title>
-      <link>https://itajaionline.com.br/vaga/197059-almoxarife</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197059-almoxarife</guid>
-      <description>EMPRESA DO RAMO DE IMPLEMENTOS CONTRATA:</description>
-      <category>ITAJAI</category>
-      <pubDate>Wed, 09 Sep 2026 01:21:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>ESTOQUISTA I — ITAJAI</title>
-      <link>https://itajaionline.com.br/vaga/197053-estoquista-i</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197053-estoquista-i</guid>
-      <description>📢</description>
-      <category>ITAJAI</category>
-      <pubDate>Wed, 09 Sep 2026 01:21:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Conferente — Itajaí</title>
-      <link>https://itajaionline.com.br/vaga/197049-conferente</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197049-conferente</guid>
-      <description>📢 Estamos contratando: CONFERENTE I (03 vagas)</description>
-      <category>Itajaí</category>
-      <pubDate>Wed, 09 Sep 2026 01:21:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Assistente de Logística - PCE (01 vaga) — Itajaí</title>
-      <link>https://itajaionline.com.br/vaga/197047-assistente-de-logistica-pce-01-vaga</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197047-assistente-de-logistica-pce-01-vaga</guid>
-      <description>📢 Estamos contratando: Assistente de Logística - PCE (01 vaga)</description>
-      <category>Itajaí</category>
-      <pubDate>Wed, 09 Sep 2026 01:21:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Auxiliar Logistico — Itajaí</title>
-      <link>https://itajaionline.com.br/vaga/197046-auxiliar-logistico</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197046-auxiliar-logistico</guid>
-      <description>📢 Estamos contratando: Auxiliar de Logística I (03 vagas)</description>
-      <category>Itajaí</category>
-      <pubDate>Wed, 09 Sep 2026 01:21:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Aux Adm Top das Galáxias — Itajaí</title>
-      <link>https://itajaionline.com.br/vaga/197045-aux-adm-top-das-galaxias</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197045-aux-adm-top-das-galaxias</guid>
-      <description>E aí...</description>
-      <category>Itajaí</category>
-      <pubDate>Wed, 09 Sep 2026 01:21:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>SERVIÇOS GERAIS: ARTEFATOS DE CIMENTO ROCHA CONTRATA IMEDIATO — ITAJAÍ</title>
-      <link>https://itajaionline.com.br/vaga/196634-servicos-gerais-artefatos-de-cimento-rocha-contrata-imediato</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/196634-servicos-gerais-artefatos-de-cimento-rocha-contrata-imediato</guid>
-      <description>SERVIÇOS GERAIS I - CONTRATAÇÃO IMEDIATA</description>
-      <category>ITAJAÍ</category>
-      <pubDate>Wed, 09 Sep 2026 01:21:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Atendente | Sorbetto Café ☕🍨 — itajai</title>
-      <link>https://itajaionline.com.br/vaga/193376-atendente-sorbetto-cafe</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/193376-atendente-sorbetto-cafe</guid>
-      <description>📢 Vaga de Emprego – Atendente | Sorbetto Café ☕🍨</description>
-      <category>itajai</category>
-      <pubDate>Wed, 09 Sep 2026 01:21:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>ATENDENTE OPERACIONAL DE RONDA NOTURNA E MONITORAMENTO — Itajaí</title>
-      <link>https://itajaionline.com.br/vaga/197015-atendente-operacional-de-ronda-noturna-e-monitoramento</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197015-atendente-operacional-de-ronda-noturna-e-monitoramento</guid>
-      <description>ESTAMOS CONTRATANDO ATENDENTE OPERACIONAL DE RONDA NOTURNA E MONITORAMENTO</description>
-      <category>Itajaí</category>
-      <pubDate>Wed, 09 Sep 2026 01:21:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Analista Financeiro de Contas a Receber — Itajaí</title>
+      <title>★ FINANCEIRO | Analista Financeiro de Contas a Receber — Itajaí</title>
       <link>https://itajaionline.com.br/vaga/195746-analista-financeiro-de-contas-a-receber</link>
       <guid isPermaLink="true">https://itajaionline.com.br/vaga/195746-analista-financeiro-de-contas-a-receber</guid>
-      <description>Analista Financeiro de Contas a Receber</description>
-      <category>Itajaí</category>
+      <description>[FINANCEIRO] Analista Financeiro de Contas a Receber | Termos identificados: financeiro, contas a receber, analista financeiro</description>
+      <category>FINANCEIRO</category>
       <pubDate>Wed, 09 Sep 2026 01:21:36 +0000</pubDate>
     </item>
     <item>
-      <title>Aulixiar de produção de tapetes — itajai</title>
-      <link>https://itajaionline.com.br/vaga/179537-aulixiar-de-producao-de-tapetes</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/179537-aulixiar-de-producao-de-tapetes</guid>
-      <description>Vaga: Aulixiar de produção de tapetes</description>
-      <category>itajai</category>
-      <pubDate>Wed, 09 Sep 2026 01:21:37 +0000</pubDate>
+      <title>☆ ADMINISTRATIVO | Atendente de Administrativo — Itajaí</title>
+      <link>https://itajaionline.com.br/vaga/192065-atendente-de-administrativo</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/192065-atendente-de-administrativo</guid>
+      <description>[ADMINISTRATIVO] Atendente Administrativo - Salário de R$ 2655,00 - Benefício iFood Atividades - Atendimento telefônico e presencial - Organização de documentos e arquivos - Lançamento de informações em sistemas - Apoio nas rotinas administrativas - Demais atividades da área Horário Segunda a Sexta das 08h00 às 12h00 e das 13h00 às 18h00 Interessados enviar e-mail vagascentraldocaminhao@gmail.com | Termos identificados: administrativo, administrativa, rotinas administrativas</description>
+      <category>ADMINISTRATIVO</category>
+      <pubDate>Wed, 09 Sep 2026 11:40:06 +0000</pubDate>
     </item>
     <item>
-      <title>Operador de corte e dobra cnc — Camboriu</title>
-      <link>https://itajaionline.com.br/vaga/196975-operador-de-corte-e-dobra-cnc</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/196975-operador-de-corte-e-dobra-cnc</guid>
-      <description>Busco operador de corte e dobra cnc com experiencia, trabalhamos com fabricação de maquinas em aço inox. Salário incial cerca de R$ 4.600,00. Camboriu SC, Bairro Rio do Meio, Rua do Túnel, 301.</description>
-      <category>Camboriu</category>
-      <pubDate>Wed, 09 Sep 2026 01:21:37 +0000</pubDate>
+      <title>☆ ADMINISTRATIVO | ANALISTA ADMINISTRATIVO — Itajaí</title>
+      <link>https://itajaionline.com.br/vaga/197402-analista-administrativo</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197402-analista-administrativo</guid>
+      <description>[ADMINISTRATIVO] Vaga: ANALISTA ADMINISTRATIVO | Termos identificados: analista administrativo, administrativo</description>
+      <category>ADMINISTRATIVO</category>
+      <pubDate>Wed, 09 Sep 2026 14:35:42 +0000</pubDate>
     </item>
     <item>
-      <title>Auxiliar Societário — Itajaí</title>
+      <title>☆ ADMINISTRATIVO | Auxiliar / Assistente Administrativo — Itajaí</title>
+      <link>https://itajaionline.com.br/vaga/197372-auxiliar-assistente-administrativo</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197372-auxiliar-assistente-administrativo</guid>
+      <description>[ADMINISTRATIVO] 💙 OPORTUNIDADE EXCLUSIVA (PCD) | Termos identificados: assistente administrativo, administrativo</description>
+      <category>ADMINISTRATIVO</category>
+      <pubDate>Wed, 09 Sep 2026 01:21:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>☆ ADMINISTRATIVO | Auxiliar Societário — Itajaí</title>
       <link>https://itajaionline.com.br/vaga/197013-auxiliar-societario</link>
       <guid isPermaLink="true">https://itajaionline.com.br/vaga/197013-auxiliar-societario</guid>
-      <description>Auxiliar Societário – Alfacon Contabilidade</description>
-      <category>Itajaí</category>
+      <description>[ADMINISTRATIVO] Auxiliar Societário – Alfacon Contabilidade | Termos identificados: contabilidade, contabil</description>
+      <category>ADMINISTRATIVO</category>
       <pubDate>Wed, 09 Sep 2026 01:21:37 +0000</pubDate>
     </item>
     <item>
-      <title>Recepcionista — Itajaí</title>
-      <link>https://itajaionline.com.br/vaga/197004-recepcionista</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197004-recepcionista</guid>
-      <description>📢 VAGA ABERTA | RECEPCIONISTA</description>
-      <category>Itajaí</category>
-      <pubDate>Wed, 09 Sep 2026 01:21:37 +0000</pubDate>
+      <title>☆ ADMINISTRATIVO | AUXILIAR ADMINISTRATIVO — ITAJAÍ</title>
+      <link>https://itajaionline.com.br/vaga/195699-auxiliar-administrativo</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/195699-auxiliar-administrativo</guid>
+      <description>[ADMINISTRATIVO] 📢 VAGA | AUXILIAR ADMINISTRATIVO(A) | Termos identificados: auxiliar administrativo, administrativo</description>
+      <category>ADMINISTRATIVO</category>
+      <pubDate>Wed, 09 Sep 2026 01:21:30 +0000</pubDate>
     </item>
     <item>
-      <title>SOLDADOR /MONTADOR DE ESTRUTURAS METÁLICAS — Itajaí</title>
-      <link>https://itajaionline.com.br/vaga/196994-soldador-montador-de-estruturas-metalicas</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/196994-soldador-montador-de-estruturas-metalicas</guid>
-      <description>VAGA DE EMPREGO – SOLDADOR/MONTADOR</description>
-      <category>Itajaí</category>
-      <pubDate>Wed, 09 Sep 2026 01:21:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>MOTORISTA CAMINHÃO CAÇAMBA DE ENTULHOS — Itajaí</title>
-      <link>https://itajaionline.com.br/vaga/196881-motorista-caminhao-cacamba-de-entulhos</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/196881-motorista-caminhao-cacamba-de-entulhos</guid>
-      <description>VAGA PARA MOTORISTA (CNH C, D ou E)</description>
-      <category>Itajaí</category>
-      <pubDate>Wed, 09 Sep 2026 01:21:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Auxiliar Serviços Gerais — ITAJAI</title>
-      <link>https://itajaionline.com.br/vaga/174330-auxiliar-servicos-gerais</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/174330-auxiliar-servicos-gerais</guid>
-      <description>- salário R$ 1707,75 - assiduidade R$ 143,45 - insalubridade R$ 341,55 - vale alimentação R$ 33,00 por dia trabalhado - cesta básica de R$ 220,00 no cartão do vale alimentação</description>
-      <category>ITAJAI</category>
-      <pubDate>Wed, 09 Sep 2026 01:21:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Zelador — ITAJAI</title>
-      <link>https://itajaionline.com.br/vaga/174329-zelador</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/174329-zelador</guid>
-      <description>- salário R$ 1926,86 - assiduidade R$ 175,34 - periculosidade R$ 578,06 - vale alimentação R$ 33,00 por dia trabalhado</description>
-      <category>ITAJAI</category>
-      <pubDate>Wed, 09 Sep 2026 01:21:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Comprador Sênior — Itajaí,SC</title>
-      <link>https://itajaionline.com.br/vaga/196819-comprador-senior</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/196819-comprador-senior</guid>
-      <description>E-mail: rh@pfiffner.com.br</description>
-      <category>Itajaí,SC</category>
-      <pubDate>Wed, 09 Sep 2026 01:21:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Auxiliar de Limpeza — Itajaí</title>
-      <link>https://itajaionline.com.br/vaga/189067-auxiliar-de-limpeza</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/189067-auxiliar-de-limpeza</guid>
-      <description>Vaga Auxiliar de Limpeza</description>
-      <category>Itajaí</category>
-      <pubDate>Wed, 09 Sep 2026 01:21:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Estoque — Navegantes</title>
-      <link>https://itajaionline.com.br/vaga/196764-estoque</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/196764-estoque</guid>
-      <description>Descrição da Vaga</description>
-      <category>Navegantes</category>
-      <pubDate>Wed, 09 Sep 2026 01:21:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>VENDEDORES(a) interno e externo — ITAJAI</title>
-      <link>https://itajaionline.com.br/vaga/162820-vendedoresa-interno-e-externo</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/162820-vendedoresa-interno-e-externo</guid>
-      <description>VENDEDOR (A) EXTERNO e INTERNO</description>
-      <category>ITAJAI</category>
-      <pubDate>Wed, 09 Sep 2026 01:21:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>AUXILIAR COMERCIAL — ITAJAI</title>
-      <link>https://itajaionline.com.br/vaga/162819-auxiliar-comercial</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/162819-auxiliar-comercial</guid>
-      <description>Vaga: AUXILIAR COMERCIAL</description>
-      <category>ITAJAI</category>
-      <pubDate>Wed, 09 Sep 2026 01:21:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>ATENDENTE E FRENTISTA — ITAJAI</title>
-      <link>https://itajaionline.com.br/vaga/175271-atendente-e-frentista</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/175271-atendente-e-frentista</guid>
-      <description>Feirão de Emprego</description>
-      <category>ITAJAI</category>
-      <pubDate>Wed, 09 Sep 2026 01:21:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cozinheiro — Itajaí</title>
-      <link>https://itajaionline.com.br/vaga/194032-cozinheiro</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/194032-cozinheiro</guid>
-      <description>**👩‍🍳 VAGA ABERTA – COZINHEIRA | TEMPERO &amp; ARTE**</description>
-      <category>Itajaí</category>
-      <pubDate>Wed, 09 Sep 2026 01:21:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Corretor De Imóveis - Captação para Locação — Navegantes</title>
-      <link>https://itajaionline.com.br/vaga/196458-corretor-de-imoveis-captacao-para-locacao</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/196458-corretor-de-imoveis-captacao-para-locacao</guid>
-      <description>VAGA ABERTA | CORRETOR(A) DE CAPTAÇÃO DE IMÓVEIS</description>
-      <category>Navegantes</category>
-      <pubDate>Wed, 09 Sep 2026 01:21:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Analista de Transporte de Cargas Noturno — Itajaí</title>
-      <link>https://itajaionline.com.br/vaga/195751-analista-de-transporte-de-cargas-noturno</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/195751-analista-de-transporte-de-cargas-noturno</guid>
-      <description>Analista de Transporte de Cargas Noturno</description>
-      <category>Itajaí</category>
-      <pubDate>Wed, 09 Sep 2026 01:21:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Analista de Faturamento de Transportes — Itajaí</title>
+      <title>★ FINANCEIRO | Analista de Faturamento de Transportes — Itajaí</title>
       <link>https://itajaionline.com.br/vaga/195749-analista-de-faturamento-de-transportes</link>
       <guid isPermaLink="true">https://itajaionline.com.br/vaga/195749-analista-de-faturamento-de-transportes</guid>
-      <description>Cargo: Analista de Faturamento de Transportes</description>
-      <category>Itajaí</category>
+      <description>[FINANCEIRO] Cargo: Analista de Faturamento de Transportes | Termos identificados: faturamento</description>
+      <category>FINANCEIRO</category>
       <pubDate>Wed, 09 Sep 2026 01:21:40 +0000</pubDate>
     </item>
     <item>
-      <title>Auxiliar de Produção - Bairro Pedreira — NAVG - BAIRRO PEDREIRA</title>
-      <link>https://itajaionline.com.br/vaga/197394-auxiliar-de-producao-bairro-pedreira</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197394-auxiliar-de-producao-bairro-pedreira</guid>
-      <description>Detalhes da vaga:</description>
-      <category>NAVG - BAIRRO PEDREIRA</category>
-      <pubDate>Wed, 09 Sep 2026 11:40:06 +0000</pubDate>
+      <title>☆ ADMINISTRATIVO | Analista de Compras e Estoque E-commerce — Balneário Camboriú</title>
+      <link>https://itajaionline.com.br/vaga/197365-analista-de-compras-e-estoque-e-commerce</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197365-analista-de-compras-e-estoque-e-commerce</guid>
+      <description>[ADMINISTRATIVO] Atribuições relativas a compras e estoque: | Termos identificados: compras</description>
+      <category>ADMINISTRATIVO</category>
+      <pubDate>Wed, 09 Sep 2026 01:21:44 +0000</pubDate>
     </item>
     <item>
-      <title>Montador I — Camboriú - SC</title>
-      <link>https://itajaionline.com.br/vaga/197393-montador-i</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197393-montador-i</guid>
-      <description>Vaga</description>
-      <category>Camboriú - SC</category>
-      <pubDate>Wed, 09 Sep 2026 11:40:06 +0000</pubDate>
+      <title>☆ ADMINISTRATIVO | SECRETÁRIA – ATENDIMENTO E COMERCIAL — Itajaí</title>
+      <link>https://itajaionline.com.br/vaga/197060-secretaria-atendimento-e-comercial</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197060-secretaria-atendimento-e-comercial</guid>
+      <description>[ADMINISTRATIVO] Estamos contratando uma secretária para atuar no | Termos identificados: secretária</description>
+      <category>ADMINISTRATIVO</category>
+      <pubDate>Wed, 09 Sep 2026 01:21:33 +0000</pubDate>
     </item>
     <item>
-      <title>Doméstica — Itajai</title>
-      <link>https://itajaionline.com.br/vaga/197392-domestica</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197392-domestica</guid>
-      <description>Estamos contratando Domestica para trabalhar de Segunda a Sabado proximo a promenac de Itajai com experiência e referencia na área encaminhar seu curriculo para o watzzap 4799900 8392</description>
-      <category>Itajai</category>
-      <pubDate>Wed, 09 Sep 2026 11:40:07 +0000</pubDate>
+      <title>☆ ADMINISTRATIVO | Comprador Sênior — Itajaí,SC</title>
+      <link>https://itajaionline.com.br/vaga/196819-comprador-senior</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/196819-comprador-senior</guid>
+      <description>[ADMINISTRATIVO] E-mail: rh@pfiffner.com.br | Termos identificados: rh</description>
+      <category>ADMINISTRATIVO</category>
+      <pubDate>Wed, 09 Sep 2026 01:21:38 +0000</pubDate>
     </item>
     <item>
-      <title>Manicure e Escovista — Itajai</title>
-      <link>https://itajaionline.com.br/vaga/197391-manicure-e-escovista</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197391-manicure-e-escovista</guid>
-      <description>Estamos contratando Manicure e Escovista para trabalhar na Praia Brava proximo ao Brava Home com experiência e referencia na área encaminhar seu curriculo para o processo seletivo na Agencia contato no Watzzap 47999008392 Viviane</description>
-      <category>Itajai</category>
-      <pubDate>Wed, 09 Sep 2026 11:40:07 +0000</pubDate>
+      <title>TÉCNICO DE INSTALAÇÕES JÚNIOR — Balneário Camboriú / SC</title>
+      <link>https://itajaionline.com.br/vaga/197395-tecnico-de-instalacoes-junior</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197395-tecnico-de-instalacoes-junior</guid>
+      <description>Requisitos:</description>
+      <category>OUTRAS</category>
+      <pubDate>Wed, 09 Sep 2026 14:35:43 +0000</pubDate>
     </item>
     <item>
-      <title>Auxiliar de cabeleireiro — Itajai</title>
-      <link>https://itajaionline.com.br/vaga/197390-auxiliar-de-cabeleireiro</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197390-auxiliar-de-cabeleireiro</guid>
-      <description>Vaga disponível , principais atividades atendimento ao cliente , lavar , escovar , aplicar produtos , auxiliar no andamento do salão , manutenção e limpeza do matérial , e da área comum do salão , salário inicial compatível com a função 2,400(mensal) , Ideal que a pessoa tenha MEI ou faça , o salão fica no bairro cordeiros. Se tiver algumas fotos de seu trabalho , pode mandar , o horário de atendimento é de terça a sábado em horário comercial ( em salão , esporadicamente pode passar desse horário)</description>
-      <category>Itajai</category>
+      <title>Padeiro / Balconista — Itajai</title>
+      <link>https://itajaionline.com.br/vaga/197396-padeiro-balconista</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197396-padeiro-balconista</guid>
+      <description>📢 OPORTUNIDADE DE EMPREGO!</description>
+      <category>OUTRAS</category>
+      <pubDate>Wed, 09 Sep 2026 14:35:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Farmacêutico — Itajaí</title>
+      <link>https://itajaionline.com.br/vaga/197397-farmaceutico</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197397-farmaceutico</guid>
+      <description>Estamos em busca de Farmacêutico</description>
+      <category>OUTRAS</category>
+      <pubDate>Wed, 09 Sep 2026 14:35:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Auxiliar Serviços Gerais — Itajaí</title>
+      <link>https://itajaionline.com.br/vaga/197398-auxiliar-servicos-gerais</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197398-auxiliar-servicos-gerais</guid>
+      <description>VAGA ABERTA — SERVIÇOS GERAIS</description>
+      <category>OUTRAS</category>
+      <pubDate>Wed, 09 Sep 2026 14:35:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>ASSISTENTE TECNICO ELETRICISTA — Itajaí</title>
+      <link>https://itajaionline.com.br/vaga/196332-assistente-tecnico-eletricista</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/196332-assistente-tecnico-eletricista</guid>
+      <description>Vaga: ASSISTENTE TECNICO ELETRICISTA</description>
+      <category>OUTRAS</category>
+      <pubDate>Wed, 09 Sep 2026 14:35:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Auxiliar Operacional — Itajaí</title>
+      <link>https://itajaionline.com.br/vaga/197384-auxiliar-operacional</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197384-auxiliar-operacional</guid>
+      <description>Vaga: Auxiliar de Floricultura (Operacional e Entregas)</description>
+      <category>OUTRAS</category>
+      <pubDate>Wed, 09 Sep 2026 11:40:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>AUXILIAR TÉCNICO EM INFORMATICA — ITAJAI</title>
+      <link>https://itajaionline.com.br/vaga/197387-auxiliar-tecnico-em-informatica</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197387-auxiliar-tecnico-em-informatica</guid>
+      <description>Vaga: Auxiliar de Informática – FIORITEC</description>
+      <category>OUTRAS</category>
+      <pubDate>Wed, 09 Sep 2026 11:40:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cozinheiro(a) — ita</title>
+      <link>https://itajaionline.com.br/vaga/197388-cozinheiroa</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197388-cozinheiroa</guid>
+      <description>Procuramos ​profissionais responsáve​is, pontua​is e com consistência técnica para fortalecer nosso time da cozinha. Se você tem domínio das preparações, organização e gosta de trabalhar com padrão de qualidade, essa vaga é pra você!</description>
+      <category>OUTRAS</category>
       <pubDate>Wed, 09 Sep 2026 11:40:07 +0000</pubDate>
     </item>
     <item>
@@ -579,207 +163,87 @@
       <link>https://itajaionline.com.br/vaga/197389-acougueiro</link>
       <guid isPermaLink="true">https://itajaionline.com.br/vaga/197389-acougueiro</guid>
       <description>VAGA: AÇOUGUEIRO(A) — MERCADO OLIVER</description>
-      <category>ItajaÍ</category>
+      <category>OUTRAS</category>
       <pubDate>Wed, 09 Sep 2026 11:40:07 +0000</pubDate>
     </item>
     <item>
-      <title>Cozinheiro(a) — ita</title>
-      <link>https://itajaionline.com.br/vaga/197388-cozinheiroa</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197388-cozinheiroa</guid>
-      <description>Procuramos ​profissionais responsáve​is, pontua​is e com consistência técnica para fortalecer nosso time da cozinha. Se você tem domínio das preparações, organização e gosta de trabalhar com padrão de qualidade, essa vaga é pra você!</description>
-      <category>ita</category>
+      <title>Auxiliar de cabeleireiro — Itajai</title>
+      <link>https://itajaionline.com.br/vaga/197390-auxiliar-de-cabeleireiro</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197390-auxiliar-de-cabeleireiro</guid>
+      <description>Vaga disponível , principais atividades atendimento ao cliente , lavar , escovar , aplicar produtos , auxiliar no andamento do salão , manutenção e limpeza do matérial , e da área comum do salão , salário inicial compatível com a função 2,400(mensal) , Ideal que a pessoa tenha MEI ou faça , o salão fica no bairro cordeiros. Se tiver algumas fotos de seu trabalho , pode mandar , o horário de atendimento é de terça a sábado em horário comercial ( em salão , esporadicamente pode passar desse horário)</description>
+      <category>OUTRAS</category>
       <pubDate>Wed, 09 Sep 2026 11:40:07 +0000</pubDate>
     </item>
     <item>
-      <title>AUXILIAR TÉCNICO EM INFORMATICA — ITAJAI</title>
-      <link>https://itajaionline.com.br/vaga/197387-auxiliar-tecnico-em-informatica</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197387-auxiliar-tecnico-em-informatica</guid>
-      <description>Vaga: Auxiliar de Informática – FIORITEC</description>
-      <category>ITAJAI</category>
-      <pubDate>Wed, 09 Sep 2026 11:40:08 +0000</pubDate>
+      <title>Manicure e Escovista — Itajai</title>
+      <link>https://itajaionline.com.br/vaga/197391-manicure-e-escovista</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197391-manicure-e-escovista</guid>
+      <description>Estamos contratando Manicure e Escovista para trabalhar na Praia Brava proximo ao Brava Home com experiência e referencia na área encaminhar seu curriculo para o processo seletivo na Agencia contato no Watzzap 47999008392 Viviane</description>
+      <category>OUTRAS</category>
+      <pubDate>Wed, 09 Sep 2026 11:40:07 +0000</pubDate>
     </item>
     <item>
-      <title>Auxiliar Operacional — Itajaí</title>
-      <link>https://itajaionline.com.br/vaga/197384-auxiliar-operacional</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197384-auxiliar-operacional</guid>
-      <description>Vaga: Auxiliar de Floricultura (Operacional e Entregas)</description>
-      <category>Itajaí</category>
-      <pubDate>Wed, 09 Sep 2026 11:40:08 +0000</pubDate>
+      <title>Doméstica — Itajai</title>
+      <link>https://itajaionline.com.br/vaga/197392-domestica</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197392-domestica</guid>
+      <description>Estamos contratando Domestica para trabalhar de Segunda a Sabado proximo a promenac de Itajai com experiência e referencia na área encaminhar seu curriculo para o watzzap 4799900 8392</description>
+      <category>OUTRAS</category>
+      <pubDate>Wed, 09 Sep 2026 11:40:07 +0000</pubDate>
     </item>
     <item>
-      <title>Assitente comercial — Navegantes</title>
-      <link>https://itajaionline.com.br/vaga/197382-assitente-comercial</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197382-assitente-comercial</guid>
-      <description>Inglês intermediário ou avançado</description>
-      <category>Navegantes</category>
-      <pubDate>Wed, 09 Sep 2026 01:21:40 +0000</pubDate>
+      <title>Montador I — Camboriú - SC</title>
+      <link>https://itajaionline.com.br/vaga/197393-montador-i</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197393-montador-i</guid>
+      <description>Vaga</description>
+      <category>OUTRAS</category>
+      <pubDate>Wed, 09 Sep 2026 11:40:06 +0000</pubDate>
     </item>
     <item>
-      <title>vidraçaria — ITAJAI</title>
-      <link>https://itajaionline.com.br/vaga/197381-vidracaria</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197381-vidracaria</guid>
-      <description>Contrato ajudante de produção montador de vidros temperado Serralheiro esquadria de alumínio 47 984350311 vidraçaria demarch</description>
-      <category>ITAJAI</category>
-      <pubDate>Wed, 09 Sep 2026 01:21:41 +0000</pubDate>
+      <title>Auxiliar de Produção - Bairro Pedreira — NAVG - BAIRRO PEDREIRA</title>
+      <link>https://itajaionline.com.br/vaga/197394-auxiliar-de-producao-bairro-pedreira</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197394-auxiliar-de-producao-bairro-pedreira</guid>
+      <description>Detalhes da vaga:</description>
+      <category>OUTRAS</category>
+      <pubDate>Wed, 09 Sep 2026 11:40:06 +0000</pubDate>
     </item>
     <item>
-      <title>Tosador dea animais — ITAJAÍ</title>
-      <link>https://itajaionline.com.br/vaga/197380-tosador-dea-animais</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197380-tosador-dea-animais</guid>
-      <description>Vaga de Emprego — Tosador(a)</description>
-      <category>ITAJAÍ</category>
-      <pubDate>Wed, 09 Sep 2026 01:21:41 +0000</pubDate>
+      <title>Soldador Calderista — Camboriú</title>
+      <link>https://itajaionline.com.br/vaga/197385-soldador-calderista</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197385-soldador-calderista</guid>
+      <description>Soldador com experiência em MIG/MAG - que tenha conhecimento</description>
+      <category>OUTRAS</category>
+      <pubDate>Wed, 09 Sep 2026 11:40:06 +0000</pubDate>
     </item>
     <item>
-      <title>AUXILIAR DE PRODUÇÃO — NAVEGANTES</title>
-      <link>https://itajaionline.com.br/vaga/197379-auxiliar-de-producao</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197379-auxiliar-de-producao</guid>
-      <description>WhatsApp: (47) 99122-3585 - Alfa &amp; Delta - Suporte SC</description>
-      <category>NAVEGANTES</category>
-      <pubDate>Wed, 09 Sep 2026 01:21:41 +0000</pubDate>
+      <title>Ajudante de serviços Gerais — Camboriú</title>
+      <link>https://itajaionline.com.br/vaga/197386-ajudante-de-servicos-gerais</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197386-ajudante-de-servicos-gerais</guid>
+      <description>Empresa localizada em Camboriú proximo a Casetex.</description>
+      <category>OUTRAS</category>
+      <pubDate>Wed, 09 Sep 2026 11:40:06 +0000</pubDate>
     </item>
     <item>
-      <title>CONFERENTE — Itajaí</title>
-      <link>https://itajaionline.com.br/vaga/197378-conferente</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197378-conferente</guid>
-      <description>Descrição</description>
-      <category>Itajaí</category>
-      <pubDate>Wed, 09 Sep 2026 01:21:41 +0000</pubDate>
+      <title>MONITOTA/CUIDADORA DE CÃES — ITAJAI</title>
+      <link>https://itajaionline.com.br/vaga/191984-monitotacuidadora-de-caes</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/191984-monitotacuidadora-de-caes</guid>
+      <description>Vaga – Monitora/Cuidadora de Cães</description>
+      <category>OUTRAS</category>
+      <pubDate>Wed, 09 Sep 2026 11:40:05 +0000</pubDate>
     </item>
     <item>
-      <title>Auxiliar de Logística — Itajaí</title>
-      <link>https://itajaionline.com.br/vaga/197377-auxiliar-de-logistica</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197377-auxiliar-de-logistica</guid>
-      <description>A Termotubos procura por Auxiliar de logística em Itajaí/SC. Criamos oportunidades para as pessoas trilharem o caminho do progresso. Transformamos as dificuldades encontradas pelo caminho em compromisso com o desenvolvimento, agindo com leveza e celebrando nossas conquistas. Temos como propósito “Ser solo fértil para o progresso das pessoas, dos negócios e da comunidade" Estamos à procura de alguém para crescer conosco, então, se você topa esse desafio, confira um pouco mais sobre a vaga:</description>
-      <category>Itajaí</category>
-      <pubDate>Wed, 09 Sep 2026 01:21:41 +0000</pubDate>
+      <title>Auxiliar de A e B — BALNEÁRIO CAMBORIÚ</title>
+      <link>https://itajaionline.com.br/vaga/197356-auxiliar-de-a-e-b</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197356-auxiliar-de-a-e-b</guid>
+      <description>Auxiliar no atendimento aos</description>
+      <category>OUTRAS</category>
+      <pubDate>Wed, 09 Sep 2026 01:21:46 +0000</pubDate>
     </item>
     <item>
-      <title>Auxiliar de cozinha — Itajaí</title>
-      <link>https://itajaionline.com.br/vaga/197376-auxiliar-de-cozinha</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197376-auxiliar-de-cozinha</guid>
-      <description>Auxiliar na produção de salgadinho com máquinas. Limpeza em geral. Falar com Jonatas 47991899927</description>
-      <category>Itajaí</category>
-      <pubDate>Wed, 09 Sep 2026 01:21:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>MOTORISTA CAMINHÃO TOCO — ITAJAI</title>
-      <link>https://itajaionline.com.br/vaga/197375-motorista-caminhao-toco</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197375-motorista-caminhao-toco</guid>
-      <description>Contrata-se motorista para caminhão toco irá realizar entregas para clientes de Itajaí e região, auxiliar nas atividades separação de mercadorias e organizar as cargas. Benefícios: vale alimentação e diária de R$ 85,00 Faixa salarial R$ 3.000,00</description>
-      <category>ITAJAI</category>
-      <pubDate>Wed, 09 Sep 2026 01:21:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>RECEPCIONISTA M/F — ITAJAI</title>
-      <link>https://itajaionline.com.br/vaga/197374-recepcionista-mf</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197374-recepcionista-mf</guid>
-      <description>Procuramos uma pessoa com vontade de aprender, disposta,madura e que goste de trabalhar com o Público.</description>
-      <category>ITAJAI</category>
-      <pubDate>Wed, 09 Sep 2026 01:21:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Auditor noturno — ITAJAI</title>
-      <link>https://itajaionline.com.br/vaga/197373-auditor-noturno</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197373-auditor-noturno</guid>
-      <description>Procuramos uma pessoa com vontade de aprender, disposta,madura e que goste de trabalhar com o Público.</description>
-      <category>ITAJAI</category>
-      <pubDate>Wed, 09 Sep 2026 01:21:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Auxiliar / Assistente Administrativo — Itajaí</title>
-      <link>https://itajaionline.com.br/vaga/197372-auxiliar-assistente-administrativo</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197372-auxiliar-assistente-administrativo</guid>
-      <description>💙 OPORTUNIDADE EXCLUSIVA (PCD)</description>
-      <category>Itajaí</category>
-      <pubDate>Wed, 09 Sep 2026 01:21:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Motorista de Caminhão — Itajai</title>
-      <link>https://itajaionline.com.br/vaga/197371-motorista-de-caminhao</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197371-motorista-de-caminhao</guid>
-      <description>Motorista de Caminhão Caçamba</description>
-      <category>Itajai</category>
-      <pubDate>Wed, 09 Sep 2026 01:21:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>ANALISTA CSC Jr. - Foco em Rescisão — Itajaí, SC</title>
-      <link>https://itajaionline.com.br/vaga/197370-analista-csc-jr-foco-em-rescisao</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197370-analista-csc-jr-foco-em-rescisao</guid>
-      <description>CONHEÇA A EMPRESA CONTRATANTE:</description>
-      <category>Itajaí, SC</category>
-      <pubDate>Wed, 09 Sep 2026 01:21:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Assador profissional e auxiliar — Itajai</title>
-      <link>https://itajaionline.com.br/vaga/197369-assador-profissional-e-auxiliar</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197369-assador-profissional-e-auxiliar</guid>
-      <description>A Domenico’s Gourmet está em busca de ASSADOR PROFISSIONAL e auxiliar de assador para trabalhar como freelancer em eventos!</description>
-      <category>Itajai</category>
-      <pubDate>Wed, 09 Sep 2026 01:21:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Técnico em Mecânica — Itajaí</title>
-      <link>https://itajaionline.com.br/vaga/197367-tecnico-em-mecanica</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197367-tecnico-em-mecanica</guid>
-      <description>Atividades:</description>
-      <category>Itajaí</category>
-      <pubDate>Wed, 09 Sep 2026 01:21:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>SUPERVISOR DE ARMAZÉM PLENO — Itajaí</title>
-      <link>https://itajaionline.com.br/vaga/197366-supervisor-de-armazem-pleno</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197366-supervisor-de-armazem-pleno</guid>
-      <description>🚨 SUPERVISOR DE ARMAZÉM PLENO#061 🚨Espinheiros - Itajaí</description>
-      <category>Itajaí</category>
-      <pubDate>Wed, 09 Sep 2026 01:21:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Analista de Compras e Estoque E-commerce — Balneário Camboriú</title>
-      <link>https://itajaionline.com.br/vaga/197365-analista-de-compras-e-estoque-e-commerce</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197365-analista-de-compras-e-estoque-e-commerce</guid>
-      <description>Atribuições relativas a compras e estoque:</description>
-      <category>Balneário Camboriú</category>
-      <pubDate>Wed, 09 Sep 2026 01:21:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Vendedor (a) — Balneário Camboriú</title>
-      <link>https://itajaionline.com.br/vaga/197364-vendedor-a</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197364-vendedor-a</guid>
-      <description>VAGA: Vendedor(a)</description>
-      <category>Balneário Camboriú</category>
-      <pubDate>Wed, 09 Sep 2026 01:21:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Operador de Caixa — ITAJAI</title>
-      <link>https://itajaionline.com.br/vaga/197363-operador-de-caixa</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197363-operador-de-caixa</guid>
-      <description>Estamos contratando Operador(a) de Caixa para trabalhar em posto de combustível, no período da madrugada.</description>
-      <category>ITAJAI</category>
-      <pubDate>Wed, 09 Sep 2026 01:21:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>OPERADOR(A) DE MAQUINA DE PRODUÇÃO — itajai</title>
-      <link>https://itajaionline.com.br/vaga/197362-operadora-de-maquina-de-producao</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197362-operadora-de-maquina-de-producao</guid>
-      <description>●Salario experiência R$1.930,00 após experiência R$2.090,00</description>
-      <category>itajai</category>
-      <pubDate>Wed, 09 Sep 2026 01:21:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Empregada Domestica - Meio Turno — Itajai</title>
-      <link>https://itajaionline.com.br/vaga/197361-empregada-domestica-meio-turno</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197361-empregada-domestica-meio-turno</guid>
-      <description>Necessário experiência, turno da tarde;</description>
-      <category>Itajai</category>
-      <pubDate>Wed, 09 Sep 2026 01:21:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>AUX. CARGA E DESCARGA — ITAJAI</title>
-      <link>https://itajaionline.com.br/vaga/197360-aux-carga-e-descarga</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197360-aux-carga-e-descarga</guid>
-      <description>Vaga: AUXILIAR DE CARGA E DESCARGA</description>
-      <category>ITAJAI</category>
+      <title>SERVIÇOS GERAIS DE LIMPEZA — BALNEARIO CAMBORIU</title>
+      <link>https://itajaionline.com.br/vaga/197357-servicos-gerais-de-limpeza</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197357-servicos-gerais-de-limpeza</guid>
+      <description>DERTALHES DA VAGA:</description>
+      <category>OUTRAS</category>
       <pubDate>Wed, 09 Sep 2026 01:21:45 +0000</pubDate>
     </item>
     <item>
@@ -787,24 +251,560 @@
       <link>https://itajaionline.com.br/vaga/197359-apontador-de-producao</link>
       <guid isPermaLink="true">https://itajaionline.com.br/vaga/197359-apontador-de-producao</guid>
       <description>●Salario experiência R$1.930,00 após experiência R$2.090,00</description>
-      <category>ITAJAI</category>
+      <category>OUTRAS</category>
       <pubDate>Wed, 09 Sep 2026 01:21:45 +0000</pubDate>
     </item>
     <item>
-      <title>SERVIÇOS GERAIS DE LIMPEZA — BALNEARIO CAMBORIU</title>
-      <link>https://itajaionline.com.br/vaga/197357-servicos-gerais-de-limpeza</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197357-servicos-gerais-de-limpeza</guid>
-      <description>DERTALHES DA VAGA:</description>
-      <category>BALNEARIO CAMBORIU</category>
+      <title>AUX. CARGA E DESCARGA — ITAJAI</title>
+      <link>https://itajaionline.com.br/vaga/197360-aux-carga-e-descarga</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197360-aux-carga-e-descarga</guid>
+      <description>Vaga: AUXILIAR DE CARGA E DESCARGA</description>
+      <category>OUTRAS</category>
       <pubDate>Wed, 09 Sep 2026 01:21:45 +0000</pubDate>
     </item>
     <item>
-      <title>Auxiliar de A e B — BALNEÁRIO CAMBORIÚ</title>
-      <link>https://itajaionline.com.br/vaga/197356-auxiliar-de-a-e-b</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197356-auxiliar-de-a-e-b</guid>
-      <description>Auxiliar no atendimento aos</description>
-      <category>BALNEÁRIO CAMBORIÚ</category>
-      <pubDate>Wed, 09 Sep 2026 01:21:46 +0000</pubDate>
+      <title>Empregada Domestica - Meio Turno — Itajai</title>
+      <link>https://itajaionline.com.br/vaga/197361-empregada-domestica-meio-turno</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197361-empregada-domestica-meio-turno</guid>
+      <description>Necessário experiência, turno da tarde;</description>
+      <category>OUTRAS</category>
+      <pubDate>Wed, 09 Sep 2026 01:21:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>OPERADOR(A) DE MAQUINA DE PRODUÇÃO — itajai</title>
+      <link>https://itajaionline.com.br/vaga/197362-operadora-de-maquina-de-producao</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197362-operadora-de-maquina-de-producao</guid>
+      <description>●Salario experiência R$1.930,00 após experiência R$2.090,00</description>
+      <category>OUTRAS</category>
+      <pubDate>Wed, 09 Sep 2026 01:21:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Operador de Caixa — ITAJAI</title>
+      <link>https://itajaionline.com.br/vaga/197363-operador-de-caixa</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197363-operador-de-caixa</guid>
+      <description>Estamos contratando Operador(a) de Caixa para trabalhar em posto de combustível, no período da madrugada.</description>
+      <category>OUTRAS</category>
+      <pubDate>Wed, 09 Sep 2026 01:21:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vendedor (a) — Balneário Camboriú</title>
+      <link>https://itajaionline.com.br/vaga/197364-vendedor-a</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197364-vendedor-a</guid>
+      <description>VAGA: Vendedor(a)</description>
+      <category>OUTRAS</category>
+      <pubDate>Wed, 09 Sep 2026 01:21:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>SUPERVISOR DE ARMAZÉM PLENO — Itajaí</title>
+      <link>https://itajaionline.com.br/vaga/197366-supervisor-de-armazem-pleno</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197366-supervisor-de-armazem-pleno</guid>
+      <description>🚨 SUPERVISOR DE ARMAZÉM PLENO#061 🚨Espinheiros - Itajaí</description>
+      <category>OUTRAS</category>
+      <pubDate>Wed, 09 Sep 2026 01:21:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Técnico em Mecânica — Itajaí</title>
+      <link>https://itajaionline.com.br/vaga/197367-tecnico-em-mecanica</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197367-tecnico-em-mecanica</guid>
+      <description>Atividades:</description>
+      <category>OUTRAS</category>
+      <pubDate>Wed, 09 Sep 2026 01:21:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Assador profissional e auxiliar — Itajai</title>
+      <link>https://itajaionline.com.br/vaga/197369-assador-profissional-e-auxiliar</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197369-assador-profissional-e-auxiliar</guid>
+      <description>A Domenico’s Gourmet está em busca de ASSADOR PROFISSIONAL e auxiliar de assador para trabalhar como freelancer em eventos!</description>
+      <category>OUTRAS</category>
+      <pubDate>Wed, 09 Sep 2026 01:21:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>ANALISTA CSC Jr. - Foco em Rescisão — Itajaí, SC</title>
+      <link>https://itajaionline.com.br/vaga/197370-analista-csc-jr-foco-em-rescisao</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197370-analista-csc-jr-foco-em-rescisao</guid>
+      <description>CONHEÇA A EMPRESA CONTRATANTE:</description>
+      <category>OUTRAS</category>
+      <pubDate>Wed, 09 Sep 2026 01:21:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Motorista de Caminhão — Itajai</title>
+      <link>https://itajaionline.com.br/vaga/197371-motorista-de-caminhao</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197371-motorista-de-caminhao</guid>
+      <description>Motorista de Caminhão Caçamba</description>
+      <category>OUTRAS</category>
+      <pubDate>Wed, 09 Sep 2026 01:21:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Auditor noturno — ITAJAI</title>
+      <link>https://itajaionline.com.br/vaga/197373-auditor-noturno</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197373-auditor-noturno</guid>
+      <description>Procuramos uma pessoa com vontade de aprender, disposta,madura e que goste de trabalhar com o Público.</description>
+      <category>OUTRAS</category>
+      <pubDate>Wed, 09 Sep 2026 01:21:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>RECEPCIONISTA M/F — ITAJAI</title>
+      <link>https://itajaionline.com.br/vaga/197374-recepcionista-mf</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197374-recepcionista-mf</guid>
+      <description>Procuramos uma pessoa com vontade de aprender, disposta,madura e que goste de trabalhar com o Público.</description>
+      <category>OUTRAS</category>
+      <pubDate>Wed, 09 Sep 2026 01:21:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>MOTORISTA CAMINHÃO TOCO — ITAJAI</title>
+      <link>https://itajaionline.com.br/vaga/197375-motorista-caminhao-toco</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197375-motorista-caminhao-toco</guid>
+      <description>Contrata-se motorista para caminhão toco irá realizar entregas para clientes de Itajaí e região, auxiliar nas atividades separação de mercadorias e organizar as cargas. Benefícios: vale alimentação e diária de R$ 85,00 Faixa salarial R$ 3.000,00</description>
+      <category>OUTRAS</category>
+      <pubDate>Wed, 09 Sep 2026 01:21:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Auxiliar de cozinha — Itajaí</title>
+      <link>https://itajaionline.com.br/vaga/197376-auxiliar-de-cozinha</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197376-auxiliar-de-cozinha</guid>
+      <description>Auxiliar na produção de salgadinho com máquinas. Limpeza em geral. Falar com Jonatas 47991899927</description>
+      <category>OUTRAS</category>
+      <pubDate>Wed, 09 Sep 2026 01:21:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Auxiliar de Logística — Itajaí</title>
+      <link>https://itajaionline.com.br/vaga/197377-auxiliar-de-logistica</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197377-auxiliar-de-logistica</guid>
+      <description>A Termotubos procura por Auxiliar de logística em Itajaí/SC. Criamos oportunidades para as pessoas trilharem o caminho do progresso. Transformamos as dificuldades encontradas pelo caminho em compromisso com o desenvolvimento, agindo com leveza e celebrando nossas conquistas. Temos como propósito “Ser solo fértil para o progresso das pessoas, dos negócios e da comunidade" Estamos à procura de alguém para crescer conosco, então, se você topa esse desafio, confira um pouco mais sobre a vaga:</description>
+      <category>OUTRAS</category>
+      <pubDate>Wed, 09 Sep 2026 01:21:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>CONFERENTE — Itajaí</title>
+      <link>https://itajaionline.com.br/vaga/197378-conferente</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197378-conferente</guid>
+      <description>Descrição</description>
+      <category>OUTRAS</category>
+      <pubDate>Wed, 09 Sep 2026 01:21:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>AUXILIAR DE PRODUÇÃO — NAVEGANTES</title>
+      <link>https://itajaionline.com.br/vaga/197379-auxiliar-de-producao</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197379-auxiliar-de-producao</guid>
+      <description>WhatsApp: (47) 99122-3585 - Alfa &amp; Delta - Suporte SC</description>
+      <category>OUTRAS</category>
+      <pubDate>Wed, 09 Sep 2026 01:21:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tosador dea animais — ITAJAÍ</title>
+      <link>https://itajaionline.com.br/vaga/197380-tosador-dea-animais</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197380-tosador-dea-animais</guid>
+      <description>Vaga de Emprego — Tosador(a)</description>
+      <category>OUTRAS</category>
+      <pubDate>Wed, 09 Sep 2026 01:21:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>vidraçaria — ITAJAI</title>
+      <link>https://itajaionline.com.br/vaga/197381-vidracaria</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197381-vidracaria</guid>
+      <description>Contrato ajudante de produção montador de vidros temperado Serralheiro esquadria de alumínio 47 984350311 vidraçaria demarch</description>
+      <category>OUTRAS</category>
+      <pubDate>Wed, 09 Sep 2026 01:21:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Assitente comercial — Navegantes</title>
+      <link>https://itajaionline.com.br/vaga/197382-assitente-comercial</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197382-assitente-comercial</guid>
+      <description>Inglês intermediário ou avançado</description>
+      <category>OUTRAS</category>
+      <pubDate>Wed, 09 Sep 2026 01:21:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Analista de Transporte de Cargas Noturno — Itajaí</title>
+      <link>https://itajaionline.com.br/vaga/195751-analista-de-transporte-de-cargas-noturno</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/195751-analista-de-transporte-de-cargas-noturno</guid>
+      <description>Analista de Transporte de Cargas Noturno</description>
+      <category>OUTRAS</category>
+      <pubDate>Wed, 09 Sep 2026 01:21:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Corretor De Imóveis - Captação para Locação — Navegantes</title>
+      <link>https://itajaionline.com.br/vaga/196458-corretor-de-imoveis-captacao-para-locacao</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/196458-corretor-de-imoveis-captacao-para-locacao</guid>
+      <description>VAGA ABERTA | CORRETOR(A) DE CAPTAÇÃO DE IMÓVEIS</description>
+      <category>OUTRAS</category>
+      <pubDate>Wed, 09 Sep 2026 01:21:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cozinheiro — Itajaí</title>
+      <link>https://itajaionline.com.br/vaga/194032-cozinheiro</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/194032-cozinheiro</guid>
+      <description>**👩‍🍳 VAGA ABERTA – COZINHEIRA | TEMPERO &amp; ARTE**</description>
+      <category>OUTRAS</category>
+      <pubDate>Wed, 09 Sep 2026 01:21:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>ATENDENTE E FRENTISTA — ITAJAI</title>
+      <link>https://itajaionline.com.br/vaga/175271-atendente-e-frentista</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/175271-atendente-e-frentista</guid>
+      <description>Feirão de Emprego</description>
+      <category>OUTRAS</category>
+      <pubDate>Wed, 09 Sep 2026 01:21:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>AUXILIAR COMERCIAL — ITAJAI</title>
+      <link>https://itajaionline.com.br/vaga/162819-auxiliar-comercial</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/162819-auxiliar-comercial</guid>
+      <description>Vaga: AUXILIAR COMERCIAL</description>
+      <category>OUTRAS</category>
+      <pubDate>Wed, 09 Sep 2026 01:21:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>VENDEDORES(a) interno e externo — ITAJAI</title>
+      <link>https://itajaionline.com.br/vaga/162820-vendedoresa-interno-e-externo</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/162820-vendedoresa-interno-e-externo</guid>
+      <description>VENDEDOR (A) EXTERNO e INTERNO</description>
+      <category>OUTRAS</category>
+      <pubDate>Wed, 09 Sep 2026 01:21:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Estoque — Navegantes</title>
+      <link>https://itajaionline.com.br/vaga/196764-estoque</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/196764-estoque</guid>
+      <description>Descrição da Vaga</description>
+      <category>OUTRAS</category>
+      <pubDate>Wed, 09 Sep 2026 01:21:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Auxiliar de Limpeza — Itajaí</title>
+      <link>https://itajaionline.com.br/vaga/189067-auxiliar-de-limpeza</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/189067-auxiliar-de-limpeza</guid>
+      <description>Vaga Auxiliar de Limpeza</description>
+      <category>OUTRAS</category>
+      <pubDate>Wed, 09 Sep 2026 01:21:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zelador — ITAJAI</title>
+      <link>https://itajaionline.com.br/vaga/174329-zelador</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/174329-zelador</guid>
+      <description>- salário R$ 1926,86 - assiduidade R$ 175,34 - periculosidade R$ 578,06 - vale alimentação R$ 33,00 por dia trabalhado</description>
+      <category>OUTRAS</category>
+      <pubDate>Wed, 09 Sep 2026 01:21:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Auxiliar Serviços Gerais — ITAJAI</title>
+      <link>https://itajaionline.com.br/vaga/174330-auxiliar-servicos-gerais</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/174330-auxiliar-servicos-gerais</guid>
+      <description>- salário R$ 1707,75 - assiduidade R$ 143,45 - insalubridade R$ 341,55 - vale alimentação R$ 33,00 por dia trabalhado - cesta básica de R$ 220,00 no cartão do vale alimentação</description>
+      <category>OUTRAS</category>
+      <pubDate>Wed, 09 Sep 2026 01:21:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>MOTORISTA CAMINHÃO CAÇAMBA DE ENTULHOS — Itajaí</title>
+      <link>https://itajaionline.com.br/vaga/196881-motorista-caminhao-cacamba-de-entulhos</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/196881-motorista-caminhao-cacamba-de-entulhos</guid>
+      <description>VAGA PARA MOTORISTA (CNH C, D ou E)</description>
+      <category>OUTRAS</category>
+      <pubDate>Wed, 09 Sep 2026 01:21:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>SOLDADOR /MONTADOR DE ESTRUTURAS METÁLICAS — Itajaí</title>
+      <link>https://itajaionline.com.br/vaga/196994-soldador-montador-de-estruturas-metalicas</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/196994-soldador-montador-de-estruturas-metalicas</guid>
+      <description>VAGA DE EMPREGO – SOLDADOR/MONTADOR</description>
+      <category>OUTRAS</category>
+      <pubDate>Wed, 09 Sep 2026 01:21:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Recepcionista — Itajaí</title>
+      <link>https://itajaionline.com.br/vaga/197004-recepcionista</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197004-recepcionista</guid>
+      <description>📢 VAGA ABERTA | RECEPCIONISTA</description>
+      <category>OUTRAS</category>
+      <pubDate>Wed, 09 Sep 2026 01:21:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Operador de corte e dobra cnc — Camboriu</title>
+      <link>https://itajaionline.com.br/vaga/196975-operador-de-corte-e-dobra-cnc</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/196975-operador-de-corte-e-dobra-cnc</guid>
+      <description>Busco operador de corte e dobra cnc com experiencia, trabalhamos com fabricação de maquinas em aço inox. Salário incial cerca de R$ 4.600,00. Camboriu SC, Bairro Rio do Meio, Rua do Túnel, 301.</description>
+      <category>OUTRAS</category>
+      <pubDate>Wed, 09 Sep 2026 01:21:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Aulixiar de produção de tapetes — itajai</title>
+      <link>https://itajaionline.com.br/vaga/179537-aulixiar-de-producao-de-tapetes</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/179537-aulixiar-de-producao-de-tapetes</guid>
+      <description>Vaga: Aulixiar de produção de tapetes</description>
+      <category>OUTRAS</category>
+      <pubDate>Wed, 09 Sep 2026 01:21:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>ATENDENTE OPERACIONAL DE RONDA NOTURNA E MONITORAMENTO — Itajaí</title>
+      <link>https://itajaionline.com.br/vaga/197015-atendente-operacional-de-ronda-noturna-e-monitoramento</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197015-atendente-operacional-de-ronda-noturna-e-monitoramento</guid>
+      <description>ESTAMOS CONTRATANDO ATENDENTE OPERACIONAL DE RONDA NOTURNA E MONITORAMENTO</description>
+      <category>OUTRAS</category>
+      <pubDate>Wed, 09 Sep 2026 01:21:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Atendente | Sorbetto Café ☕🍨 — itajai</title>
+      <link>https://itajaionline.com.br/vaga/193376-atendente-sorbetto-cafe</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/193376-atendente-sorbetto-cafe</guid>
+      <description>📢 Vaga de Emprego – Atendente | Sorbetto Café ☕🍨</description>
+      <category>OUTRAS</category>
+      <pubDate>Wed, 09 Sep 2026 01:21:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>SERVIÇOS GERAIS: ARTEFATOS DE CIMENTO ROCHA CONTRATA IMEDIATO — ITAJAÍ</title>
+      <link>https://itajaionline.com.br/vaga/196634-servicos-gerais-artefatos-de-cimento-rocha-contrata-imediato</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/196634-servicos-gerais-artefatos-de-cimento-rocha-contrata-imediato</guid>
+      <description>SERVIÇOS GERAIS I - CONTRATAÇÃO IMEDIATA</description>
+      <category>OUTRAS</category>
+      <pubDate>Wed, 09 Sep 2026 01:21:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Aux Adm Top das Galáxias — Itajaí</title>
+      <link>https://itajaionline.com.br/vaga/197045-aux-adm-top-das-galaxias</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197045-aux-adm-top-das-galaxias</guid>
+      <description>E aí...</description>
+      <category>OUTRAS</category>
+      <pubDate>Wed, 09 Sep 2026 01:21:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Auxiliar Logistico — Itajaí</title>
+      <link>https://itajaionline.com.br/vaga/197046-auxiliar-logistico</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197046-auxiliar-logistico</guid>
+      <description>📢 Estamos contratando: Auxiliar de Logística I (03 vagas)</description>
+      <category>OUTRAS</category>
+      <pubDate>Wed, 09 Sep 2026 01:21:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Assistente de Logística - PCE (01 vaga) — Itajaí</title>
+      <link>https://itajaionline.com.br/vaga/197047-assistente-de-logistica-pce-01-vaga</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197047-assistente-de-logistica-pce-01-vaga</guid>
+      <description>📢 Estamos contratando: Assistente de Logística - PCE (01 vaga)</description>
+      <category>OUTRAS</category>
+      <pubDate>Wed, 09 Sep 2026 01:21:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Conferente — Itajaí</title>
+      <link>https://itajaionline.com.br/vaga/197049-conferente</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197049-conferente</guid>
+      <description>📢 Estamos contratando: CONFERENTE I (03 vagas)</description>
+      <category>OUTRAS</category>
+      <pubDate>Wed, 09 Sep 2026 01:21:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>ESTOQUISTA I — ITAJAI</title>
+      <link>https://itajaionline.com.br/vaga/197053-estoquista-i</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197053-estoquista-i</guid>
+      <description>📢</description>
+      <category>OUTRAS</category>
+      <pubDate>Wed, 09 Sep 2026 01:21:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>ALMOXARIFE — ITAJAI</title>
+      <link>https://itajaionline.com.br/vaga/197059-almoxarife</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197059-almoxarife</guid>
+      <description>EMPRESA DO RAMO DE IMPLEMENTOS CONTRATA:</description>
+      <category>OUTRAS</category>
+      <pubDate>Wed, 09 Sep 2026 01:21:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Operador de Paleteira — Itajaí-SC</title>
+      <link>https://itajaionline.com.br/vaga/194188-operador-de-paleteira</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/194188-operador-de-paleteira</guid>
+      <description>A MHunting está selecionando</description>
+      <category>OUTRAS</category>
+      <pubDate>Wed, 09 Sep 2026 01:21:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>MecÂnico — Itajaí</title>
+      <link>https://itajaionline.com.br/vaga/197087-mecanico</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197087-mecanico</guid>
+      <description>Estamos contratando Mecânico / Auxiliar de Mecânico</description>
+      <category>OUTRAS</category>
+      <pubDate>Wed, 09 Sep 2026 01:21:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Comercial — ITAJAI</title>
+      <link>https://itajaionline.com.br/vaga/162371-comercial</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/162371-comercial</guid>
+      <description>Empresa: America Maritime Services !!</description>
+      <category>OUTRAS</category>
+      <pubDate>Wed, 09 Sep 2026 01:21:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>🚛 VAGA: SDR — SALES DEVELOPMENT REPRESENTATIVE — Itajaí/SC</title>
+      <link>https://itajaionline.com.br/vaga/197105-vaga-sdr-sales-development-representative</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197105-vaga-sdr-sales-development-representative</guid>
+      <description>Empresa:</description>
+      <category>OUTRAS</category>
+      <pubDate>Wed, 09 Sep 2026 01:21:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Costureiro (a) — Balneario Camboriu</title>
+      <link>https://itajaionline.com.br/vaga/195389-costureiro-a</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/195389-costureiro-a</guid>
+      <description>VAGA DE COSTUREIRO (a)</description>
+      <category>OUTRAS</category>
+      <pubDate>Wed, 09 Sep 2026 01:21:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Operador de Maquina de Bordado — Balneario Camboriu</title>
+      <link>https://itajaionline.com.br/vaga/195390-operador-de-maquina-de-bordado</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/195390-operador-de-maquina-de-bordado</guid>
+      <description>OPERADOR DE MAQUINA DE BORDADO</description>
+      <category>OUTRAS</category>
+      <pubDate>Wed, 09 Sep 2026 01:21:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Auxiliar de Produção — BALNEARIO CAMBORIU</title>
+      <link>https://itajaionline.com.br/vaga/183494-auxiliar-de-producao</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/183494-auxiliar-de-producao</guid>
+      <description>Auxiliar</description>
+      <category>OUTRAS</category>
+      <pubDate>Wed, 09 Sep 2026 01:21:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Montador de moveis sob medida — Itajaí</title>
+      <link>https://itajaionline.com.br/vaga/194986-montador-de-moveis-sob-medida</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/194986-montador-de-moveis-sob-medida</guid>
+      <description>Vaga: montador e ajudante de montagem</description>
+      <category>OUTRAS</category>
+      <pubDate>Wed, 09 Sep 2026 01:21:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>ASSISTENTE COMERCIAL — Itajaí</title>
+      <link>https://itajaionline.com.br/vaga/197117-assistente-comercial</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197117-assistente-comercial</guid>
+      <description>ASSISTENTE COMERCIAL</description>
+      <category>OUTRAS</category>
+      <pubDate>Wed, 09 Sep 2026 01:21:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Técnico de Manutenção - PFIFFNER — Itajaí, SC</title>
+      <link>https://itajaionline.com.br/vaga/197155-tecnico-de-manutencao-pfiffner</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197155-tecnico-de-manutencao-pfiffner</guid>
+      <description>Cargo:</description>
+      <category>OUTRAS</category>
+      <pubDate>Wed, 09 Sep 2026 01:21:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Auxiliar de Manutenção - PFIFFNER — Itajaí, SC</title>
+      <link>https://itajaionline.com.br/vaga/197154-auxiliar-de-manutencao-pfiffner</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197154-auxiliar-de-manutencao-pfiffner</guid>
+      <description>Cargo:</description>
+      <category>OUTRAS</category>
+      <pubDate>Wed, 09 Sep 2026 01:21:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Instalador Automotivo — itajai</title>
+      <link>https://itajaionline.com.br/vaga/194957-instalador-automotivo</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/194957-instalador-automotivo</guid>
+      <description>Descrição da função:</description>
+      <category>OUTRAS</category>
+      <pubDate>Wed, 09 Sep 2026 01:21:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Comercial — Itajaí</title>
+      <link>https://itajaionline.com.br/vaga/197197-comercial</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197197-comercial</guid>
+      <description>VAGA | SETOR COMERCIAL</description>
+      <category>OUTRAS</category>
+      <pubDate>Wed, 09 Sep 2026 01:21:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Auxiliar de Portaria — Itajaí</title>
+      <link>https://itajaionline.com.br/vaga/197229-auxiliar-de-portaria</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197229-auxiliar-de-portaria</guid>
+      <description>A MHunting está selecionando Auxiliar de Portaria para uma empresa de referência na cidade de Itajaí/SC (Bairro Murta) 🚀🎯</description>
+      <category>OUTRAS</category>
+      <pubDate>Wed, 09 Sep 2026 01:21:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>auxiliar de cozinha — Itajaí</title>
+      <link>https://itajaionline.com.br/vaga/196079-auxiliar-de-cozinha</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/196079-auxiliar-de-cozinha</guid>
+      <description>VAGA CLT: AUXILIAR DE COZINHA – JUNGLES BURGER</description>
+      <category>OUTRAS</category>
+      <pubDate>Wed, 09 Sep 2026 01:21:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>AUXILIAR DE PRODUÇÃO ( CONFECÇÃO DE ROUPAS) — ITAJAÍ</title>
+      <link>https://itajaionline.com.br/vaga/197267-auxiliar-de-producao-confeccao-de-roupas</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197267-auxiliar-de-producao-confeccao-de-roupas</guid>
+      <description>Contratamos para trabalhar em produção de confecção de roupas, bairro Dom Bosco, salario inicial 1.930,00 + 200,00 de bônus, horário das 07:30 as 12:00 das 13:00 as 17:17 de segunda a sexta feira, interessadas chamar Douglas via WhatsApp 47 996467704.</description>
+      <category>OUTRAS</category>
+      <pubDate>Wed, 09 Sep 2026 01:21:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Analsita de E-Commerce — Navegantes</title>
+      <link>https://itajaionline.com.br/vaga/197284-analsita-de-e-commerce</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197284-analsita-de-e-commerce</guid>
+      <description>Analista de E-Commerce</description>
+      <category>OUTRAS</category>
+      <pubDate>Wed, 09 Sep 2026 01:21:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Aux. de Manutenção — itajaí</title>
+      <link>https://itajaionline.com.br/vaga/197294-aux-de-manutencao</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197294-aux-de-manutencao</guid>
+      <description>VAGA – AUXILIAR DE OFICINA/MANUTENÇÃO</description>
+      <category>OUTRAS</category>
+      <pubDate>Wed, 09 Sep 2026 01:21:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Técnico instalador/manutenção — itajaí</title>
+      <link>https://itajaionline.com.br/vaga/197293-tecnico-instaladormanutencao</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197293-tecnico-instaladormanutencao</guid>
+      <description>VAGA – TÉCNICO INSTALADOR E DE MANUTENÇÃO</description>
+      <category>OUTRAS</category>
+      <pubDate>Wed, 09 Sep 2026 01:21:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>AUXILIAR DE CARREGAMENTO — Itajaí</title>
+      <link>https://itajaionline.com.br/vaga/180693-auxiliar-de-carregamento</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/180693-auxiliar-de-carregamento</guid>
+      <description>VAGA: AUXILIAR DE CARREGAMENTO – ITAJAÍ E REGIÃO</description>
+      <category>OUTRAS</category>
+      <pubDate>Wed, 09 Sep 2026 01:21:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Motorista de entrega — ITAJAI</title>
+      <link>https://itajaionline.com.br/vaga/162048-motorista-de-entrega</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/162048-motorista-de-entrega</guid>
+      <description>VAGA: MOTORISTA DE ENTREGA – ITAJAÍ E REGIÃO</description>
+      <category>OUTRAS</category>
+      <pubDate>Wed, 09 Sep 2026 01:21:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>AUX. DOCUMENTAL JR - EXPORTAÇÃO — Itajaí</title>
+      <link>https://itajaionline.com.br/vaga/195618-aux-documental-jr-exportacao</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/195618-aux-documental-jr-exportacao</guid>
+      <description>VAGA P/ AUX. DOCUMENTAL JR - EXPORTAÇÃO - Inicial entre R$ 1.800,00 - 2.000,00 (Benefícios UNIMED/ UNIODONTO/ CONVÊNIO C/ FARMÁCIA + RESTAURANTES)</description>
+      <category>OUTRAS</category>
+      <pubDate>Wed, 09 Sep 2026 01:21:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>AUXILIAR DE ESTOQUE I — Espinheiros - Itajaí SC</title>
+      <link>https://itajaionline.com.br/vaga/193929-auxiliar-de-estoque-i</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/193929-auxiliar-de-estoque-i</guid>
+      <description>Estoquista</description>
+      <category>OUTRAS</category>
+      <pubDate>Wed, 09 Sep 2026 01:21:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>AUXILIAR DE OPERAÇÃO I — Espinheiros - Itajaí SC</title>
+      <link>https://itajaionline.com.br/vaga/196518-auxiliar-de-operacao-i</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/196518-auxiliar-de-operacao-i</guid>
+      <description>📢 VAGA: AUXILIAR DE OPERAÇÃO 1 – SEPARAÇÃO</description>
+      <category>OUTRAS</category>
+      <pubDate>Wed, 09 Sep 2026 01:21:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Desenvolvedor(a) Pleno – PHP / Laravel / Vue.js — Itajaí</title>
+      <link>https://itajaionline.com.br/vaga/196600-desenvolvedora-pleno-php-laravel-vue-js</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/196600-desenvolvedora-pleno-php-laravel-vue-js</guid>
+      <description>Vaga: Desenvolvedor(a) Pleno – PHP / Laravel / Vue.js</description>
+      <category>OUTRAS</category>
+      <pubDate>Wed, 09 Sep 2026 01:21:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
