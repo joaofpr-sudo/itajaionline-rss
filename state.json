@@ -61,6 +61,21 @@
       "fiscal"
     ]
   },
+  "https://itajaionline.com.br/vaga/197766-assistente-administrativo-rh-e-frota": {
+    "url": "https://itajaionline.com.br/vaga/197766-assistente-administrativo-rh-e-frota",
+    "list_title": "ASSISTENTE ADMINISTRATIVO – RH E FROTA ITAJAI Hoje",
+    "title": "ASSISTENTE ADMINISTRATIVO – RH E FROTA",
+    "city": "ITAJAI",
+    "description": "ASSISTENTE ADMINISTRATIVO – RH E FROTA",
+    "published_at": "2026-09-15T20:03:33.942748+00:00",
+    "priority_score": 235,
+    "category": "ADMINISTRATIVO",
+    "matches": [
+      "assistente administrativo",
+      "administrativo",
+      "rh"
+    ]
+  },
   "https://itajaionline.com.br/vaga/197440-assistente-financeiro": {
     "url": "https://itajaionline.com.br/vaga/197440-assistente-financeiro",
     "list_title": "ASSISTENTE FINANCEIRO Balneário Pi&ccedi(...) Hoje",
@@ -73,6 +88,20 @@
     "matches": [
       "financeiro",
       "assistente financeiro"
+    ]
+  },
+  "https://itajaionline.com.br/vaga/197789-analista-administrativo-contratos": {
+    "url": "https://itajaionline.com.br/vaga/197789-analista-administrativo-contratos",
+    "list_title": "Analista Administrativo - Contratos Itajaí Hoje",
+    "title": "Analista Administrativo - Contratos",
+    "city": "Itajaí",
+    "description": "📢 ANALISTA ADMINISTRATIVO – CONTRATOS",
+    "published_at": "2026-09-15T20:03:29.647373+00:00",
+    "priority_score": 180,
+    "category": "ADMINISTRATIVO",
+    "matches": [
+      "analista administrativo",
+      "administrativo"
     ]
   },
   "https://itajaionline.com.br/vaga/197704-assistente-administrativo-logistica": {
@@ -157,6 +186,48 @@
     "matches": [
       "contabilidade",
       "contabil"
+    ]
+  },
+  "https://itajaionline.com.br/vaga/197774-auxiliar-administrativo-pcd": {
+    "url": "https://itajaionline.com.br/vaga/197774-auxiliar-administrativo-pcd",
+    "list_title": "AUXILIAR ADMINISTRATIVO - PCD Itajaí Hoje",
+    "title": "AUXILIAR ADMINISTRATIVO - PCD",
+    "city": "Itajaí",
+    "description": "Contrata-se:",
+    "published_at": "2026-09-15T20:03:32.488077+00:00",
+    "priority_score": 175,
+    "category": "ADMINISTRATIVO",
+    "matches": [
+      "auxiliar administrativo",
+      "administrativo"
+    ]
+  },
+  "https://itajaionline.com.br/vaga/197787-auxiliar-admnistrativo": {
+    "url": "https://itajaionline.com.br/vaga/197787-auxiliar-admnistrativo",
+    "list_title": "Auxiliar Admnistrativo Balneário Camboriu Hoje",
+    "title": "Auxiliar Admnistrativo",
+    "city": "Balneário Camboriu",
+    "description": "AUXILIAR ADMINISTRATIVO",
+    "published_at": "2026-09-15T20:03:30.055047+00:00",
+    "priority_score": 175,
+    "category": "ADMINISTRATIVO",
+    "matches": [
+      "auxiliar administrativo",
+      "administrativo"
+    ]
+  },
+  "https://itajaionline.com.br/vaga/197795-aux-administrativo": {
+    "url": "https://itajaionline.com.br/vaga/197795-aux-administrativo",
+    "list_title": "AUX. ADMINISTRATIVO Itajaí Hoje",
+    "title": "AUX. ADMINISTRATIVO",
+    "city": "Itajaí",
+    "description": "Vaga: Auxiliar Administrativo",
+    "published_at": "2026-09-15T20:03:29.199887+00:00",
+    "priority_score": 175,
+    "category": "ADMINISTRATIVO",
+    "matches": [
+      "auxiliar administrativo",
+      "administrativo"
     ]
   },
   "https://itajaionline.com.br/vaga/197719-auxiliar-administrativo": {
@@ -297,6 +368,19 @@
     "matches": [
       "contábil",
       "fiscal"
+    ]
+  },
+  "https://itajaionline.com.br/vaga/197783-assistente-administrativo-para-faturamento": {
+    "url": "https://itajaionline.com.br/vaga/197783-assistente-administrativo-para-faturamento",
+    "list_title": "ASSISTENTE ADMINISTRATIVO PARA FATURAMENTO BALNEARIO CAMBORIU Hoje",
+    "title": "ASSISTENTE ADMINISTRATIVO PARA FATURAMENTO",
+    "city": "BALNEARIO CAMBORIU",
+    "description": "Entre em contato com 3 IRMAOS DISTRIBUIDORA:",
+    "published_at": "2026-09-15T20:03:30.860137+00:00",
+    "priority_score": 120,
+    "category": "FINANCEIRO",
+    "matches": [
+      "faturamento"
     ]
   },
   "https://itajaionline.com.br/vaga/197685-assistente-de-faturamento": {
@@ -559,6 +643,19 @@
       "departamento pessoal"
     ]
   },
+  "https://itajaionline.com.br/vaga/197786-secretariarecepcionista-de-clinica-odontologica": {
+    "url": "https://itajaionline.com.br/vaga/197786-secretariarecepcionista-de-clinica-odontologica",
+    "list_title": "Secretária/recepcionista de Clinica Odontológica Itajaí Hoje",
+    "title": "Secretária/recepcionista de Clinica Odontológica",
+    "city": "Itajaí",
+    "description": "VAGA PARA SECRETÁRIA – ITAJAÍ/SC",
+    "published_at": "2026-09-15T20:03:30.256679+00:00",
+    "priority_score": 70,
+    "category": "ADMINISTRATIVO",
+    "matches": [
+      "secretária"
+    ]
+  },
   "https://itajaionline.com.br/vaga/197765-analista-fiscal": {
     "url": "https://itajaionline.com.br/vaga/197765-analista-fiscal",
     "list_title": "ANALISTA FISCAL Itajaí Hoje",
@@ -715,519 +812,442 @@
       "rh"
     ]
   },
-  "https://itajaionline.com.br/vaga/197726-auxiliar-de-montagem-de-andaime": {
-    "url": "https://itajaionline.com.br/vaga/197726-auxiliar-de-montagem-de-andaime",
-    "list_title": "Auxiliar de Montagem de Andaime Itajai Hoje",
-    "title": "Auxiliar de Montagem de Andaime",
+  "https://itajaionline.com.br/vaga/197767-motorista-de-guincho-noturno": {
+    "url": "https://itajaionline.com.br/vaga/197767-motorista-de-guincho-noturno",
+    "list_title": "Motorista de Guincho Noturno Itajaí SC Hoje",
+    "title": "Motorista de Guincho Noturno",
+    "city": "Itajaí SC",
+    "description": "2 VAGAS VAGA NOTURNA ESCALA ALTERNADA",
+    "published_at": "2026-09-15T20:03:33.738019+00:00",
+    "priority_score": 0,
+    "category": "OUTRAS",
+    "matches": []
+  },
+  "https://itajaionline.com.br/vaga/197768-operador-de-caixa": {
+    "url": "https://itajaionline.com.br/vaga/197768-operador-de-caixa",
+    "list_title": "Operador de Caixa Itajai Hoje",
+    "title": "Operador de Caixa",
     "city": "Itajai",
-    "description": "Temos vaga para auxiliar de montagem de andaime, não é necessário ter experiência, necessário ter boa vontade, e seriedade com a empresa, e responsabilidade.",
-    "published_at": "2026-09-15T16:57:35.009603+00:00",
+    "description": "Interessados enviar curriculo em PDF pelo WatsZapp 47 3011-8888",
+    "published_at": "2026-09-15T20:03:33.522777+00:00",
     "priority_score": 0,
     "category": "OUTRAS",
     "matches": []
   },
-  "https://itajaionline.com.br/vaga/197730-auxiliar-de-instalacao": {
-    "url": "https://itajaionline.com.br/vaga/197730-auxiliar-de-instalacao",
-    "list_title": "Auxiliar de instalação Itajaí Hoje",
-    "title": "Auxiliar de instalação",
-    "city": "Itajaí",
-    "description": "Sobre Denteck Climatização",
-    "published_at": "2026-09-15T16:57:34.815019+00:00",
+  "https://itajaionline.com.br/vaga/197769-atendente-repositor": {
+    "url": "https://itajaionline.com.br/vaga/197769-atendente-repositor",
+    "list_title": "Atendente / Repositor Itajai Hoje",
+    "title": "Atendente / Repositor",
+    "city": "Itajai",
+    "description": "Interessados enviar curriculo em PDF pelo WatsZapp 47 3011-8888",
+    "published_at": "2026-09-15T20:03:33.308099+00:00",
     "priority_score": 0,
     "category": "OUTRAS",
     "matches": []
   },
-  "https://itajaionline.com.br/vaga/197731-assistente-de-manutencao-l": {
-    "url": "https://itajaionline.com.br/vaga/197731-assistente-de-manutencao-l",
-    "list_title": "Assistente de Manutenção l ITAJAÍ Hoje",
-    "title": "Assistente de Manutenção l",
+  "https://itajaionline.com.br/vaga/197770-operador-de-cftv": {
+    "url": "https://itajaionline.com.br/vaga/197770-operador-de-cftv",
+    "list_title": "Operador de CFTV Itajai Hoje",
+    "title": "Operador de CFTV",
+    "city": "Itajai",
+    "description": "Interessados enviar curriculo em PDF pelo WatsZapp 47 3011-8888",
+    "published_at": "2026-09-15T20:03:33.103606+00:00",
+    "priority_score": 0,
+    "category": "OUTRAS",
+    "matches": []
+  },
+  "https://itajaionline.com.br/vaga/197772-auxiliar-de-producao": {
+    "url": "https://itajaionline.com.br/vaga/197772-auxiliar-de-producao",
+    "list_title": "AUXILIAR DE PRODUÇÃO ITAJAÍ Hoje",
+    "title": "AUXILIAR DE PRODUÇÃO",
     "city": "ITAJAÍ",
-    "description": "ASSISTENTE DE MANUTENÇÃO I",
-    "published_at": "2026-09-15T16:57:34.619449+00:00",
+    "description": "Vaga para Auxiliar de Produção em indústria de Pescados.",
+    "published_at": "2026-09-15T20:03:32.897371+00:00",
     "priority_score": 0,
     "category": "OUTRAS",
     "matches": []
   },
-  "https://itajaionline.com.br/vaga/197732-ajudante-de-marceneiro": {
-    "url": "https://itajaionline.com.br/vaga/197732-ajudante-de-marceneiro",
-    "list_title": "Ajudante de marceneiro Itajaí Hoje",
-    "title": "Ajudante de marceneiro",
-    "city": "Itajaí",
-    "description": "📌 VAGA – AJUDANTE DE MARCENEIRO com EXPERIÊNCIA",
-    "published_at": "2026-09-15T16:57:34.422182+00:00",
-    "priority_score": 0,
-    "category": "OUTRAS",
-    "matches": []
-  },
-  "https://itajaionline.com.br/vaga/197733-montador-e-ajudante-de-marceneiro": {
-    "url": "https://itajaionline.com.br/vaga/197733-montador-e-ajudante-de-marceneiro",
-    "list_title": "Montador e ajudante de marceneiro Itajaí Hoje",
-    "title": "Montador e ajudante de marceneiro",
-    "city": "Itajaí",
-    "description": "📌 VAGA – AJUDANTE DE MARCENEIRO com EXPERIÊNCIA E MONTADOR DE MÓVEIS FIXO",
-    "published_at": "2026-09-15T16:57:34.216746+00:00",
-    "priority_score": 0,
-    "category": "OUTRAS",
-    "matches": []
-  },
-  "https://itajaionline.com.br/vaga/197735-agente-de-locacao": {
-    "url": "https://itajaionline.com.br/vaga/197735-agente-de-locacao",
-    "list_title": "Agente de Locação Navegantes Hoje",
-    "title": "Agente de Locação",
-    "city": "Navegantes",
-    "description": "VENHA FAZER PARTE DO TIME MOVAMI!",
-    "published_at": "2026-09-15T16:57:34.022624+00:00",
-    "priority_score": 0,
-    "category": "OUTRAS",
-    "matches": []
-  },
-  "https://itajaionline.com.br/vaga/197736-auxiliar-de-producao": {
-    "url": "https://itajaionline.com.br/vaga/197736-auxiliar-de-producao",
-    "list_title": "AUXILIAR DE PRODUÇÃO. Itajaí Hoje",
-    "title": "AUXILIAR DE PRODUÇÃO.",
-    "city": "Itajaí",
-    "description": "A SOL NASCENTE PAPÉIS, situada no bairro Cordeiros em",
-    "published_at": "2026-09-15T16:57:33.825631+00:00",
-    "priority_score": 0,
-    "category": "OUTRAS",
-    "matches": []
-  },
-  "https://itajaionline.com.br/vaga/197737-representante-comercial": {
-    "url": "https://itajaionline.com.br/vaga/197737-representante-comercial",
-    "list_title": "REPRESENTANTE COMERCIAL ITAJAI Hoje",
-    "title": "REPRESENTANTE COMERCIAL",
-    "city": "ITAJAI",
-    "description": "Contratamos Representante com CNPJ de representação e inscrição no CORE para venda de pneus de caminhão na região de Itajai.",
-    "published_at": "2026-09-15T16:57:33.631299+00:00",
-    "priority_score": 0,
-    "category": "OUTRAS",
-    "matches": []
-  },
-  "https://itajaionline.com.br/vaga/197741-faxineira-servicos-gerais": {
-    "url": "https://itajaionline.com.br/vaga/197741-faxineira-servicos-gerais",
-    "list_title": "Faxineira / serviços gerais ITAJAI Hoje",
-    "title": "Faxineira / serviços gerais",
-    "city": "ITAJAI",
-    "description": "A vaga é para limpeza de uma residência no São Vicente,",
-    "published_at": "2026-09-15T16:57:33.438667+00:00",
-    "priority_score": 0,
-    "category": "OUTRAS",
-    "matches": []
-  },
-  "https://itajaionline.com.br/vaga/197742-supervisaogerencia-de-clinica-da-saude": {
-    "url": "https://itajaionline.com.br/vaga/197742-supervisaogerencia-de-clinica-da-saude",
-    "list_title": "Supervisão/Gerencia de Clinica da Saúde Itajaí Hoje",
-    "title": "Supervisão/Gerencia de Clinica da Saúde",
-    "city": "Itajaí",
-    "description": "📢 ESTAMOS CONTRATANDO!",
-    "published_at": "2026-09-15T16:57:33.243970+00:00",
-    "priority_score": 0,
-    "category": "OUTRAS",
-    "matches": []
-  },
-  "https://itajaionline.com.br/vaga/197743-assistente-comercial": {
-    "url": "https://itajaionline.com.br/vaga/197743-assistente-comercial",
-    "list_title": "Assistente Comercial Navegantes Hoje",
-    "title": "Assistente Comercial",
-    "city": "Navegantes",
-    "description": "Cargo: Assistente Comercial",
-    "published_at": "2026-09-15T16:57:33.047699+00:00",
-    "priority_score": 0,
-    "category": "OUTRAS",
-    "matches": []
-  },
-  "https://itajaionline.com.br/vaga/197744-auxiliar-de-cozinha": {
-    "url": "https://itajaionline.com.br/vaga/197744-auxiliar-de-cozinha",
-    "list_title": "AUXILIAR DE COZINHA Itajaí Hoje",
-    "title": "AUXILIAR DE COZINHA",
-    "city": "Itajaí",
-    "description": "VAGA: AUXILIAR DE COZINHA",
-    "published_at": "2026-09-15T16:57:32.852679+00:00",
-    "priority_score": 0,
-    "category": "OUTRAS",
-    "matches": []
-  },
-  "https://itajaionline.com.br/vaga/197745-motorista-de-entrega-e-coleta": {
-    "url": "https://itajaionline.com.br/vaga/197745-motorista-de-entrega-e-coleta",
-    "list_title": "Motorista de entrega e coleta Itajai Hoje",
-    "title": "Motorista de entrega e coleta",
-    "city": "Itajai",
-    "description": "Empresa do segmento de transporte",
-    "published_at": "2026-09-15T16:57:32.657015+00:00",
-    "priority_score": 0,
-    "category": "OUTRAS",
-    "matches": []
-  },
-  "https://itajaionline.com.br/vaga/197746-motorista-categoria-e": {
-    "url": "https://itajaionline.com.br/vaga/197746-motorista-categoria-e",
-    "list_title": "MOTORISTA CATEGORIA E Itajai Hoje",
-    "title": "MOTORISTA CATEGORIA E",
-    "city": "Itajai",
-    "description": "MOTORISTA CATEGORIA (E)",
-    "published_at": "2026-09-15T16:57:32.454553+00:00",
-    "priority_score": 0,
-    "category": "OUTRAS",
-    "matches": []
-  },
-  "https://itajaionline.com.br/vaga/197747-lider-de-producao-painel-eletrico": {
-    "url": "https://itajaionline.com.br/vaga/197747-lider-de-producao-painel-eletrico",
-    "list_title": "Líder de Produção - Painel Elétrico Itajaí Hoje",
-    "title": "Líder de Produção - Painel Elétrico",
-    "city": "Itajaí",
-    "description": "Líder de Produção - Painel",
-    "published_at": "2026-09-15T16:57:32.259349+00:00",
-    "priority_score": 0,
-    "category": "OUTRAS",
-    "matches": []
-  },
-  "https://itajaionline.com.br/vaga/197748-ajudante-de-carga-e-descarga": {
-    "url": "https://itajaionline.com.br/vaga/197748-ajudante-de-carga-e-descarga",
-    "list_title": "Ajudante de Carga e descarga Itajai Hoje",
-    "title": "Ajudante de Carga e descarga",
-    "city": "Itajai",
-    "description": "Empresa de Transporte busca profissional Auxiliar",
-    "published_at": "2026-09-15T16:57:32.063728+00:00",
-    "priority_score": 0,
-    "category": "OUTRAS",
-    "matches": []
-  },
-  "https://itajaionline.com.br/vaga/197749-assistente-de-gente-e-gestao": {
-    "url": "https://itajaionline.com.br/vaga/197749-assistente-de-gente-e-gestao",
-    "list_title": "Assistente de Gente e Gestão Itajaí Hoje",
-    "title": "Assistente de Gente e Gestão",
-    "city": "Itajaí",
-    "description": "*Vaga para Assistente de Gente e Gestão (CLT) — Itajaí/SC*",
-    "published_at": "2026-09-15T16:57:31.868360+00:00",
-    "priority_score": 0,
-    "category": "OUTRAS",
-    "matches": []
-  },
-  "https://itajaionline.com.br/vaga/197750-servicos-gerais": {
-    "url": "https://itajaionline.com.br/vaga/197750-servicos-gerais",
-    "list_title": "Serviços Gerais Itajaí Hoje",
-    "title": "Serviços Gerais",
-    "city": "Itajaí",
-    "description": "Vaga para Serviços Gerais - 12X36",
-    "published_at": "2026-09-15T16:57:31.668845+00:00",
-    "priority_score": 0,
-    "category": "OUTRAS",
-    "matches": []
-  },
-  "https://itajaionline.com.br/vaga/197751-oportunidade-de-estagio-enfermagem-439162": {
-    "url": "https://itajaionline.com.br/vaga/197751-oportunidade-de-estagio-enfermagem-439162",
-    "list_title": "OPORTUNIDADE DE ESTÁGIO ENFERMAGEM 439162 ITAPEMA Hoje",
-    "title": "OPORTUNIDADE DE ESTÁGIO ENFERMAGEM 439162",
-    "city": "ITAPEMA",
-    "description": "OPORTUNIDADE DE ESTÁGIO ENFERMAGEM",
-    "published_at": "2026-09-15T16:57:31.475422+00:00",
-    "priority_score": 0,
-    "category": "OUTRAS",
-    "matches": []
-  },
-  "https://itajaionline.com.br/vaga/197752-recepcionista": {
-    "url": "https://itajaionline.com.br/vaga/197752-recepcionista",
-    "list_title": "Recepcionista Itajaí Hoje",
-    "title": "Recepcionista",
-    "city": "Itajaí",
-    "description": "Vaga Recepção 12x36",
-    "published_at": "2026-09-15T16:57:31.278184+00:00",
-    "priority_score": 0,
-    "category": "OUTRAS",
-    "matches": []
-  },
-  "https://itajaionline.com.br/vaga/197753-vendedora-interno": {
-    "url": "https://itajaionline.com.br/vaga/197753-vendedora-interno",
-    "list_title": "VENDEDOR(A) INTERNO Itajaí/SC Hoje",
-    "title": "VENDEDOR(A) INTERNO",
+  "https://itajaionline.com.br/vaga/197773-vendedora-comissionada": {
+    "url": "https://itajaionline.com.br/vaga/197773-vendedora-comissionada",
+    "list_title": "VENDEDORA COMISSIONADA Itajaí/SC Hoje",
+    "title": "VENDEDORA COMISSIONADA",
     "city": "Itajaí/SC",
-    "description": "Descrição da vaga:",
-    "published_at": "2026-09-15T16:57:31.078525+00:00",
+    "description": "Detalhes da vaga:",
+    "published_at": "2026-09-15T20:03:32.694426+00:00",
     "priority_score": 0,
     "category": "OUTRAS",
     "matches": []
   },
-  "https://itajaionline.com.br/vaga/197754-meio-oficial": {
-    "url": "https://itajaionline.com.br/vaga/197754-meio-oficial",
-    "list_title": "MEIO OFICIAL Navegantes Hoje",
-    "title": "MEIO OFICIAL",
+  "https://itajaionline.com.br/vaga/197775-estoquista": {
+    "url": "https://itajaionline.com.br/vaga/197775-estoquista",
+    "list_title": "Estoquista Itajaí Hoje",
+    "title": "Estoquista",
+    "city": "Itajaí",
+    "description": "📦 VAGA: ESTOQUISTA",
+    "published_at": "2026-09-15T20:03:32.284559+00:00",
+    "priority_score": 0,
+    "category": "OUTRAS",
+    "matches": []
+  },
+  "https://itajaionline.com.br/vaga/197776-motorista-entregador": {
+    "url": "https://itajaionline.com.br/vaga/197776-motorista-entregador",
+    "list_title": "MOTORISTA ENTREGADOR CAMBORIU Hoje",
+    "title": "MOTORISTA ENTREGADOR",
+    "city": "CAMBORIU",
+    "description": "VAGA DE MOTORISTA/ENTREGADOR PARA CAMBORIU",
+    "published_at": "2026-09-15T20:03:32.068727+00:00",
+    "priority_score": 0,
+    "category": "OUTRAS",
+    "matches": []
+  },
+  "https://itajaionline.com.br/vaga/197777-operador-de-armazem-i": {
+    "url": "https://itajaionline.com.br/vaga/197777-operador-de-armazem-i",
+    "list_title": "Operador de Armazém I Itajái Hoje",
+    "title": "Operador de Armazém I",
+    "city": "Itajái",
+    "description": "OPERADOR DE ARMAZÉM",
+    "published_at": "2026-09-15T20:03:31.867037+00:00",
+    "priority_score": 0,
+    "category": "OUTRAS",
+    "matches": []
+  },
+  "https://itajaionline.com.br/vaga/197778-auxiliar-de-saude-bucal": {
+    "url": "https://itajaionline.com.br/vaga/197778-auxiliar-de-saude-bucal",
+    "list_title": "Auxiliar de Saúde Bucal Itajái Hoje",
+    "title": "Auxiliar de Saúde Bucal",
+    "city": "Itajái",
+    "description": "🔹 AUXILIAR DE SAÚDE BUCAL 🔹",
+    "published_at": "2026-09-15T20:03:31.665186+00:00",
+    "priority_score": 0,
+    "category": "OUTRAS",
+    "matches": []
+  },
+  "https://itajaionline.com.br/vaga/197779-vendedor-de-loja-papelaria": {
+    "url": "https://itajaionline.com.br/vaga/197779-vendedor-de-loja-papelaria",
+    "list_title": "Vendedor de Loja - Papelaria Itajái Hoje",
+    "title": "Vendedor de Loja - Papelaria",
+    "city": "Itajái",
+    "description": "📍 Itajaí/SC 💰 Salário: R$ 2.210,00 📄 CLT – Efetivo",
+    "published_at": "2026-09-15T20:03:31.464197+00:00",
+    "priority_score": 0,
+    "category": "OUTRAS",
+    "matches": []
+  },
+  "https://itajaionline.com.br/vaga/197781-auxiliar-de-cozinha": {
+    "url": "https://itajaionline.com.br/vaga/197781-auxiliar-de-cozinha",
+    "list_title": "Auxiliar de Cozinha Itajai Hoje",
+    "title": "Auxiliar de Cozinha",
+    "city": "Itajai",
+    "description": "Empresa sólida no ramo da gastronomia, com ambiente descontraído, oferece oportunidade de trabalho para o cargo de auxiliar de cozinha. Procuramos alguém com compromisso e boa relação no ambiente de trabalho.",
+    "published_at": "2026-09-15T20:03:31.262448+00:00",
+    "priority_score": 0,
+    "category": "OUTRAS",
+    "matches": []
+  },
+  "https://itajaionline.com.br/vaga/197782-chapeiro": {
+    "url": "https://itajaionline.com.br/vaga/197782-chapeiro",
+    "list_title": "Chapeiro Itajai Hoje",
+    "title": "Chapeiro",
+    "city": "Itajai",
+    "description": "Empresa sólida no ramo da gastronomia, com ambiente descontraído, oferece oportunidade de trabalho para o cargo de chapeiro. Procuramos alguém com compromisso e boa relação no ambiente de trabalho.",
+    "published_at": "2026-09-15T20:03:31.062095+00:00",
+    "priority_score": 0,
+    "category": "OUTRAS",
+    "matches": []
+  },
+  "https://itajaionline.com.br/vaga/197784-vendedorrepresentante-comercial": {
+    "url": "https://itajaionline.com.br/vaga/197784-vendedorrepresentante-comercial",
+    "list_title": "Vendedor/Representante comercial Itajaí Hoje",
+    "title": "Vendedor/Representante comercial",
+    "city": "Itajaí",
+    "description": "📢 VENHA FAZER PARTE DO TIME DE VENDAS DA SEPRES SOLUÇÕES!",
+    "published_at": "2026-09-15T20:03:30.659708+00:00",
+    "priority_score": 0,
+    "category": "OUTRAS",
+    "matches": []
+  },
+  "https://itajaionline.com.br/vaga/197785-servicos-gerais": {
+    "url": "https://itajaionline.com.br/vaga/197785-servicos-gerais",
+    "list_title": "Serviços Gerais Itajai Hoje",
+    "title": "Serviços Gerais",
+    "city": "Itajai",
+    "description": "Empresa sólida no ramo da gastronomia, com ambiente descontraído, oferece oportunidade de trabalho para o cargo de Serviços Gerais. Procuramos alguém com compromisso e boa relação no ambiente de trabalho.",
+    "published_at": "2026-09-15T20:03:30.460743+00:00",
+    "priority_score": 0,
+    "category": "OUTRAS",
+    "matches": []
+  },
+  "https://itajaionline.com.br/vaga/197788-analista-de-servicos": {
+    "url": "https://itajaionline.com.br/vaga/197788-analista-de-servicos",
+    "list_title": "Analista de Serviços. Itajaí Hoje",
+    "title": "Analista de Serviços.",
+    "city": "Itajaí",
+    "description": "🚀 ANALISTA DE SERVIÇOS",
+    "published_at": "2026-09-15T20:03:29.851454+00:00",
+    "priority_score": 0,
+    "category": "OUTRAS",
+    "matches": []
+  },
+  "https://itajaionline.com.br/vaga/197794-vendas": {
+    "url": "https://itajaionline.com.br/vaga/197794-vendas",
+    "list_title": "VENDAS ITAJAI Hoje",
+    "title": "VENDAS",
+    "city": "ITAJAI",
+    "description": "📢 VAGA: VENDEDOR(A) 📍 Itajaí – SC",
+    "published_at": "2026-09-15T20:03:29.426853+00:00",
+    "priority_score": 0,
+    "category": "OUTRAS",
+    "matches": []
+  },
+  "https://itajaionline.com.br/vaga/197796-atendente-de-loja": {
+    "url": "https://itajaionline.com.br/vaga/197796-atendente-de-loja",
+    "list_title": "Atendente de Loja Itajaí Hoje",
+    "title": "Atendente de Loja",
+    "city": "Itajaí",
+    "description": "🛍️ VAGA: ATENDENTE DE LOJA",
+    "published_at": "2026-09-15T20:03:28.991278+00:00",
+    "priority_score": 0,
+    "category": "OUTRAS",
+    "matches": []
+  },
+  "https://itajaionline.com.br/vaga/197797-caixa-de-loja": {
+    "url": "https://itajaionline.com.br/vaga/197797-caixa-de-loja",
+    "list_title": "Caixa de Loja Navegantes Hoje",
+    "title": "Caixa de Loja",
     "city": "Navegantes",
-    "description": "Meio Oficial – Produção",
-    "published_at": "2026-09-15T16:57:30.879389+00:00",
+    "description": "🛍️ VAGA: CAIXA",
+    "published_at": "2026-09-15T20:03:28.785929+00:00",
     "priority_score": 0,
     "category": "OUTRAS",
     "matches": []
   },
-  "https://itajaionline.com.br/vaga/197755-auxiliar-de-producao-fiacaomontagem": {
-    "url": "https://itajaionline.com.br/vaga/197755-auxiliar-de-producao-fiacaomontagem",
-    "list_title": "Auxiliar de Produção / Fiação/Montagem Itajaí Hoje",
-    "title": "Auxiliar de Produção / Fiação/Montagem",
-    "city": "Itajaí",
-    "description": "Auxiliar de Produção / Fiação/Montagem",
-    "published_at": "2026-09-15T16:57:30.682158+00:00",
+  "https://itajaionline.com.br/vaga/197798-agente-de-registro": {
+    "url": "https://itajaionline.com.br/vaga/197798-agente-de-registro",
+    "list_title": "Agente de Registro BALNEARIO CAMBORIU Hoje",
+    "title": "Agente de Registro",
+    "city": "BALNEARIO CAMBORIU",
+    "description": "A Certifikar está em busca de um(a) Agente de Registro para",
+    "published_at": "2026-09-15T20:03:28.579203+00:00",
     "priority_score": 0,
     "category": "OUTRAS",
     "matches": []
   },
-  "https://itajaionline.com.br/vaga/197757-vendedor-interno": {
-    "url": "https://itajaionline.com.br/vaga/197757-vendedor-interno",
-    "list_title": "vendedor interno ITAJAÍ Hoje",
-    "title": "vendedor interno",
-    "city": "ITAJAÍ",
-    "description": "Vaga de vendedor interno, salário de R$ 2.300,00 + comissão",
-    "published_at": "2026-09-15T16:57:30.483839+00:00",
-    "priority_score": 0,
-    "category": "OUTRAS",
-    "matches": []
-  },
-  "https://itajaionline.com.br/vaga/197758-mecanico-geral-montador-linha-pesada-caminhoes": {
-    "url": "https://itajaionline.com.br/vaga/197758-mecanico-geral-montador-linha-pesada-caminhoes",
-    "list_title": "MECÂNICO GERAL MONTADOR - LINHA PESADA (caminhões) Itajaí Hoje",
-    "title": "MECÂNICO GERAL MONTADOR - LINHA PESADA (caminhões)",
-    "city": "Itajaí",
-    "description": "🔧 Mecânico Geral Montador – Linha Pesada:",
-    "published_at": "2026-09-15T16:57:30.282759+00:00",
-    "priority_score": 0,
-    "category": "OUTRAS",
-    "matches": []
-  },
-  "https://itajaionline.com.br/vaga/197759-eletricista-tecnico-em-eletronica-linha-pesada-caminhoes": {
-    "url": "https://itajaionline.com.br/vaga/197759-eletricista-tecnico-em-eletronica-linha-pesada-caminhoes",
-    "list_title": "Eletricista / Técnico em Eletrônica - LINHA PESADA (caminhões) Itajaí Hoje",
-    "title": "Eletricista / Técnico em Eletrônica - LINHA PESADA (caminhões)",
-    "city": "Itajaí",
-    "description": "Atividades: Realizar manutenção preventiva e corretiva em sistemas elétricos e eletrônicos, identificando falhas e efetuando reparos e substituições de componentes. Executar instalações, testes, diagnósticos e manutenção de chicotes, conexões e sistemas elétricos. Interpretar diagramas, utilizar instrumentos de medição e seguir normas de segurança e organização.",
-    "published_at": "2026-09-15T16:57:30.086690+00:00",
-    "priority_score": 0,
-    "category": "OUTRAS",
-    "matches": []
-  },
-  "https://itajaionline.com.br/vaga/197760-mecanico-geral-linha-pesada": {
-    "url": "https://itajaionline.com.br/vaga/197760-mecanico-geral-linha-pesada",
-    "list_title": "MECÂNICO GERAL - LINHA PESADA Itajaí Hoje",
-    "title": "MECÂNICO GERAL - LINHA PESADA",
-    "city": "Itajaí",
-    "description": "🔧 Mecânico Geral – Linha Pesada:",
-    "published_at": "2026-09-15T16:57:29.890850+00:00",
-    "priority_score": 0,
-    "category": "OUTRAS",
-    "matches": []
-  },
-  "https://itajaionline.com.br/vaga/197761-tecnico-em-eletromecanica": {
-    "url": "https://itajaionline.com.br/vaga/197761-tecnico-em-eletromecanica",
-    "list_title": "Técnico em Eletromecânica Itajaí Hoje",
-    "title": "Técnico em Eletromecânica",
-    "city": "Itajaí",
-    "description": "TÉCNICO EM ELETROMECÂNICA — SC WELD",
-    "published_at": "2026-09-15T16:57:29.695631+00:00",
-    "priority_score": 0,
-    "category": "OUTRAS",
-    "matches": []
-  },
-  "https://itajaionline.com.br/vaga/197762-designer-grafico": {
-    "url": "https://itajaionline.com.br/vaga/197762-designer-grafico",
-    "list_title": "DESIGNER GRÁFICO Itajaí Hoje",
-    "title": "DESIGNER GRÁFICO",
-    "city": "Itajaí",
-    "description": "• Criar materiais gráficos para campanhas internas e externas;",
-    "published_at": "2026-09-15T16:57:29.490675+00:00",
-    "priority_score": 0,
-    "category": "OUTRAS",
-    "matches": []
-  },
-  "https://itajaionline.com.br/vaga/197764-vendedor-interno": {
-    "url": "https://itajaionline.com.br/vaga/197764-vendedor-interno",
-    "list_title": "Vendedor Interno Itajaí Hoje",
-    "title": "Vendedor Interno",
-    "city": "Itajaí",
-    "description": "VENDEDOR INTERNO — SC WELD",
-    "published_at": "2026-09-15T16:57:29.295112+00:00",
-    "priority_score": 0,
-    "category": "OUTRAS",
-    "matches": []
-  },
-  "https://itajaionline.com.br/vaga/194032-cozinheiro": {
-    "url": "https://itajaionline.com.br/vaga/194032-cozinheiro",
-    "list_title": "Cozinheiro Itajaí 23/08 destaque",
-    "title": "Cozinheiro",
-    "city": "Itajaí",
-    "description": "**👩‍🍳 VAGA ABERTA – COZINHEIRA | TEMPERO & ARTE**",
-    "published_at": "2026-09-15T16:57:28.902458+00:00",
-    "priority_score": 0,
-    "category": "OUTRAS",
-    "matches": []
-  },
-  "https://itajaionline.com.br/vaga/175271-atendente-e-frentista": {
-    "url": "https://itajaionline.com.br/vaga/175271-atendente-e-frentista",
-    "list_title": "ATENDENTE E FRENTISTA ITAJAI 25/08 destaque",
-    "title": "ATENDENTE E FRENTISTA",
-    "city": "ITAJAI",
-    "description": "Feirão de Emprego",
-    "published_at": "2026-09-15T16:57:28.681653+00:00",
-    "priority_score": 0,
-    "category": "OUTRAS",
-    "matches": []
-  },
-  "https://itajaionline.com.br/vaga/195389-costureiro-a": {
-    "url": "https://itajaionline.com.br/vaga/195389-costureiro-a",
-    "list_title": "Costureiro (a) Balneario Camboriu 02/09 destaque",
-    "title": "Costureiro (a)",
-    "city": "Balneario Camboriu",
-    "description": "VAGA DE COSTUREIRO (a)",
-    "published_at": "2026-09-15T16:57:28.485663+00:00",
-    "priority_score": 0,
-    "category": "OUTRAS",
-    "matches": []
-  },
-  "https://itajaionline.com.br/vaga/195390-operador-de-maquina-de-bordado": {
-    "url": "https://itajaionline.com.br/vaga/195390-operador-de-maquina-de-bordado",
-    "list_title": "Operador de Maquina de Bordado Balneario Camboriu 02/09 destaque",
-    "title": "Operador de Maquina de Bordado",
-    "city": "Balneario Camboriu",
-    "description": "OPERADOR DE MAQUINA DE BORDADO",
-    "published_at": "2026-09-15T16:57:28.293025+00:00",
-    "priority_score": 0,
-    "category": "OUTRAS",
-    "matches": []
-  },
-  "https://itajaionline.com.br/vaga/197284-analsita-de-e-commerce": {
-    "url": "https://itajaionline.com.br/vaga/197284-analsita-de-e-commerce",
-    "list_title": "Analsita de E-Commerce Navegantes 08/09 destaque",
-    "title": "Analsita de E-Commerce",
+  "https://itajaionline.com.br/vaga/197799-auxiliar-de-producao": {
+    "url": "https://itajaionline.com.br/vaga/197799-auxiliar-de-producao",
+    "list_title": "Auxiliar de Produção Navegantes Hoje",
+    "title": "Auxiliar de Produção",
     "city": "Navegantes",
-    "description": "Analista de E-Commerce",
-    "published_at": "2026-09-15T16:57:28.097719+00:00",
+    "description": "Auxiliar na montagem, fabricação e acabamento dos produtos;",
+    "published_at": "2026-09-15T20:03:28.376375+00:00",
     "priority_score": 0,
     "category": "OUTRAS",
     "matches": []
   },
-  "https://itajaionline.com.br/vaga/197294-aux-de-manutencao": {
-    "url": "https://itajaionline.com.br/vaga/197294-aux-de-manutencao",
-    "list_title": "Aux. de Manutenção itajaí 08/09 destaque",
-    "title": "Aux. de Manutenção",
-    "city": "itajaí",
-    "description": "VAGA – AUXILIAR DE OFICINA/MANUTENÇÃO",
-    "published_at": "2026-09-15T16:57:27.904589+00:00",
+  "https://itajaionline.com.br/vaga/197800-servicos-gerais": {
+    "url": "https://itajaionline.com.br/vaga/197800-servicos-gerais",
+    "list_title": "Serviços Gerais Itajai Hoje",
+    "title": "Serviços Gerais",
+    "city": "Itajai",
+    "description": "12x36 - Diurno 07:00 as 19:00",
+    "published_at": "2026-09-15T20:03:28.165965+00:00",
     "priority_score": 0,
     "category": "OUTRAS",
     "matches": []
   },
-  "https://itajaionline.com.br/vaga/197293-tecnico-instaladormanutencao": {
-    "url": "https://itajaionline.com.br/vaga/197293-tecnico-instaladormanutencao",
-    "list_title": "Técnico instalador/manutenção itajaí 08/09 destaque",
-    "title": "Técnico instalador/manutenção",
-    "city": "itajaí",
-    "description": "VAGA – TÉCNICO INSTALADOR E DE MANUTENÇÃO",
-    "published_at": "2026-09-15T16:57:27.706098+00:00",
-    "priority_score": 0,
-    "category": "OUTRAS",
-    "matches": []
-  },
-  "https://itajaionline.com.br/vaga/180693-auxiliar-de-carregamento": {
-    "url": "https://itajaionline.com.br/vaga/180693-auxiliar-de-carregamento",
-    "list_title": "AUXILIAR DE CARREGAMENTO Itajaí 08/09 destaque",
-    "title": "AUXILIAR DE CARREGAMENTO",
+  "https://itajaionline.com.br/vaga/197801-producao": {
+    "url": "https://itajaionline.com.br/vaga/197801-producao",
+    "list_title": "Produção Itajaí Hoje",
+    "title": "Produção",
     "city": "Itajaí",
-    "description": "VAGA: AUXILIAR DE CARREGAMENTO – ITAJAÍ E REGIÃO",
-    "published_at": "2026-09-15T16:57:27.500684+00:00",
+    "description": "AUXILIAR DE PRODUÇÃO",
+    "published_at": "2026-09-15T20:03:27.956416+00:00",
     "priority_score": 0,
     "category": "OUTRAS",
     "matches": []
   },
-  "https://itajaionline.com.br/vaga/162048-motorista-de-entrega": {
-    "url": "https://itajaionline.com.br/vaga/162048-motorista-de-entrega",
-    "list_title": "Motorista de entrega ITAJAI 08/09 destaque",
-    "title": "Motorista de entrega",
+  "https://itajaionline.com.br/vaga/196458-corretor-de-imoveis-captacao-para-locacao": {
+    "url": "https://itajaionline.com.br/vaga/196458-corretor-de-imoveis-captacao-para-locacao",
+    "list_title": "Corretor De Imóveis - Captação para Locação Navegantes 09/09 destaque",
+    "title": "Corretor De Imóveis - Captação para Locação",
+    "city": "Navegantes",
+    "description": "VAGA ABERTA | CORRETOR(A) DE CAPTAÇÃO DE IMÓVEIS",
+    "published_at": "2026-09-15T20:03:27.752486+00:00",
+    "priority_score": 0,
+    "category": "OUTRAS",
+    "matches": []
+  },
+  "https://itajaionline.com.br/vaga/196994-soldador-montador-de-estruturas-metalicas": {
+    "url": "https://itajaionline.com.br/vaga/196994-soldador-montador-de-estruturas-metalicas",
+    "list_title": "SOLDADOR /MONTADOR DE ESTRUTURAS METÁLICAS Itajaí 09/09 destaque",
+    "title": "SOLDADOR /MONTADOR DE ESTRUTURAS METÁLICAS",
+    "city": "Itajaí",
+    "description": "VAGA DE EMPREGO – SOLDADOR/MONTADOR",
+    "published_at": "2026-09-15T20:03:27.550173+00:00",
+    "priority_score": 0,
+    "category": "OUTRAS",
+    "matches": []
+  },
+  "https://itajaionline.com.br/vaga/174320-motorista": {
+    "url": "https://itajaionline.com.br/vaga/174320-motorista",
+    "list_title": "Motorista ITAJAI 09/09 destaque",
+    "title": "Motorista",
     "city": "ITAJAI",
-    "description": "VAGA: MOTORISTA DE ENTREGA – ITAJAÍ E REGIÃO",
-    "published_at": "2026-09-15T16:57:27.306059+00:00",
+    "description": "VAGA DE EMPREGO – MOTORISTA CATEGORIA B OU C",
+    "published_at": "2026-09-15T20:03:27.346342+00:00",
     "priority_score": 0,
     "category": "OUTRAS",
     "matches": []
   },
-  "https://itajaionline.com.br/vaga/195618-aux-documental-jr-exportacao": {
-    "url": "https://itajaionline.com.br/vaga/195618-aux-documental-jr-exportacao",
-    "list_title": "AUX. DOCUMENTAL JR - EXPORTAÇÃO Itajaí 08/09 destaque",
-    "title": "AUX. DOCUMENTAL JR - EXPORTAÇÃO",
+  "https://itajaionline.com.br/vaga/197483-auxiliar-de-limpeza-r270500": {
+    "url": "https://itajaionline.com.br/vaga/197483-auxiliar-de-limpeza-r270500",
+    "list_title": "AUXILIAR DE LIMPEZA R$2705,00 Navegantes 10/09 destaque",
+    "title": "AUXILIAR DE LIMPEZA R$2705,00",
+    "city": "Navegantes",
+    "description": "Vaga para Auxiliar de limpeza R$2705,00 para trabalhar regime CLT de segunda a sexta das 07:30hr as 17:18hr.",
+    "published_at": "2026-09-15T20:03:27.143778+00:00",
+    "priority_score": 0,
+    "category": "OUTRAS",
+    "matches": []
+  },
+  "https://itajaionline.com.br/vaga/194188-operador-de-paleteira": {
+    "url": "https://itajaionline.com.br/vaga/194188-operador-de-paleteira",
+    "list_title": "Operador de Paleteira Itajaí-SC 10/09 destaque",
+    "title": "Operador de Paleteira",
+    "city": "Itajaí-SC",
+    "description": "A MHunting está selecionando",
+    "published_at": "2026-09-15T20:03:26.940896+00:00",
+    "priority_score": 0,
+    "category": "OUTRAS",
+    "matches": []
+  },
+  "https://itajaionline.com.br/vaga/196398-consultor-de-negociacao-e-recuperacao-de-credito": {
+    "url": "https://itajaionline.com.br/vaga/196398-consultor-de-negociacao-e-recuperacao-de-credito",
+    "list_title": "Consultor de Negociação e Recuperação de Crédito Itajaí 10/09 destaque",
+    "title": "Consultor de Negociação e Recuperação de Crédito",
     "city": "Itajaí",
-    "description": "VAGA P/ AUX. DOCUMENTAL JR - EXPORTAÇÃO - Inicial entre R$ 1.800,00 - 2.000,00 (Benefícios UNIMED/ UNIODONTO/ CONVÊNIO C/ FARMÁCIA + RESTAURANTES)",
-    "published_at": "2026-09-15T16:57:27.111134+00:00",
+    "description": "Consultor de Negociação e Recuperação de Crédito",
+    "published_at": "2026-09-15T20:03:26.736671+00:00",
     "priority_score": 0,
     "category": "OUTRAS",
     "matches": []
   },
-  "https://itajaionline.com.br/vaga/193929-auxiliar-de-estoque-i": {
-    "url": "https://itajaionline.com.br/vaga/193929-auxiliar-de-estoque-i",
-    "list_title": "AUXILIAR DE ESTOQUE I Espinheiros - Itaja&iacut(...) 08/09 destaque",
-    "title": "AUXILIAR DE ESTOQUE I",
-    "city": "Espinheiros - Itajaí SC",
-    "description": "Atuar no controle e organização do estoque de vinhos, realizando recebimento, conferência, armazenamento, movimentação e abastecimento de produtos. Será responsável por manter a acuracidade do estoque, organizar os endereçamentos, apoiar os inventários e garantir o cumprimento dos procedimentos operacionais.",
-    "published_at": "2026-09-15T16:57:26.909481+00:00",
+  "https://itajaionline.com.br/vaga/194259-assistente-de-comercio-exterior-agenciamento-de-carga": {
+    "url": "https://itajaionline.com.br/vaga/194259-assistente-de-comercio-exterior-agenciamento-de-carga",
+    "list_title": "Assistente de Comércio Exterior (Agenciamento de Carga) Itajaí-SC 10/09 destaque",
+    "title": "Assistente de Comércio Exterior (Agenciamento de Carga)",
+    "city": "Itajaí-SC",
+    "description": "Se você já atua com importação e quer crescer em um ambiente estruturado, com contato direto com agentes internacionais e processos dinâmicos, essa oportunidade é para você.",
+    "published_at": "2026-09-15T20:03:26.526340+00:00",
     "priority_score": 0,
     "category": "OUTRAS",
     "matches": []
   },
-  "https://itajaionline.com.br/vaga/196518-auxiliar-de-operacao-i": {
-    "url": "https://itajaionline.com.br/vaga/196518-auxiliar-de-operacao-i",
-    "list_title": "AUXILIAR DE OPERAÇÃO I Espinheiros - Itaja&iacut(...) 08/09 destaque",
-    "title": "AUXILIAR DE OPERAÇÃO I",
-    "city": "Espinheiros - Itajaí SC",
-    "description": "📢 VAGA: AUXILIAR DE OPERAÇÃO 1 – SEPARAÇÃO",
-    "published_at": "2026-09-15T16:57:26.714810+00:00",
-    "priority_score": 0,
-    "category": "OUTRAS",
-    "matches": []
-  },
-  "https://itajaionline.com.br/vaga/196600-desenvolvedora-pleno-php-laravel-vue-js": {
-    "url": "https://itajaionline.com.br/vaga/196600-desenvolvedora-pleno-php-laravel-vue-js",
-    "list_title": "Desenvolvedor(a) Pleno – PHP / Laravel / Vue.js Itajaí 08/09 destaque",
-    "title": "Desenvolvedor(a) Pleno – PHP / Laravel / Vue.js",
+  "https://itajaionline.com.br/vaga/197501-tecnico-seguranca-do-trabalho": {
+    "url": "https://itajaionline.com.br/vaga/197501-tecnico-seguranca-do-trabalho",
+    "list_title": "Técnico Segurança do Trabalho Itajaí 10/09 destaque",
+    "title": "Técnico Segurança do Trabalho",
     "city": "Itajaí",
-    "description": "Vaga: Desenvolvedor(a) Pleno – PHP / Laravel / Vue.js",
-    "published_at": "2026-09-15T16:57:26.514724+00:00",
+    "description": "A MHunting está selecionando Técnico de Segurança do Trabalho para uma empresa de referência na cidade de Itajaí 🚀🎯",
+    "published_at": "2026-09-15T20:03:26.320338+00:00",
     "priority_score": 0,
     "category": "OUTRAS",
     "matches": []
   },
-  "https://itajaionline.com.br/vaga/197358-auxiliar-de-expedicao-de-mercadoria": {
-    "url": "https://itajaionline.com.br/vaga/197358-auxiliar-de-expedicao-de-mercadoria",
-    "list_title": "AUXILIAR DE EXPEDIÇÃO DE MERCADORIA ITAJAI 08/09 destaque",
-    "title": "AUXILIAR DE EXPEDIÇÃO DE MERCADORIA",
+  "https://itajaionline.com.br/vaga/185716-departamento-societario": {
+    "url": "https://itajaionline.com.br/vaga/185716-departamento-societario",
+    "list_title": "DEPARTAMENTO SOCIETÁRIO Itajai 10/09 destaque",
+    "title": "DEPARTAMENTO SOCIETÁRIO",
+    "city": "Itajai",
+    "description": "DEPARTAMENTO SOCIETÁRIO",
+    "published_at": "2026-09-15T20:03:26.115476+00:00",
+    "priority_score": 0,
+    "category": "OUTRAS",
+    "matches": []
+  },
+  "https://itajaionline.com.br/vaga/197519-estoquista": {
+    "url": "https://itajaionline.com.br/vaga/197519-estoquista",
+    "list_title": "ESTOQUISTA Itajaí 10/09 destaque",
+    "title": "ESTOQUISTA",
+    "city": "Itajaí",
+    "description": "📢 VAGA ABERTA – ESTOQUISTA",
+    "published_at": "2026-09-15T20:03:25.911753+00:00",
+    "priority_score": 0,
+    "category": "OUTRAS",
+    "matches": []
+  },
+  "https://itajaionline.com.br/vaga/197537-consultora-de-vendas": {
+    "url": "https://itajaionline.com.br/vaga/197537-consultora-de-vendas",
+    "list_title": "Consultora de vendas Navegantes 10/09 destaque",
+    "title": "Consultora de vendas",
+    "city": "Navegantes",
+    "description": "Vaga para consultora de vendas na cidade de Navegantes",
+    "published_at": "2026-09-15T20:03:25.704820+00:00",
+    "priority_score": 0,
+    "category": "OUTRAS",
+    "matches": []
+  },
+  "https://itajaionline.com.br/vaga/197544-auxiliar-de-e-commerce": {
+    "url": "https://itajaionline.com.br/vaga/197544-auxiliar-de-e-commerce",
+    "list_title": "AUXILIAR DE E-COMMERCE Itajaí 11/09 destaque",
+    "title": "AUXILIAR DE E-COMMERCE",
+    "city": "Itajaí",
+    "description": "R$ 2.250,00 + R$ 250,00 Assiduidade + R$ 750,00 vale alimentação",
+    "published_at": "2026-09-15T20:03:25.501074+00:00",
+    "priority_score": 0,
+    "category": "OUTRAS",
+    "matches": []
+  },
+  "https://itajaionline.com.br/vaga/193376-atendente-sorbetto-cafe": {
+    "url": "https://itajaionline.com.br/vaga/193376-atendente-sorbetto-cafe",
+    "list_title": "Atendente | Sorbetto Café ☕🍨 itajai 11/09 destaque",
+    "title": "Atendente | Sorbetto Café ☕🍨",
+    "city": "itajai",
+    "description": "📢 Vaga de Emprego – Atendente | Sorbetto Café ☕🍨",
+    "published_at": "2026-09-15T20:03:25.287514+00:00",
+    "priority_score": 0,
+    "category": "OUTRAS",
+    "matches": []
+  },
+  "https://itajaionline.com.br/vaga/162371-comercial": {
+    "url": "https://itajaionline.com.br/vaga/162371-comercial",
+    "list_title": "Comercial ITAJAI 11/09 destaque",
+    "title": "Comercial",
     "city": "ITAJAI",
-    "description": "AUXILIAR DE EXPEDIÇÃO DE MERCADORIAS",
-    "published_at": "2026-09-15T16:57:26.314693+00:00",
+    "description": "Empresa: America Maritime Services !!",
+    "published_at": "2026-09-15T20:03:25.086459+00:00",
     "priority_score": 0,
     "category": "OUTRAS",
     "matches": []
   },
-  "https://itajaionline.com.br/vaga/193772-tecnico-seguranca-do-trabalho": {
-    "url": "https://itajaionline.com.br/vaga/193772-tecnico-seguranca-do-trabalho",
-    "list_title": "Tecnico Segurança do Trabalho Itajaí 08/09 destaque",
-    "title": "Tecnico Segurança do Trabalho",
-    "city": "Itajaí",
-    "description": "📌 DADOS DA VAGA",
-    "published_at": "2026-09-15T16:57:26.117209+00:00",
+  "https://itajaionline.com.br/vaga/197590-vendedora-interno-telefonico": {
+    "url": "https://itajaionline.com.br/vaga/197590-vendedora-interno-telefonico",
+    "list_title": "Vendedor(a) Interno / Telefônico ITAJAI/SC 11/09 destaque",
+    "title": "Vendedor(a) Interno / Telefônico",
+    "city": "ITAJAI/SC",
+    "description": "Vaga: Vendedor(a) Interno / Telefônico",
+    "published_at": "2026-09-15T20:03:24.878989+00:00",
     "priority_score": 0,
     "category": "OUTRAS",
     "matches": []
   },
-  "https://itajaionline.com.br/vaga/197383-gerente-operacional-de-transportes": {
-    "url": "https://itajaionline.com.br/vaga/197383-gerente-operacional-de-transportes",
-    "list_title": "Gerente Operacional de transportes Itajaí 08/09 destaque",
-    "title": "Gerente Operacional de transportes",
-    "city": "Itajaí",
-    "description": "Gerente Operacional de transportes",
-    "published_at": "2026-09-15T16:57:25.917671+00:00",
+  "https://itajaionline.com.br/vaga/197598-vaga-recepcionista-star-protecao-veicular": {
+    "url": "https://itajaionline.com.br/vaga/197598-vaga-recepcionista-star-protecao-veicular",
+    "list_title": "VAGA RECEPCIONISTA STAR PROTEÇÃO VEICULAR ITAJAí 11/09 destaque",
+    "title": "VAGA RECEPCIONISTA STAR PROTEÇÃO VEICULAR",
+    "city": "ITAJAí",
+    "description": "VAGA ABERTA | RECEPCIONISTA",
+    "published_at": "2026-09-15T20:03:24.670629+00:00",
     "priority_score": 0,
     "category": "OUTRAS",
     "matches": []
   },
-  "https://itajaionline.com.br/vaga/191984-monitotacuidadora-de-caes": {
-    "url": "https://itajaionline.com.br/vaga/191984-monitotacuidadora-de-caes",
-    "list_title": "MONITOTA/CUIDADORA DE CÃES ITAJAI 09/09 destaque",
-    "title": "MONITOTA/CUIDADORA DE CÃES",
-    "city": "ITAJAI",
-    "description": "Vaga – Monitora/Cuidadora de Cães",
-    "published_at": "2026-09-15T16:57:25.720913+00:00",
+  "https://itajaionline.com.br/vaga/197610-auxiliar-de-manutencao": {
+    "url": "https://itajaionline.com.br/vaga/197610-auxiliar-de-manutencao",
+    "list_title": "AUXILIAR DE MANUTENÇÃO Balneário Cambori&(...) 11/09 destaque",
+    "title": "AUXILIAR DE MANUTENÇÃO",
+    "city": "Balneário Camboriú",
+    "description": "Vaga de auxiliar de manutenção industrial",
+    "published_at": "2026-09-15T20:03:24.459853+00:00",
     "priority_score": 0,
     "category": "OUTRAS",
     "matches": []
