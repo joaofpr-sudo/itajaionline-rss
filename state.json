@@ -877,6 +877,19 @@
       "administrativo"
     ]
   },
+  "https://itajaionline.com.br/vaga/197981-assistente-de-departamento-pessoal": {
+    "url": "https://itajaionline.com.br/vaga/197981-assistente-de-departamento-pessoal",
+    "list_title": "Assistente de Departamento Pessoal Itajaí, SC Hoje",
+    "title": "Assistente de Departamento Pessoal",
+    "city": "Itajaí, SC",
+    "description": "📢 VAGA: ASSISTENTE DE DEPARTAMENTO PESSOAL",
+    "published_at": "2026-09-18T16:43:51.612416+00:00",
+    "priority_score": 75,
+    "category": "ADMINISTRATIVO",
+    "matches": [
+      "departamento pessoal"
+    ]
+  },
   "https://itajaionline.com.br/vaga/197860-analista-de-departamento-pessoal": {
     "url": "https://itajaionline.com.br/vaga/197860-analista-de-departamento-pessoal",
     "list_title": "Analista de Departamento Pessoal Itajaí Hoje",
@@ -1150,167 +1163,156 @@
       "rh"
     ]
   },
-  "https://itajaionline.com.br/vaga/197941-atendente-padaria": {
-    "url": "https://itajaionline.com.br/vaga/197941-atendente-padaria",
-    "list_title": "Atendente Padaria Itajaí Hoje",
-    "title": "Atendente Padaria",
+  "https://itajaionline.com.br/vaga/197959-empregada-domestica": {
+    "url": "https://itajaionline.com.br/vaga/197959-empregada-domestica",
+    "list_title": "Empregada Doméstica Itajaí Hoje",
+    "title": "Empregada Doméstica",
     "city": "Itajaí",
-    "description": "Vaga para atendente padaria. Deve ser organizada, ágil, pontual, simpática, saber trabalhar em equipe. Jornada de trabalho de segunda a sábado 6 horas diárias. Domingos e feriados não trabalhamos. Salário compatível com a função.",
-    "published_at": "2026-09-18T12:39:20.865136+00:00",
+    "description": "DOMÉSTICA - ITAJAÍ/SC",
+    "published_at": "2026-09-18T16:43:55.630252+00:00",
     "priority_score": 0,
     "category": "OUTRAS",
     "matches": []
   },
-  "https://itajaionline.com.br/vaga/197943-zeladora": {
-    "url": "https://itajaionline.com.br/vaga/197943-zeladora",
-    "list_title": "Zeladora Itajai/SC Hoje",
-    "title": "Zeladora",
+  "https://itajaionline.com.br/vaga/197960-assistente-de-gr-e-controle-operacional-1385": {
+    "url": "https://itajaionline.com.br/vaga/197960-assistente-de-gr-e-controle-operacional-1385",
+    "list_title": "Assistente de GR e Controle Operacional #1385 Itajaí Hoje",
+    "title": "Assistente de GR e Controle Operacional #1385",
+    "city": "Itajaí",
+    "description": "ASSISTENTE DE GERENCIAMENTO DE RISCO E CONTROLE OPERACIONAL",
+    "published_at": "2026-09-18T16:43:55.408656+00:00",
+    "priority_score": 0,
+    "category": "OUTRAS",
+    "matches": []
+  },
+  "https://itajaionline.com.br/vaga/197961-repositor-de-mercado": {
+    "url": "https://itajaionline.com.br/vaga/197961-repositor-de-mercado",
+    "list_title": "Repositor de Mercado Itajaí Hoje",
+    "title": "Repositor de Mercado",
+    "city": "Itajaí",
+    "description": "Contrata-se repositor para atuar em mercado no bairro Cordeiros, em Itajaí/SC.",
+    "published_at": "2026-09-18T16:43:55.187525+00:00",
+    "priority_score": 0,
+    "category": "OUTRAS",
+    "matches": []
+  },
+  "https://itajaionline.com.br/vaga/197962-auxiliar-de-almoxarifado": {
+    "url": "https://itajaionline.com.br/vaga/197962-auxiliar-de-almoxarifado",
+    "list_title": "AUXILIAR DE ALMOXARIFADO Balneário Pi&ccedi(...) Hoje",
+    "title": "AUXILIAR DE ALMOXARIFADO",
+    "city": "Balneário Piçarras",
+    "description": "OPORTUNIDADE DE EMPREGO | AUXILIAR DE ALMOXARIFADO",
+    "published_at": "2026-09-18T16:43:54.967822+00:00",
+    "priority_score": 0,
+    "category": "OUTRAS",
+    "matches": []
+  },
+  "https://itajaionline.com.br/vaga/197963-cozinheira": {
+    "url": "https://itajaionline.com.br/vaga/197963-cozinheira",
+    "list_title": "Cozinheira Itajai Hoje",
+    "title": "Cozinheira",
+    "city": "Itajai",
+    "description": "Buscamos uma cozinheira responsável, organizada, comprometida e cuidadosa, que tenha zelo no preparo dos alimentos, atenção às normas de higiene e segurança alimentar e que desempenhe seu trabalho com dedicação e carinho, contribuindo para o bem-estar das crianças.",
+    "published_at": "2026-09-18T16:43:54.748632+00:00",
+    "priority_score": 0,
+    "category": "OUTRAS",
+    "matches": []
+  },
+  "https://itajaionline.com.br/vaga/197964-professor-a-de-ed-fisica": {
+    "url": "https://itajaionline.com.br/vaga/197964-professor-a-de-ed-fisica",
+    "list_title": "Professor (a) de Ed. Fisíca Itajai Hoje",
+    "title": "Professor (a) de Ed. Fisíca",
+    "city": "Itajai",
+    "description": "Buscamos uma professora ou professor de Educação Física responsável, criativo, dinâmico e comprometido, que goste de trabalhar com crianças e desenvolva atividades lúdicas, educativas e adequadas à faixa etária, contribuindo para o desenvolvimento motor, a socialização e o bem-estar das crianças. Precisa estar formardo",
+    "published_at": "2026-09-18T16:43:54.513339+00:00",
+    "priority_score": 0,
+    "category": "OUTRAS",
+    "matches": []
+  },
+  "https://itajaionline.com.br/vaga/197966-auxiliar-de-logistica": {
+    "url": "https://itajaionline.com.br/vaga/197966-auxiliar-de-logistica",
+    "list_title": "Auxiliar de Logistica Itajai/SC Hoje",
+    "title": "Auxiliar de Logistica",
     "city": "Itajai/SC",
     "description": "Descrição da vaga:",
-    "published_at": "2026-09-18T12:39:20.478127+00:00",
+    "published_at": "2026-09-18T16:43:54.292890+00:00",
     "priority_score": 0,
     "category": "OUTRAS",
     "matches": []
   },
-  "https://itajaionline.com.br/vaga/197944-assistenteanalista-de-gerenciamento-de-risco": {
-    "url": "https://itajaionline.com.br/vaga/197944-assistenteanalista-de-gerenciamento-de-risco",
-    "list_title": "ASSISTENTE/ANALISTA DE GERENCIAMENTO DE RISCO Itajaí-sc Hoje",
-    "title": "ASSISTENTE/ANALISTA DE GERENCIAMENTO DE RISCO",
-    "city": "Itajaí-sc",
-    "description": "Descrição da vaga:",
-    "published_at": "2026-09-18T12:39:20.284958+00:00",
+  "https://itajaionline.com.br/vaga/197967-operador-de-empilhadeira-navegantes": {
+    "url": "https://itajaionline.com.br/vaga/197967-operador-de-empilhadeira-navegantes",
+    "list_title": "OPERADOR DE EMPILHADEIRA - NAVEGANTES Navegantes Hoje",
+    "title": "OPERADOR DE EMPILHADEIRA - NAVEGANTES",
+    "city": "Navegantes",
+    "description": "OPERADOR DE EMPILHADEIRA - NAVEGANTES",
+    "published_at": "2026-09-18T16:43:54.069133+00:00",
     "priority_score": 0,
     "category": "OUTRAS",
     "matches": []
   },
-  "https://itajaionline.com.br/vaga/197945-monitora-operadora-de-caixa-de-parque-infantil": {
-    "url": "https://itajaionline.com.br/vaga/197945-monitora-operadora-de-caixa-de-parque-infantil",
-    "list_title": "Monitora / operadora de caixa de parque Infantil Itajai Hoje",
-    "title": "Monitora / operadora de caixa de parque Infantil",
-    "city": "Itajai",
-    "description": "MONITORA / OPERADORA DE CAIXA",
-    "published_at": "2026-09-18T12:39:20.091179+00:00",
+  "https://itajaionline.com.br/vaga/197968-operador-de-logistica-navegantes": {
+    "url": "https://itajaionline.com.br/vaga/197968-operador-de-logistica-navegantes",
+    "list_title": "OPERADOR DE LOGISTICA - NAVEGANTES Navegantes Hoje",
+    "title": "OPERADOR DE LOGISTICA - NAVEGANTES",
+    "city": "Navegantes",
+    "description": "OPERADOR DE LOGISTICA - NAVEGANTES",
+    "published_at": "2026-09-18T16:43:53.845082+00:00",
     "priority_score": 0,
     "category": "OUTRAS",
     "matches": []
   },
-  "https://itajaionline.com.br/vaga/197946-auxiliar-de-logistica": {
-    "url": "https://itajaionline.com.br/vaga/197946-auxiliar-de-logistica",
-    "list_title": "Auxiliar de Logistica Itajaí - SC Hoje",
-    "title": "Auxiliar de Logistica",
-    "city": "Itajaí - SC",
-    "description": "Atividade: Carga e Descarga",
-    "published_at": "2026-09-18T12:39:19.898401+00:00",
+  "https://itajaionline.com.br/vaga/197969-conferente-navegantes": {
+    "url": "https://itajaionline.com.br/vaga/197969-conferente-navegantes",
+    "list_title": "CONFERENTE - NAVEGANTES Navegantes Hoje",
+    "title": "CONFERENTE - NAVEGANTES",
+    "city": "Navegantes",
+    "description": "Missão: Responsável pela conferência, unitização e desunitização, descarga e expedição de mercadorias e pedidos, assegurando a qualidade e o cumprimento rigoroso dos procedimentos estabelecidos pela empresa, sempre com foco na eficiência e precisão. Atividades Principais: Realizar a conferência das mercadorias de forma manual e utilizando coletor de dados, tanto em termos quantitativos quanto qualitativos. Efetuar a unitização e desunitização de containers, garantindo a precisão das conferências e a integridade das mercadorias. Receber e expedir mercadorias utilizando coletor de dados, assegurando o correto fluxo e armazenamento. Auxiliar no processo de separação, vistoria e montagem das mercadorias, garantindo que as condições de transporte e armazenamento sejam atendidas. Operar transpaleteiras quando necessário para o transporte seguro de mercadorias. Preencher corretamente os documentos de faltas, avarias e acréscimos (TFAA), mantendo registros precisos. Orientar as equipes terceirizadas quanto à unitização e desunitização das cargas, garantindo a qualidade e conformidade com os processos internos.",
+    "published_at": "2026-09-18T16:43:53.614829+00:00",
     "priority_score": 0,
     "category": "OUTRAS",
     "matches": []
   },
-  "https://itajaionline.com.br/vaga/197947-almoxarife": {
-    "url": "https://itajaionline.com.br/vaga/197947-almoxarife",
-    "list_title": "Almoxarife NAVEGANTES Hoje",
-    "title": "Almoxarife",
-    "city": "NAVEGANTES",
-    "description": "VAGA: CONTROLE DE ESTOQUE – LOGÍSTICA",
-    "published_at": "2026-09-18T12:39:19.701431+00:00",
+  "https://itajaionline.com.br/vaga/197970-estagiario-de-engenharia-civil-planejamento": {
+    "url": "https://itajaionline.com.br/vaga/197970-estagiario-de-engenharia-civil-planejamento",
+    "list_title": "Estagiário de Engenharia Civil (Planejamento) Navegantes Hoje",
+    "title": "Estagiário de Engenharia Civil (Planejamento)",
+    "city": "Navegantes",
+    "description": "ESTAMOS CONTRATANDO:",
+    "published_at": "2026-09-18T16:43:53.386231+00:00",
     "priority_score": 0,
     "category": "OUTRAS",
     "matches": []
   },
-  "https://itajaionline.com.br/vaga/197949-montadora-de-dispositivos-itajai": {
-    "url": "https://itajaionline.com.br/vaga/197949-montadora-de-dispositivos-itajai",
-    "list_title": "MONTADOR(A) DE DISPOSITIVOS | ITAJAÍ Itajaí Hoje",
-    "title": "MONTADOR(A) DE DISPOSITIVOS | ITAJAÍ",
+  "https://itajaionline.com.br/vaga/197972-estagiario-civila-obra": {
+    "url": "https://itajaionline.com.br/vaga/197972-estagiario-civila-obra",
+    "list_title": "Estagiário Civil(A) Obra Navegantes Hoje",
+    "title": "Estagiário Civil(A) Obra",
+    "city": "Navegantes",
+    "description": "ESTAMOS CONTRATANDO:",
+    "published_at": "2026-09-18T16:43:53.163866+00:00",
+    "priority_score": 0,
+    "category": "OUTRAS",
+    "matches": []
+  },
+  "https://itajaionline.com.br/vaga/197973-lavador-caminhoes": {
+    "url": "https://itajaionline.com.br/vaga/197973-lavador-caminhoes",
+    "list_title": "LAVADOR (CAMINHÕES) Itajaí Hoje",
+    "title": "LAVADOR (CAMINHÕES)",
     "city": "Itajaí",
-    "description": "🧡🚀 MONTADOR(A) DE DISPOSITIVOS | ITAJAÍ - SC",
-    "published_at": "2026-09-18T12:39:19.314711+00:00",
+    "description": "VAGA: LAVADOR / AUXILIAR DE OFICINA",
+    "published_at": "2026-09-18T16:43:52.942639+00:00",
     "priority_score": 0,
     "category": "OUTRAS",
     "matches": []
   },
-  "https://itajaionline.com.br/vaga/197950-recepcionista": {
-    "url": "https://itajaionline.com.br/vaga/197950-recepcionista",
-    "list_title": "RECEPCIONISTA Itajaí Hoje",
-    "title": "RECEPCIONISTA",
+  "https://itajaionline.com.br/vaga/197974-gestor-de-manutencao-frota": {
+    "url": "https://itajaionline.com.br/vaga/197974-gestor-de-manutencao-frota",
+    "list_title": "GESTOR DE MANUTENÇÃO (FROTA) Itajaí Hoje",
+    "title": "GESTOR DE MANUTENÇÃO (FROTA)",
     "city": "Itajaí",
-    "description": "Recepcionar os clientes que entram no showroom, dando-lhes as boas vindas, agradecendo a visita em nome da Concessionária e, antes de encaminhar ao Consultor de Vendas, realizar o cadastro inicial (ex.: Nome completo, e-mail, família de carros de interesse e mídia de atração). Oferecer ao Cliente o Folheto de Especificação correspondente ao veículo de interesse. Acompanhar o cliente em Test Drive. Realizar o pré-atendimento caso os Consultores estejam em atendimento.Estar atualizada sobre as campanhas de vendas, mídias de atração que estão sendo utilizadas, preço de tabela dos veículos e ter conhecimento básico dos produtos.Realizar atendimento telefônico e/ou por e-mail.",
-    "published_at": "2026-09-18T12:39:19.119627+00:00",
-    "priority_score": 0,
-    "category": "OUTRAS",
-    "matches": []
-  },
-  "https://itajaionline.com.br/vaga/197951-analista-pcp": {
-    "url": "https://itajaionline.com.br/vaga/197951-analista-pcp",
-    "list_title": "Analista PCP Itajaí Hoje",
-    "title": "Analista PCP",
-    "city": "Itajaí",
-    "description": "* 🪢 VAGA PARA ANALISTA DE PCP – CORDOARIA BRASIL 🪢 *",
-    "published_at": "2026-09-18T12:39:18.925659+00:00",
-    "priority_score": 0,
-    "category": "OUTRAS",
-    "matches": []
-  },
-  "https://itajaionline.com.br/vaga/197952-mecanico-automotivo-com-experiencia": {
-    "url": "https://itajaionline.com.br/vaga/197952-mecanico-automotivo-com-experiencia",
-    "list_title": "Mecânico Automotivo com experiência Itajaí Hoje",
-    "title": "Mecânico Automotivo com experiência",
-    "city": "Itajaí",
-    "description": "Vaga para mecânico automotivo em Itajaí.",
-    "published_at": "2026-09-18T12:39:18.726059+00:00",
-    "priority_score": 0,
-    "category": "OUTRAS",
-    "matches": []
-  },
-  "https://itajaionline.com.br/vaga/197954-montador-i-pfiffner-do-brasil": {
-    "url": "https://itajaionline.com.br/vaga/197954-montador-i-pfiffner-do-brasil",
-    "list_title": "Montador I - PFIFFNER DO BRASIL Itajaí Hoje",
-    "title": "Montador I - PFIFFNER DO BRASIL",
-    "city": "Itajaí",
-    "description": "Cargo: Montador I Atribuições: Executar atividades de pré-montagem e montagem de acessórios para transformadores; Interpretar desenhos técnicos, especificações e ordens de produção; Preparar, organizar e conferir materiais e componentes conforme o projeto; Registrar e acompanhar ordens de produção, garantindo rastreabilidade do processo; Cumprir normas e procedimentos de segurança, com uso adequado de EPIs e EPCs; Manter a organização do posto de trabalho conforme as práticas do Programa 5S; Executar rotinas de manutenção conforme planos e procedimentos estabelecidos. Formação: Ensino médio completo Habilidades: Comunicação eficaz; Trabalho em equipe; Capacidade de inovação; Bom relacionamento interpessoal. Benefícios: Vale refeição; Vale alimentação; Plano de saúde UNIMED; Plano odontológico UNIODONTO; Atendimento Psicológico – Programa Interno de Saúde Mental Convênio com instituições de ensino (Univali, Unisul, Rockfeller entre outros.); Vale Idiomas – Sprache&Wissen Bônus Aniversário (Cartão Presente Havan) Cartão farmácia - Bracov; Seguro de vida; Auxílio Educação; Férias Coletivas PPR anual conforme lucros/resultados.",
-    "published_at": "2026-09-18T12:39:18.331449+00:00",
-    "priority_score": 0,
-    "category": "OUTRAS",
-    "matches": []
-  },
-  "https://itajaionline.com.br/vaga/197955-bobinador-i-2-turno-pfiffner": {
-    "url": "https://itajaionline.com.br/vaga/197955-bobinador-i-2-turno-pfiffner",
-    "list_title": "Bobinador I (2° Turno) - PFIFFNER Itajaí Hoje",
-    "title": "Bobinador I (2° Turno) - PFIFFNER",
-    "city": "Itajaí",
-    "description": "Cargo: Bobinador I Setor: Bobinagem TC e Resinagem Atribuições: Executar atividades de isolação e bobinagem do núcleo de transformadores; Interpretar desenhos técnicos, especificações e ordens de produção; Preparar, organizar e conferir materiais e componentes conforme o projeto; Realizar soldagem e crimpagem de conexões elétricas; Auxiliar na execução de testes elétricos conforme especificações do produto; Cumprir normas e procedimentos de segurança, com uso adequado de EPIs e EPCs; Manter a organização do posto de trabalho conforme as práticas do Programa 5S.",
-    "published_at": "2026-09-18T12:39:18.124951+00:00",
-    "priority_score": 0,
-    "category": "OUTRAS",
-    "matches": []
-  },
-  "https://itajaionline.com.br/vaga/197956-isolador-tc-e-tpi-i-1-turno-pfiffner-do-brasil": {
-    "url": "https://itajaionline.com.br/vaga/197956-isolador-tc-e-tpi-i-1-turno-pfiffner-do-brasil",
-    "list_title": "Isolador TC e TPI I (1º Turno) - PFIFFNER do Brasil Itajaí Hoje",
-    "title": "Isolador TC e TPI I (1º Turno) - PFIFFNER do Brasil",
-    "city": "Itajaí",
-    "description": "Cargo: Isolador TC e TPI I Setor: Isolação Atribuições: Executar atividades de isolação e blindagem da parte ativa de transformadores; Interpretar desenhos técnicos, especificações e ordens de produção; Realizar soldagem e crimpagem de conexões elétricas conforme projeto; Registrar e acompanhar ordens de produção, garantindo rastreabilidade do processo; Cumprir normas e procedimentos de segurança, com uso adequado de EPIs e EPCs; Manter a organização do posto de trabalho conforme práticas do Programa 5S; Executar rotinas de manutenção conforme planos e procedimentos estabelecidos.",
-    "published_at": "2026-09-18T12:39:17.918203+00:00",
-    "priority_score": 0,
-    "category": "OUTRAS",
-    "matches": []
-  },
-  "https://itajaionline.com.br/vaga/197957-operador-de-caixa": {
-    "url": "https://itajaionline.com.br/vaga/197957-operador-de-caixa",
-    "list_title": "Operador de caixa Itajaí Hoje",
-    "title": "Operador de caixa",
-    "city": "Itajaí",
-    "description": "A AROMMA está com oportunidade para",
-    "published_at": "2026-09-18T12:39:17.722274+00:00",
-    "priority_score": 0,
-    "category": "OUTRAS",
-    "matches": []
-  },
-  "https://itajaionline.com.br/vaga/197958-ajudante-de-padeiro-e-confeitaria": {
-    "url": "https://itajaionline.com.br/vaga/197958-ajudante-de-padeiro-e-confeitaria",
-    "list_title": "AJUDANTE DE PADEIRO E CONFEITARIA Itajaí Hoje",
-    "title": "AJUDANTE DE PADEIRO E CONFEITARIA",
-    "city": "Itajaí",
-    "description": "A AROMMA está com oportunidade para",
-    "published_at": "2026-09-18T12:39:17.529557+00:00",
+    "description": "VAGA: GESTOR DE MANUTENÇÃO DE FROTA",
+    "published_at": "2026-09-18T16:43:52.721695+00:00",
     "priority_score": 0,
     "category": "OUTRAS",
     "matches": []
