@@ -1179,6 +1179,19 @@
       "departamento pessoal"
     ]
   },
+  "https://itajaionline.com.br/vaga/197495-secretaria-comercial": {
+    "url": "https://itajaionline.com.br/vaga/197495-secretaria-comercial",
+    "list_title": "SECRETÁRIA COMERCIAL ITAJAÍ Ontem destaque",
+    "title": "SECRETÁRIA COMERCIAL",
+    "city": "ITAJAÍ",
+    "description": "ESTAMOS CONTRATANDO",
+    "published_at": "2026-09-22T22:25:56.684656+00:00",
+    "priority_score": 70,
+    "category": "ADMINISTRATIVO",
+    "matches": [
+      "secretária"
+    ]
+  },
   "https://itajaionline.com.br/vaga/198164-analista-fiscal": {
     "url": "https://itajaionline.com.br/vaga/198164-analista-fiscal",
     "list_title": "Analista Fiscal ITAJAÍ Hoje",
@@ -1346,19 +1359,6 @@
     "category": "ADMINISTRATIVO",
     "matches": [
       "compras"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/197533-fiscal-de-limpeza-urbana": {
-    "url": "https://itajaionline.com.br/vaga/197533-fiscal-de-limpeza-urbana",
-    "list_title": "Fiscal de Limpeza Urbana Itajaí Hoje",
-    "title": "Fiscal de Limpeza Urbana",
-    "city": "Itajaí",
-    "description": "Horário de trabalho: 06h às 14h20 de segunda-feira a sábado",
-    "published_at": "2026-09-10T21:04:09.097783+00:00",
-    "priority_score": 70,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "fiscal"
     ]
   }
 }
