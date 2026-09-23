@@ -752,6 +752,20 @@
       "rh"
     ]
   },
+  "https://itajaionline.com.br/vaga/198245-analista-de-rh-foco-em-r-s": {
+    "url": "https://itajaionline.com.br/vaga/198245-analista-de-rh-foco-em-r-s",
+    "list_title": "Analista de RH - foco em R&S Itajaí Hoje",
+    "title": "Analista de RH - foco em R&S",
+    "city": "Itajaí",
+    "description": "O Grupo Barigüi está em busca de um(a) Analista de Recursos Humanos , com foco em Recrutamento e Seleção , para integrar nosso time em Itajaí/SC!",
+    "published_at": "2026-09-23T22:16:37.801992+00:00",
+    "priority_score": 120,
+    "category": "ADMINISTRATIVO",
+    "matches": [
+      "recursos humanos",
+      "rh"
+    ]
+  },
   "https://itajaionline.com.br/vaga/197930-administrativo": {
     "url": "https://itajaionline.com.br/vaga/197930-administrativo",
     "list_title": "Administrativo Itajaí Hoje",
@@ -932,6 +946,19 @@
     "category": "FINANCEIRO",
     "matches": [
       "cobrança"
+    ]
+  },
+  "https://itajaionline.com.br/vaga/198255-analista-contabil": {
+    "url": "https://itajaionline.com.br/vaga/198255-analista-contabil",
+    "list_title": "Analista Contábil Navegantes Hoje",
+    "title": "Analista Contábil",
+    "city": "Navegantes",
+    "description": "🎁 Benefícios: ✅ Vale-alimentação de R$ 500,00; ✅ Plano de saúde; ✅ Plano odontológico; ✅ Bolsa de estudos; ✅ Seguro de vida; ✅ Vale-transporte; ✅ Convênio com farmácia; ✅ Day Off no aniversário; ✅ Academia AD3 gratuita, com acesso a nutricionais e avaliação física; ✅ Convênio com psicólogos.",
+    "published_at": "2026-09-23T22:16:35.825384+00:00",
+    "priority_score": 90,
+    "category": "ADMINISTRATIVO",
+    "matches": [
+      "contábil"
     ]
   },
   "https://itajaionline.com.br/vaga/198242-assistente-contabil": {
@@ -1207,6 +1234,19 @@
       "administrativo"
     ]
   },
+  "https://itajaionline.com.br/vaga/198253-analista-de-departamento-pessoal": {
+    "url": "https://itajaionline.com.br/vaga/198253-analista-de-departamento-pessoal",
+    "list_title": "ANALISTA DE DEPARTAMENTO PESSOAL Navegantes Hoje",
+    "title": "ANALISTA DE DEPARTAMENTO PESSOAL",
+    "city": "Navegantes",
+    "description": "📢 VAGA ABERTA | ANALISTA DE DEPARTAMENTO PESSOAL",
+    "published_at": "2026-09-23T22:16:36.223144+00:00",
+    "priority_score": 75,
+    "category": "ADMINISTRATIVO",
+    "matches": [
+      "departamento pessoal"
+    ]
+  },
   "https://itajaionline.com.br/vaga/197981-assistente-de-departamento-pessoal": {
     "url": "https://itajaionline.com.br/vaga/197981-assistente-de-departamento-pessoal",
     "list_title": "Assistente de Departamento Pessoal Itajaí, SC Hoje",
@@ -1259,6 +1299,45 @@
       "departamento pessoal"
     ]
   },
+  "https://itajaionline.com.br/vaga/198252-analista-fiscal": {
+    "url": "https://itajaionline.com.br/vaga/198252-analista-fiscal",
+    "list_title": "Analista Fiscal Navegantes Hoje",
+    "title": "Analista Fiscal",
+    "city": "Navegantes",
+    "description": "📢 VAGA ABERTA | ANALISTA FISCAL",
+    "published_at": "2026-09-23T22:16:36.419411+00:00",
+    "priority_score": 70,
+    "category": "ADMINISTRATIVO",
+    "matches": [
+      "fiscal"
+    ]
+  },
+  "https://itajaionline.com.br/vaga/198257-auxiliar-fiscal": {
+    "url": "https://itajaionline.com.br/vaga/198257-auxiliar-fiscal",
+    "list_title": "AUXILIAR FISCAL Itajaí Hoje",
+    "title": "AUXILIAR FISCAL",
+    "city": "Itajaí",
+    "description": "Auxilio nos lançamentos e análise de notas fiscais;",
+    "published_at": "2026-09-23T22:16:35.418083+00:00",
+    "priority_score": 70,
+    "category": "ADMINISTRATIVO",
+    "matches": [
+      "fiscal"
+    ]
+  },
+  "https://itajaionline.com.br/vaga/198266-analista-de-departamento-fiscal": {
+    "url": "https://itajaionline.com.br/vaga/198266-analista-de-departamento-fiscal",
+    "list_title": "ANALISTA DE DEPARTAMENTO FISCAL Itajaí Hoje",
+    "title": "ANALISTA DE DEPARTAMENTO FISCAL",
+    "city": "Itajaí",
+    "description": "Responder pela escrita fiscal, ou seja, lançamento de registros de notas fiscais.;",
+    "published_at": "2026-09-23T22:16:33.608806+00:00",
+    "priority_score": 70,
+    "category": "ADMINISTRATIVO",
+    "matches": [
+      "fiscal"
+    ]
+  },
   "https://itajaionline.com.br/vaga/198201-analista-de-compras-e-estoque": {
     "url": "https://itajaionline.com.br/vaga/198201-analista-de-compras-e-estoque",
     "list_title": "Analista de Compras e Estoque Balneário Cambori&(...) Hoje",
@@ -1283,84 +1362,6 @@
     "category": "ADMINISTRATIVO",
     "matches": [
       "compras"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/197495-secretaria-comercial": {
-    "url": "https://itajaionline.com.br/vaga/197495-secretaria-comercial",
-    "list_title": "SECRETÁRIA COMERCIAL ITAJAÍ Ontem destaque",
-    "title": "SECRETÁRIA COMERCIAL",
-    "city": "ITAJAÍ",
-    "description": "ESTAMOS CONTRATANDO",
-    "published_at": "2026-09-22T22:25:56.684656+00:00",
-    "priority_score": 70,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "secretária"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/198164-analista-fiscal": {
-    "url": "https://itajaionline.com.br/vaga/198164-analista-fiscal",
-    "list_title": "Analista Fiscal ITAJAÍ Hoje",
-    "title": "Analista Fiscal",
-    "city": "ITAJAÍ",
-    "description": "Buscamos um",
-    "published_at": "2026-09-22T19:44:57.539814+00:00",
-    "priority_score": 70,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "fiscal"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/198166-cadastro": {
-    "url": "https://itajaionline.com.br/vaga/198166-cadastro",
-    "list_title": "CADASTRO Itajaí Hoje",
-    "title": "CADASTRO",
-    "city": "Itajaí",
-    "description": "REQUISITOS • Ambos os sexos; • Ter experiência; • Formação: 2 Grau Completo; • Disponibilidade de horário; COMPETÊNCIAS • Bom Relacionamento com o cliente interno e externo; • Comunicação clara e objetiva; • Proatividade e vontade de aprender ATIVIDADES • Recebimento de mercadorias; • Conferencia de notas fiscais e mercadorias; • Cadastro de mercadorias; • Etiquetagem e separação de mercadorias; • Demais atividade pertinentes a função; Horário: SEG A SEX 8H45 ÀS 18H30 E SÁBADO 8H45 ÀS 17H (APÓS 13H PAGO COMO HORA EXTRA) Salário: R$ 2.115,00 após experiencia R$ 2.380,00 + desconto de 20% em compras nas lojas do grupo + convenio com Postos de Combustíveis do grupo + vale transporte + convenio com a Nutrifarma. Enviar currículo para Curriculo@casadasograitajai.com.br e no assunto colocar CADASTRO",
-    "published_at": "2026-09-22T19:44:57.140908+00:00",
-    "priority_score": 70,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "compras"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/198110-analista-de-compras-e-estoque": {
-    "url": "https://itajaionline.com.br/vaga/198110-analista-de-compras-e-estoque",
-    "list_title": "Analista de Compras e Estoque Balneário Cambori&(...) Hoje",
-    "title": "Analista de Compras e Estoque",
-    "city": "Balneário Camboriú",
-    "description": "Detalhes da vaga:",
-    "published_at": "2026-09-22T11:55:46.444564+00:00",
-    "priority_score": 70,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "compras"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/198066-analista-fiscal": {
-    "url": "https://itajaionline.com.br/vaga/198066-analista-fiscal",
-    "list_title": "ANALISTA FISCAL SÃO JOÃO - (...) Hoje",
-    "title": "ANALISTA FISCAL",
-    "city": "SÃO JOÃO - ITAJAÍ",
-    "description": "ATIVIDADES DESENVOLVIDAS: Em obrigações acessórias: DIME, SPED ICMS/IPI, EFD Contribuições e GIA;Apuração de tributos como ICMS, retenções, Lucro Presumido e Lucro Real (PIS/Cofins);",
-    "published_at": "2026-09-21T19:26:43.964234+00:00",
-    "priority_score": 70,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "fiscal"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/189725-assistente-fiscal": {
-    "url": "https://itajaionline.com.br/vaga/189725-assistente-fiscal",
-    "list_title": "Assistente Fiscal Itajaí Hoje destaque",
-    "title": "Assistente Fiscal",
-    "city": "Itajaí",
-    "description": "Assistente Fiscal A MHunting está selecionando Assistente Fiscal para uma empresa de referência na cidade de Itajaí (Praia Brava)",
-    "published_at": "2026-09-21T14:09:11.124584+00:00",
-    "priority_score": 70,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "fiscal"
     ]
   }
 }
