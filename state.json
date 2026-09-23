@@ -854,6 +854,19 @@
       "faturamento"
     ]
   },
+  "https://itajaionline.com.br/vaga/198221-assistente-de-cobranca": {
+    "url": "https://itajaionline.com.br/vaga/198221-assistente-de-cobranca",
+    "list_title": "Assistente de Cobrança Itajaí Hoje",
+    "title": "Assistente de Cobrança",
+    "city": "Itajaí",
+    "description": "ASSISTENTE DE COBRANÇA",
+    "published_at": "2026-09-23T15:02:17.734652+00:00",
+    "priority_score": 100,
+    "category": "FINANCEIRO",
+    "matches": [
+      "cobrança"
+    ]
+  },
   "https://itajaionline.com.br/vaga/197708-assistente-de-cobranca": {
     "url": "https://itajaionline.com.br/vaga/197708-assistente-de-cobranca",
     "list_title": "Assistente de Cobrança Itajaí Hoje",
@@ -891,6 +904,32 @@
     "category": "FINANCEIRO",
     "matches": [
       "cobrança"
+    ]
+  },
+  "https://itajaionline.com.br/vaga/198202-mauricio": {
+    "url": "https://itajaionline.com.br/vaga/198202-mauricio",
+    "list_title": "Mauricio ITAJAI Hoje",
+    "title": "Mauricio",
+    "city": "ITAJAI",
+    "description": "ANALISTA CONTÁBIL",
+    "published_at": "2026-09-23T15:02:21.312628+00:00",
+    "priority_score": 90,
+    "category": "ADMINISTRATIVO",
+    "matches": [
+      "contábil"
+    ]
+  },
+  "https://itajaionline.com.br/vaga/198215-analista-contabil-sr": {
+    "url": "https://itajaionline.com.br/vaga/198215-analista-contabil-sr",
+    "list_title": "Analista Contábil Sr Itajaí Hoje",
+    "title": "Analista Contábil Sr",
+    "city": "Itajaí",
+    "description": "Experiência em rotinas contábeis, preferencialmente em empresas de transportes e/ou logística.",
+    "published_at": "2026-09-23T15:02:19.000661+00:00",
+    "priority_score": 90,
+    "category": "ADMINISTRATIVO",
+    "matches": [
+      "contábil"
     ]
   },
   "https://itajaionline.com.br/vaga/197935-analista-contabil": {
@@ -1179,6 +1218,32 @@
       "departamento pessoal"
     ]
   },
+  "https://itajaionline.com.br/vaga/198201-analista-de-compras-e-estoque": {
+    "url": "https://itajaionline.com.br/vaga/198201-analista-de-compras-e-estoque",
+    "list_title": "Analista de Compras e Estoque Balneário Cambori&(...) Hoje",
+    "title": "Analista de Compras e Estoque",
+    "city": "Balneário Camboriú",
+    "description": "Atribuições relativas a compras e estoque:",
+    "published_at": "2026-09-23T15:02:21.523767+00:00",
+    "priority_score": 70,
+    "category": "ADMINISTRATIVO",
+    "matches": [
+      "compras"
+    ]
+  },
+  "https://itajaionline.com.br/vaga/198224-assistente-de-compras-internacionais": {
+    "url": "https://itajaionline.com.br/vaga/198224-assistente-de-compras-internacionais",
+    "list_title": "Assistente de Compras Internacionais Itajaí Hoje",
+    "title": "Assistente de Compras Internacionais",
+    "city": "Itajaí",
+    "description": "Vaga: Assistente de Compras Internacionais",
+    "published_at": "2026-09-23T15:02:17.105337+00:00",
+    "priority_score": 70,
+    "category": "ADMINISTRATIVO",
+    "matches": [
+      "compras"
+    ]
+  },
   "https://itajaionline.com.br/vaga/197495-secretaria-comercial": {
     "url": "https://itajaionline.com.br/vaga/197495-secretaria-comercial",
     "list_title": "SECRETÁRIA COMERCIAL ITAJAÍ Ontem destaque",
@@ -1294,71 +1359,6 @@
     "category": "ADMINISTRATIVO",
     "matches": [
       "fiscal"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/197831-analista-fiscal": {
-    "url": "https://itajaionline.com.br/vaga/197831-analista-fiscal",
-    "list_title": "ANALISTA FISCAL Balneário Cambori&(...) Hoje",
-    "title": "ANALISTA FISCAL",
-    "city": "Balneário Camboriú",
-    "description": "ANALISTA FISCAL Jr.",
-    "published_at": "2026-09-16T22:09:30.381311+00:00",
-    "priority_score": 70,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "fiscal"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/197786-secretariarecepcionista-de-clinica-odontologica": {
-    "url": "https://itajaionline.com.br/vaga/197786-secretariarecepcionista-de-clinica-odontologica",
-    "list_title": "Secretária/recepcionista de Clinica Odontológica Itajaí Hoje",
-    "title": "Secretária/recepcionista de Clinica Odontológica",
-    "city": "Itajaí",
-    "description": "VAGA PARA SECRETÁRIA – ITAJAÍ/SC",
-    "published_at": "2026-09-15T20:03:30.256679+00:00",
-    "priority_score": 70,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "secretária"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/197765-analista-fiscal": {
-    "url": "https://itajaionline.com.br/vaga/197765-analista-fiscal",
-    "list_title": "ANALISTA FISCAL Itajaí Hoje",
-    "title": "ANALISTA FISCAL",
-    "city": "Itajaí",
-    "description": "Conformidade Fiscal: Assegurar o correto cumprimento das obrigações fiscais principais e acessórias.",
-    "published_at": "2026-09-15T16:57:29.098596+00:00",
-    "priority_score": 70,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "fiscal"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/197696-secretaria-plantao-de-vendas": {
-    "url": "https://itajaionline.com.br/vaga/197696-secretaria-plantao-de-vendas",
-    "list_title": "SECRETÁRIA PLANTÃO DE VENDAS ITAJAI/SC Hoje",
-    "title": "SECRETÁRIA PLANTÃO DE VENDAS",
-    "city": "ITAJAI/SC",
-    "description": "Secretária Construtora – Plantão de Vendas – Centro -Itajaí/SC :",
-    "published_at": "2026-09-15T12:10:14.721355+00:00",
-    "priority_score": 70,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "secretária"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/197507-analista-de-compras": {
-    "url": "https://itajaionline.com.br/vaga/197507-analista-de-compras",
-    "list_title": "Analista de Compras Itajai Hoje",
-    "title": "Analista de Compras",
-    "city": "Itajai",
-    "description": "Analista de Compras (A) – PARA ITAJAÍ",
-    "published_at": "2026-09-10T21:04:14.654357+00:00",
-    "priority_score": 70,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "compras"
     ]
   }
 }
