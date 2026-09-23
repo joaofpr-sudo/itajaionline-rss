@@ -5,7 +5,7 @@
     <link>https://itajaionline.com.br/vagas</link>
     <description>Feed de vagas com prioridade para Financeiro, Faturamento, Contas a Pagar/Receber e Administrativo.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 23 Sep 2026 15:02:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 19:03:54 +0000</lastBuildDate>
     <item>
       <title>★ FINANCEIRO | Assistente Financeiro - Ctas a Receber — Itajaí</title>
       <link>https://itajaionline.com.br/vaga/197272-assistente-financeiro-ctas-a-receber</link>
@@ -207,6 +207,14 @@
       <pubDate>Wed, 09 Sep 2026 01:21:37 +0000</pubDate>
     </item>
     <item>
+      <title>☆ ADMINISTRATIVO | Auxiliar Administrativo Comercial — Itajai</title>
+      <link>https://itajaionline.com.br/vaga/198241-auxiliar-administrativo-comercial</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/198241-auxiliar-administrativo-comercial</guid>
+      <description>[ADMINISTRATIVO] Auxiliar Administrativo Comercial | Termos identificados: auxiliar administrativo, administrativo</description>
+      <category>ADMINISTRATIVO</category>
+      <pubDate>Wed, 23 Sep 2026 19:03:45 +0000</pubDate>
+    </item>
+    <item>
       <title>☆ ADMINISTRATIVO | Auxiliar Administrativo — Itajaí</title>
       <link>https://itajaionline.com.br/vaga/198172-auxiliar-administrativo</link>
       <guid isPermaLink="true">https://itajaionline.com.br/vaga/198172-auxiliar-administrativo</guid>
@@ -383,6 +391,14 @@
       <pubDate>Mon, 21 Sep 2026 22:43:07 +0000</pubDate>
     </item>
     <item>
+      <title>☆ ADMINISTRATIVO | Analista Fiscal Contábil — Balneario Camboriu</title>
+      <link>https://itajaionline.com.br/vaga/198235-analista-fiscal-contabil</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/198235-analista-fiscal-contabil</guid>
+      <description>[ADMINISTRATIVO] ANALISTA FISCAL CONTÁBIL - COMÉRCIO EXTERIOR | Termos identificados: contábil, fiscal</description>
+      <category>ADMINISTRATIVO</category>
+      <pubDate>Wed, 23 Sep 2026 19:03:46 +0000</pubDate>
+    </item>
+    <item>
       <title>☆ ADMINISTRATIVO | Auxiliar Contábil Fiscal — Itajaí</title>
       <link>https://itajaionline.com.br/vaga/197687-auxiliar-contabil-fiscal</link>
       <guid isPermaLink="true">https://itajaionline.com.br/vaga/197687-auxiliar-contabil-fiscal</guid>
@@ -525,6 +541,14 @@
       <description>[FINANCEIRO] AUXILIAR DE COBRANÇA | Termos identificados: cobrança</description>
       <category>FINANCEIRO</category>
       <pubDate>Wed, 09 Sep 2026 21:28:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>☆ ADMINISTRATIVO | Assistente Contábil — Itajaí</title>
+      <link>https://itajaionline.com.br/vaga/198242-assistente-contabil</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/198242-assistente-contabil</guid>
+      <description>[ADMINISTRATIVO] Auxiliar Contábil | Termos identificados: contábil</description>
+      <category>ADMINISTRATIVO</category>
+      <pubDate>Wed, 23 Sep 2026 19:03:45 +0000</pubDate>
     </item>
     <item>
       <title>☆ ADMINISTRATIVO | Mauricio — ITAJAI</title>
@@ -781,30 +805,6 @@
       <description>[ADMINISTRATIVO] Assistente Fiscal A MHunting está selecionando Assistente Fiscal para uma empresa de referência na cidade de Itajaí (Praia Brava) | Termos identificados: fiscal</description>
       <category>ADMINISTRATIVO</category>
       <pubDate>Mon, 21 Sep 2026 14:09:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>☆ ADMINISTRATIVO | ANALISTA DE COMPRAS — ITAJAI</title>
-      <link>https://itajaionline.com.br/vaga/197992-analista-de-compras</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197992-analista-de-compras</guid>
-      <description>[ADMINISTRATIVO] A *Mares Importadora*, localizada em *Itajaí/SC*, está | Termos identificados: compras</description>
-      <category>ADMINISTRATIVO</category>
-      <pubDate>Fri, 18 Sep 2026 19:13:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>☆ ADMINISTRATIVO | Secretária — Itajaí</title>
-      <link>https://itajaionline.com.br/vaga/197953-secretaria</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197953-secretaria</guid>
-      <description>[ADMINISTRATIVO] Secretária Comercial. | Termos identificados: secretária</description>
-      <category>ADMINISTRATIVO</category>
-      <pubDate>Fri, 18 Sep 2026 12:39:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>☆ ADMINISTRATIVO | Auxiliar de Depto Fiscal — Navegantes</title>
-      <link>https://itajaionline.com.br/vaga/197971-auxiliar-de-depto-fiscal</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197971-auxiliar-de-depto-fiscal</guid>
-      <description>[ADMINISTRATIVO] 🔎 Estamos contratando: Auxiliar de Departamento Fiscal | Termos identificados: fiscal</description>
-      <category>ADMINISTRATIVO</category>
-      <pubDate>Fri, 18 Sep 2026 12:39:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
