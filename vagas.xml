@@ -5,7 +5,7 @@
     <link>https://itajaionline.com.br/vagas</link>
     <description>Feed de vagas com prioridade para Financeiro, Faturamento, Contas a Pagar/Receber e Administrativo.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 24 Sep 2026 10:21:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 15:21:48 +0000</lastBuildDate>
     <item>
       <title>★ FINANCEIRO | Assistente Financeiro - Ctas a Receber — Itajaí</title>
       <link>https://itajaionline.com.br/vaga/197272-assistente-financeiro-ctas-a-receber</link>
@@ -519,6 +519,14 @@
       <pubDate>Wed, 09 Sep 2026 01:21:40 +0000</pubDate>
     </item>
     <item>
+      <title>★ FINANCEIRO | COBRANÇA — ITAJAI</title>
+      <link>https://itajaionline.com.br/vaga/198287-cobranca</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/198287-cobranca</guid>
+      <description>[FINANCEIRO] 📢 VAGA ABERTA – COBRANÇA | Termos identificados: cobrança</description>
+      <category>FINANCEIRO</category>
+      <pubDate>Thu, 24 Sep 2026 15:21:43 +0000</pubDate>
+    </item>
+    <item>
       <title>★ FINANCEIRO | Assistente de Cobrança — Itajaí</title>
       <link>https://itajaionline.com.br/vaga/198221-assistente-de-cobranca</link>
       <guid isPermaLink="true">https://itajaionline.com.br/vaga/198221-assistente-de-cobranca</guid>
@@ -549,6 +557,14 @@
       <description>[FINANCEIRO] AUXILIAR DE COBRANÇA | Termos identificados: cobrança</description>
       <category>FINANCEIRO</category>
       <pubDate>Wed, 09 Sep 2026 21:28:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>☆ ADMINISTRATIVO | ANALISTA DE DEPARTAMENTO CONTÁBIL — Itajaí</title>
+      <link>https://itajaionline.com.br/vaga/198269-analista-de-departamento-contabil</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/198269-analista-de-departamento-contabil</guid>
+      <description>[ADMINISTRATIVO] 1. Realizar trabalhos contábil, efetuar lançamentos contábeis, balancetes mensais e o balanço final. | Termos identificados: contábil</description>
+      <category>ADMINISTRATIVO</category>
+      <pubDate>Thu, 24 Sep 2026 15:21:47 +0000</pubDate>
     </item>
     <item>
       <title>☆ ADMINISTRATIVO | Analista Contábil — Navegantes</title>
@@ -789,22 +805,6 @@
       <description>[ADMINISTRATIVO] Assistente Fiscal A MHunting está selecionando Assistente Fiscal para uma empresa de referência na cidade de Itajaí (Praia Brava) | Termos identificados: fiscal</description>
       <category>ADMINISTRATIVO</category>
       <pubDate>Thu, 24 Sep 2026 00:40:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>☆ ADMINISTRATIVO | SECRETÁRIA COMERCIAL — ITAJAÍ</title>
-      <link>https://itajaionline.com.br/vaga/197495-secretaria-comercial</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197495-secretaria-comercial</guid>
-      <description>[ADMINISTRATIVO] ESTAMOS CONTRATANDO | Termos identificados: secretária</description>
-      <category>ADMINISTRATIVO</category>
-      <pubDate>Thu, 24 Sep 2026 00:40:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>☆ ADMINISTRATIVO | Analista Fiscal — Navegantes</title>
-      <link>https://itajaionline.com.br/vaga/198252-analista-fiscal</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/198252-analista-fiscal</guid>
-      <description>[ADMINISTRATIVO] 📢 VAGA ABERTA | ANALISTA FISCAL | Termos identificados: fiscal</description>
-      <category>ADMINISTRATIVO</category>
-      <pubDate>Wed, 23 Sep 2026 22:16:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
