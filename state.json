@@ -1325,6 +1325,19 @@
       "departamento pessoal"
     ]
   },
+  "https://itajaionline.com.br/vaga/189725-assistente-fiscal": {
+    "url": "https://itajaionline.com.br/vaga/189725-assistente-fiscal",
+    "list_title": "Assistente Fiscal Itajaí 21/09 destaque",
+    "title": "Assistente Fiscal",
+    "city": "Itajaí",
+    "description": "Assistente Fiscal A MHunting está selecionando Assistente Fiscal para uma empresa de referência na cidade de Itajaí (Praia Brava)",
+    "published_at": "2026-09-24T22:36:37.333227+00:00",
+    "priority_score": 70,
+    "category": "ADMINISTRATIVO",
+    "matches": [
+      "fiscal"
+    ]
+  },
   "https://itajaionline.com.br/vaga/197495-secretaria-comercial": {
     "url": "https://itajaionline.com.br/vaga/197495-secretaria-comercial",
     "list_title": "SECRETÁRIA COMERCIAL ITAJAÍ 21/09 destaque",
@@ -1349,19 +1362,6 @@
     "category": "ADMINISTRATIVO",
     "matches": [
       "fiscal"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/198224-assistente-de-compras-internacionais": {
-    "url": "https://itajaionline.com.br/vaga/198224-assistente-de-compras-internacionais",
-    "list_title": "Assistente de Compras Internacionais Itajaí Hoje",
-    "title": "Assistente de Compras Internacionais",
-    "city": "Itajaí",
-    "description": "Vaga: Assistente de Compras Internacionais",
-    "published_at": "2026-09-24T05:26:42.644586+00:00",
-    "priority_score": 70,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "compras"
     ]
   }
 }
