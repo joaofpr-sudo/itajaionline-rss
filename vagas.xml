@@ -5,7 +5,7 @@
     <link>https://itajaionline.com.br/vagas</link>
     <description>Feed de vagas com prioridade para Financeiro, Faturamento, Contas a Pagar/Receber e Administrativo.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 24 Sep 2026 05:26:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 10:21:30 +0000</lastBuildDate>
     <item>
       <title>★ FINANCEIRO | Assistente Financeiro - Ctas a Receber — Itajaí</title>
       <link>https://itajaionline.com.br/vaga/197272-assistente-financeiro-ctas-a-receber</link>
@@ -767,6 +767,14 @@
       <pubDate>Thu, 10 Sep 2026 18:26:34 +0000</pubDate>
     </item>
     <item>
+      <title>☆ ADMINISTRATIVO | ANALISTA DE DEPARTAMENTO FISCAL — Itajaí</title>
+      <link>https://itajaionline.com.br/vaga/198266-analista-de-departamento-fiscal</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/198266-analista-de-departamento-fiscal</guid>
+      <description>[ADMINISTRATIVO] Responder pela escrita fiscal, ou seja, lançamento de registros de notas fiscais.; | Termos identificados: fiscal</description>
+      <category>ADMINISTRATIVO</category>
+      <pubDate>Thu, 24 Sep 2026 10:21:21 +0000</pubDate>
+    </item>
+    <item>
       <title>☆ ADMINISTRATIVO | Assistente de Compras Internacionais — Itajaí</title>
       <link>https://itajaionline.com.br/vaga/198224-assistente-de-compras-internacionais</link>
       <guid isPermaLink="true">https://itajaionline.com.br/vaga/198224-assistente-de-compras-internacionais</guid>
@@ -797,14 +805,6 @@
       <description>[ADMINISTRATIVO] 📢 VAGA ABERTA | ANALISTA FISCAL | Termos identificados: fiscal</description>
       <category>ADMINISTRATIVO</category>
       <pubDate>Wed, 23 Sep 2026 22:16:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>☆ ADMINISTRATIVO | AUXILIAR FISCAL — Itajaí</title>
-      <link>https://itajaionline.com.br/vaga/198257-auxiliar-fiscal</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/198257-auxiliar-fiscal</guid>
-      <description>[ADMINISTRATIVO] Auxilio nos lançamentos e análise de notas fiscais; | Termos identificados: fiscal</description>
-      <category>ADMINISTRATIVO</category>
-      <pubDate>Wed, 23 Sep 2026 22:16:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
