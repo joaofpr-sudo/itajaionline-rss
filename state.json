@@ -1299,6 +1299,32 @@
       "departamento pessoal"
     ]
   },
+  "https://itajaionline.com.br/vaga/189725-assistente-fiscal": {
+    "url": "https://itajaionline.com.br/vaga/189725-assistente-fiscal",
+    "list_title": "Assistente Fiscal Itajaí 21/09 destaque",
+    "title": "Assistente Fiscal",
+    "city": "Itajaí",
+    "description": "Assistente Fiscal A MHunting está selecionando Assistente Fiscal para uma empresa de referência na cidade de Itajaí (Praia Brava)",
+    "published_at": "2026-09-24T00:40:29.917776+00:00",
+    "priority_score": 70,
+    "category": "ADMINISTRATIVO",
+    "matches": [
+      "fiscal"
+    ]
+  },
+  "https://itajaionline.com.br/vaga/197495-secretaria-comercial": {
+    "url": "https://itajaionline.com.br/vaga/197495-secretaria-comercial",
+    "list_title": "SECRETÁRIA COMERCIAL ITAJAÍ 21/09 destaque",
+    "title": "SECRETÁRIA COMERCIAL",
+    "city": "ITAJAÍ",
+    "description": "ESTAMOS CONTRATANDO",
+    "published_at": "2026-09-24T00:40:28.863425+00:00",
+    "priority_score": 70,
+    "category": "ADMINISTRATIVO",
+    "matches": [
+      "secretária"
+    ]
+  },
   "https://itajaionline.com.br/vaga/198252-analista-fiscal": {
     "url": "https://itajaionline.com.br/vaga/198252-analista-fiscal",
     "list_title": "Analista Fiscal Navegantes Hoje",
@@ -1336,32 +1362,6 @@
     "category": "ADMINISTRATIVO",
     "matches": [
       "fiscal"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/198201-analista-de-compras-e-estoque": {
-    "url": "https://itajaionline.com.br/vaga/198201-analista-de-compras-e-estoque",
-    "list_title": "Analista de Compras e Estoque Balneário Cambori&(...) Hoje",
-    "title": "Analista de Compras e Estoque",
-    "city": "Balneário Camboriú",
-    "description": "Atribuições relativas a compras e estoque:",
-    "published_at": "2026-09-23T15:02:21.523767+00:00",
-    "priority_score": 70,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "compras"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/198224-assistente-de-compras-internacionais": {
-    "url": "https://itajaionline.com.br/vaga/198224-assistente-de-compras-internacionais",
-    "list_title": "Assistente de Compras Internacionais Itajaí Hoje",
-    "title": "Assistente de Compras Internacionais",
-    "city": "Itajaí",
-    "description": "Vaga: Assistente de Compras Internacionais",
-    "published_at": "2026-09-23T15:02:17.105337+00:00",
-    "priority_score": 70,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "compras"
     ]
   }
 }
