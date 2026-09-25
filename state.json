@@ -388,6 +388,34 @@
       "contabil"
     ]
   },
+  "https://itajaionline.com.br/vaga/198421-auxiliar-administrativo": {
+    "url": "https://itajaionline.com.br/vaga/198421-auxiliar-administrativo",
+    "list_title": "AUXILIAR ADMINISTRATIVO ITAJAÍ Hoje",
+    "title": "AUXILIAR ADMINISTRATIVO",
+    "city": "ITAJAÍ",
+    "description": "Vaga | Auxiliar Administrativo (Logística) — Karimex (Itajaí/SC)",
+    "published_at": "2026-09-25T22:49:17.637738+00:00",
+    "priority_score": 175,
+    "category": "ADMINISTRATIVO",
+    "matches": [
+      "auxiliar administrativo",
+      "administrativo"
+    ]
+  },
+  "https://itajaionline.com.br/vaga/198332-vaga-recepcionista-auxiliar-administrativo": {
+    "url": "https://itajaionline.com.br/vaga/198332-vaga-recepcionista-auxiliar-administrativo",
+    "list_title": "Vaga: Recepcionista / Auxiliar Administrativo Itajai-SC Hoje destaque",
+    "title": "Vaga: Recepcionista / Auxiliar Administrativo",
+    "city": "Itajai-SC",
+    "description": "Descrição da função:",
+    "published_at": "2026-09-25T22:49:08.532391+00:00",
+    "priority_score": 175,
+    "category": "ADMINISTRATIVO",
+    "matches": [
+      "auxiliar administrativo",
+      "administrativo"
+    ]
+  },
   "https://itajaionline.com.br/vaga/198408-auxiliar-administrativocomercial": {
     "url": "https://itajaionline.com.br/vaga/198408-auxiliar-administrativocomercial",
     "list_title": "Auxiliar Administrativo/comercial Itajaí Hoje",
@@ -1338,32 +1366,6 @@
     "city": "Itajaí",
     "description": "Responsabilidades e Atribuições:",
     "published_at": "2026-09-14T16:26:18.647372+00:00",
-    "priority_score": 85,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "administrativo"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/197557-administrativo": {
-    "url": "https://itajaionline.com.br/vaga/197557-administrativo",
-    "list_title": "Administrativo ITAJAÍ Hoje",
-    "title": "Administrativo",
-    "city": "ITAJAÍ",
-    "description": "Detalhes da vaga:",
-    "published_at": "2026-09-11T14:49:24.587668+00:00",
-    "priority_score": 85,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "administrativo"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/197534-administrativo-auxiliar-logistica": {
-    "url": "https://itajaionline.com.br/vaga/197534-administrativo-auxiliar-logistica",
-    "list_title": "Administrativo / Auxiliar logistica ITAJAI Hoje",
-    "title": "Administrativo / Auxiliar logistica",
-    "city": "ITAJAI",
-    "description": "Estamos buscando uma pessoa dinâmica, organizada, responsável e atenta aos detalhes para integrar nossa equipe.",
-    "published_at": "2026-09-10T21:04:08.871466+00:00",
     "priority_score": 85,
     "category": "ADMINISTRATIVO",
     "matches": [
