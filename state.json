@@ -388,6 +388,34 @@
       "contabil"
     ]
   },
+  "https://itajaionline.com.br/vaga/198408-auxiliar-administrativocomercial": {
+    "url": "https://itajaionline.com.br/vaga/198408-auxiliar-administrativocomercial",
+    "list_title": "Auxiliar Administrativo/comercial Itajaí Hoje",
+    "title": "Auxiliar Administrativo/comercial",
+    "city": "Itajaí",
+    "description": "Auxiliar Administrativo/Comercial",
+    "published_at": "2026-09-25T19:33:47.117185+00:00",
+    "priority_score": 175,
+    "category": "ADMINISTRATIVO",
+    "matches": [
+      "auxiliar administrativo",
+      "administrativo"
+    ]
+  },
+  "https://itajaionline.com.br/vaga/198409-auxiliar-administrativo-recepcao-exclusiva-para-pessoa-com-deficiencia": {
+    "url": "https://itajaionline.com.br/vaga/198409-auxiliar-administrativo-recepcao-exclusiva-para-pessoa-com-deficiencia",
+    "list_title": "Auxiliar Administrativo - Recepção (exclusiva para Pessoa com Deficiência) Itajaí Hoje",
+    "title": "Auxiliar Administrativo - Recepção (exclusiva para Pessoa com Deficiência)",
+    "city": "Itajaí",
+    "description": "Horário de trabalho: das 07h30 às 17h30 de segunda a sexta-feira.",
+    "published_at": "2026-09-25T19:33:46.900258+00:00",
+    "priority_score": 175,
+    "category": "ADMINISTRATIVO",
+    "matches": [
+      "auxiliar administrativo",
+      "administrativo"
+    ]
+  },
   "https://itajaionline.com.br/vaga/198362-auxiliar-adm": {
     "url": "https://itajaionline.com.br/vaga/198362-auxiliar-adm",
     "list_title": "Auxiliar ADM - Itajaí/SC Hoje",
@@ -952,6 +980,19 @@
       "faturamento"
     ]
   },
+  "https://itajaionline.com.br/vaga/198385-assistente-de-recepcao-cobranca-vendas-atendimento": {
+    "url": "https://itajaionline.com.br/vaga/198385-assistente-de-recepcao-cobranca-vendas-atendimento",
+    "list_title": "Assistente de recepção-cobrança-vendas-atendimento Itajaí Hoje",
+    "title": "Assistente de recepção-cobrança-vendas-atendimento",
+    "city": "Itajaí",
+    "description": "📢 VAGA – INÍCIO IMEDIATO | ITAJAÍ",
+    "published_at": "2026-09-25T19:33:52.001140+00:00",
+    "priority_score": 100,
+    "category": "FINANCEIRO",
+    "matches": [
+      "cobrança"
+    ]
+  },
   "https://itajaionline.com.br/vaga/198352-assistenterecepcaovendascobrancaagendamento": {
     "url": "https://itajaionline.com.br/vaga/198352-assistenterecepcaovendascobrancaagendamento",
     "list_title": "Assistente/Recepçao/Vendas/Cobrança/Agendamento Itajai Hoje",
@@ -1327,45 +1368,6 @@
     "category": "ADMINISTRATIVO",
     "matches": [
       "administrativo"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/197465-assistente-comercial": {
-    "url": "https://itajaionline.com.br/vaga/197465-assistente-comercial",
-    "list_title": "Assistente Comercial Itajaí Hoje",
-    "title": "Assistente Comercial",
-    "city": "Itajaí",
-    "description": "Funções: *Atendimento aos Clientes *Realização de Orçamentos; *Emissão de Pedidos; *Auxiliar nos processos administrativos; *Realizar cadastros na base de dados do sistema *Realizar vendas, e pós vendas *Prospectar clientes",
-    "published_at": "2026-09-10T15:09:40.975831+00:00",
-    "priority_score": 85,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "administrativo"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/197484-assistente-de-logistica": {
-    "url": "https://itajaionline.com.br/vaga/197484-assistente-de-logistica",
-    "list_title": "ASSISTENTE DE LOGÍSTICA Itajaí Hoje",
-    "title": "ASSISTENTE DE LOGÍSTICA",
-    "city": "Itajaí",
-    "description": "👨‍💼 Assistente de Logística, Administrativo e Pós-Vendas",
-    "published_at": "2026-09-10T15:09:37.186801+00:00",
-    "priority_score": 85,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "administrativo"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/198253-analista-de-departamento-pessoal": {
-    "url": "https://itajaionline.com.br/vaga/198253-analista-de-departamento-pessoal",
-    "list_title": "ANALISTA DE DEPARTAMENTO PESSOAL Navegantes Hoje",
-    "title": "ANALISTA DE DEPARTAMENTO PESSOAL",
-    "city": "Navegantes",
-    "description": "📢 VAGA ABERTA | ANALISTA DE DEPARTAMENTO PESSOAL",
-    "published_at": "2026-09-23T22:16:36.223144+00:00",
-    "priority_score": 75,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "departamento pessoal"
     ]
   }
 }
