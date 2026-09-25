@@ -192,6 +192,34 @@
       "auxiliar financeiro"
     ]
   },
+  "https://itajaionline.com.br/vaga/198378-assistente-administrativo": {
+    "url": "https://itajaionline.com.br/vaga/198378-assistente-administrativo",
+    "list_title": "ASSISTENTE ADMINISTRATIVO ITAJAI Hoje",
+    "title": "ASSISTENTE ADMINISTRATIVO",
+    "city": "ITAJAI",
+    "description": "VAGA ASSISTENTE ADMINISTRATIVO",
+    "published_at": "2026-09-25T15:34:29.516198+00:00",
+    "priority_score": 180,
+    "category": "ADMINISTRATIVO",
+    "matches": [
+      "assistente administrativo",
+      "administrativo"
+    ]
+  },
+  "https://itajaionline.com.br/vaga/198342-assistente-administrativo": {
+    "url": "https://itajaionline.com.br/vaga/198342-assistente-administrativo",
+    "list_title": "Assistente Administrativo Itajaí Hoje destaque",
+    "title": "Assistente Administrativo",
+    "city": "Itajaí",
+    "description": "Detalhes da vaga:",
+    "published_at": "2026-09-25T15:34:21.016894+00:00",
+    "priority_score": 180,
+    "category": "ADMINISTRATIVO",
+    "matches": [
+      "assistente administrativo",
+      "administrativo"
+    ]
+  },
   "https://itajaionline.com.br/vaga/193648-assistente-administrativo": {
     "url": "https://itajaionline.com.br/vaga/193648-assistente-administrativo",
     "list_title": "ASSISTENTE ADMINISTRATIVO ITAJAI Hoje destaque",
@@ -358,6 +386,34 @@
     "matches": [
       "contabilidade",
       "contabil"
+    ]
+  },
+  "https://itajaionline.com.br/vaga/198362-auxiliar-adm": {
+    "url": "https://itajaionline.com.br/vaga/198362-auxiliar-adm",
+    "list_title": "Auxiliar ADM - Itajaí/SC Hoje",
+    "title": "Auxiliar ADM -",
+    "city": "Itajaí/SC",
+    "description": "AUXILIAR ADMINISTRATIVO",
+    "published_at": "2026-09-25T15:34:32.317966+00:00",
+    "priority_score": 175,
+    "category": "ADMINISTRATIVO",
+    "matches": [
+      "auxiliar administrativo",
+      "administrativo"
+    ]
+  },
+  "https://itajaionline.com.br/vaga/198364-aux-adm": {
+    "url": "https://itajaionline.com.br/vaga/198364-aux-adm",
+    "list_title": "Aux. ADM - Tijucas/SC Hoje",
+    "title": "Aux. ADM -",
+    "city": "Tijucas/SC",
+    "description": "AUXILIAR ADMINISTRATIVO",
+    "published_at": "2026-09-25T15:34:31.917154+00:00",
+    "priority_score": 175,
+    "category": "ADMINISTRATIVO",
+    "matches": [
+      "auxiliar administrativo",
+      "administrativo"
     ]
   },
   "https://itajaionline.com.br/vaga/198241-auxiliar-administrativo-comercial": {
@@ -896,6 +952,19 @@
       "faturamento"
     ]
   },
+  "https://itajaionline.com.br/vaga/198352-assistenterecepcaovendascobrancaagendamento": {
+    "url": "https://itajaionline.com.br/vaga/198352-assistenterecepcaovendascobrancaagendamento",
+    "list_title": "Assistente/Recepçao/Vendas/Cobrança/Agendamento Itajai Hoje",
+    "title": "Assistente/Recepçao/Vendas/Cobrança/Agendamento",
+    "city": "Itajai",
+    "description": "📢 VAGA DE EMPREGO – INÍCIO IMEDIATO",
+    "published_at": "2026-09-25T15:34:34.304692+00:00",
+    "priority_score": 100,
+    "category": "FINANCEIRO",
+    "matches": [
+      "cobrança"
+    ]
+  },
   "https://itajaionline.com.br/vaga/198287-cobranca": {
     "url": "https://itajaionline.com.br/vaga/198287-cobranca",
     "list_title": "COBRANÇA ITAJAI Hoje",
@@ -959,6 +1028,19 @@
     "category": "FINANCEIRO",
     "matches": [
       "cobrança"
+    ]
+  },
+  "https://itajaionline.com.br/vaga/198363-analista-contabil-sr": {
+    "url": "https://itajaionline.com.br/vaga/198363-analista-contabil-sr",
+    "list_title": "Analista Contabil Sr Itajaí Hoje",
+    "title": "Analista Contabil Sr",
+    "city": "Itajaí",
+    "description": "Experiência em rotinas contábeis, preferencialmente em",
+    "published_at": "2026-09-25T15:34:32.115803+00:00",
+    "priority_score": 90,
+    "category": "ADMINISTRATIVO",
+    "matches": [
+      "contabil"
     ]
   },
   "https://itajaionline.com.br/vaga/198269-analista-de-departamento-contabil": {
@@ -1117,6 +1199,19 @@
       "contabil"
     ]
   },
+  "https://itajaionline.com.br/vaga/198366-administrativo": {
+    "url": "https://itajaionline.com.br/vaga/198366-administrativo",
+    "list_title": "Administrativo Itajaí Hoje",
+    "title": "Administrativo",
+    "city": "Itajaí",
+    "description": "Salário compatível com a função + horas extras + premiação assiduidade + vr + vt, interessados enviar currículo pelo watts (47)99236-5200 favor identificar a vaga.",
+    "published_at": "2026-09-25T15:34:31.519183+00:00",
+    "priority_score": 85,
+    "category": "ADMINISTRATIVO",
+    "matches": [
+      "administrativo"
+    ]
+  },
   "https://itajaionline.com.br/vaga/198143-vagas-operacionais-e-administrativas": {
     "url": "https://itajaionline.com.br/vaga/198143-vagas-operacionais-e-administrativas",
     "list_title": "VAGAS OPERACIONAIS E ADMINISTRATIVAS Itajaí Hoje",
@@ -1271,97 +1366,6 @@
     "category": "ADMINISTRATIVO",
     "matches": [
       "departamento pessoal"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/197981-assistente-de-departamento-pessoal": {
-    "url": "https://itajaionline.com.br/vaga/197981-assistente-de-departamento-pessoal",
-    "list_title": "Assistente de Departamento Pessoal Itajaí, SC Hoje",
-    "title": "Assistente de Departamento Pessoal",
-    "city": "Itajaí, SC",
-    "description": "📢 VAGA: ASSISTENTE DE DEPARTAMENTO PESSOAL",
-    "published_at": "2026-09-18T16:43:51.612416+00:00",
-    "priority_score": 75,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "departamento pessoal"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/197860-analista-de-departamento-pessoal": {
-    "url": "https://itajaionline.com.br/vaga/197860-analista-de-departamento-pessoal",
-    "list_title": "Analista de Departamento Pessoal Itajaí Hoje",
-    "title": "Analista de Departamento Pessoal",
-    "city": "Itajaí",
-    "description": "Analista de Departamento Pessoal",
-    "published_at": "2026-09-16T19:01:08.787683+00:00",
-    "priority_score": 75,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "departamento pessoal"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/197805-analista-de-departamento-pessoal": {
-    "url": "https://itajaionline.com.br/vaga/197805-analista-de-departamento-pessoal",
-    "list_title": "Analista de Departamento Pessoal Itajai Hoje",
-    "title": "Analista de Departamento Pessoal",
-    "city": "Itajai",
-    "description": "URGENTE! Contrata-se vaga presencial.",
-    "published_at": "2026-09-16T01:00:40.521487+00:00",
-    "priority_score": 75,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "departamento pessoal"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/197499-auxiliar-de-departamento-pessoal": {
-    "url": "https://itajaionline.com.br/vaga/197499-auxiliar-de-departamento-pessoal",
-    "list_title": "Auxiliar de Departamento Pessoal Itajaí Hoje destaque",
-    "title": "Auxiliar de Departamento Pessoal",
-    "city": "Itajaí",
-    "description": "A MHunting está selecionando Auxiliar de Departamento Pessoal para uma empresa de referência na cidade de Itajaí 🚀🎯",
-    "published_at": "2026-09-10T18:26:34.705539+00:00",
-    "priority_score": 75,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "departamento pessoal"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/189725-assistente-fiscal": {
-    "url": "https://itajaionline.com.br/vaga/189725-assistente-fiscal",
-    "list_title": "Assistente Fiscal Itajaí 21/09 destaque",
-    "title": "Assistente Fiscal",
-    "city": "Itajaí",
-    "description": "Assistente Fiscal A MHunting está selecionando Assistente Fiscal para uma empresa de referência na cidade de Itajaí (Praia Brava)",
-    "published_at": "2026-09-24T22:36:37.333227+00:00",
-    "priority_score": 70,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "fiscal"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/197495-secretaria-comercial": {
-    "url": "https://itajaionline.com.br/vaga/197495-secretaria-comercial",
-    "list_title": "SECRETÁRIA COMERCIAL ITAJAÍ 21/09 destaque",
-    "title": "SECRETÁRIA COMERCIAL",
-    "city": "ITAJAÍ",
-    "description": "ESTAMOS CONTRATANDO",
-    "published_at": "2026-09-24T19:22:53.603879+00:00",
-    "priority_score": 70,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "secretária"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/198266-analista-de-departamento-fiscal": {
-    "url": "https://itajaionline.com.br/vaga/198266-analista-de-departamento-fiscal",
-    "list_title": "ANALISTA DE DEPARTAMENTO FISCAL Itajaí Hoje",
-    "title": "ANALISTA DE DEPARTAMENTO FISCAL",
-    "city": "Itajaí",
-    "description": "Responder pela escrita fiscal, ou seja, lançamento de registros de notas fiscais.;",
-    "published_at": "2026-09-24T10:21:21.829471+00:00",
-    "priority_score": 70,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "fiscal"
     ]
   }
 }
