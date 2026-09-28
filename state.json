@@ -166,6 +166,20 @@
       "fiscal"
     ]
   },
+  "https://itajaionline.com.br/vaga/198501-analista-financeiro": {
+    "url": "https://itajaionline.com.br/vaga/198501-analista-financeiro",
+    "list_title": "ANALISTA FINANCEIRO Itajaí Hoje",
+    "title": "ANALISTA FINANCEIRO",
+    "city": "Itajaí",
+    "description": "Vaga: Analista Financeiro",
+    "published_at": "2026-09-28T23:56:45.135908+00:00",
+    "priority_score": 235,
+    "category": "FINANCEIRO",
+    "matches": [
+      "financeiro",
+      "analista financeiro"
+    ]
+  },
   "https://itajaionline.com.br/vaga/198142-assistente-financeiro": {
     "url": "https://itajaionline.com.br/vaga/198142-assistente-financeiro",
     "list_title": "Assistente financeiro Itajaí Hoje",
@@ -221,6 +235,20 @@
     "matches": [
       "financeiro",
       "auxiliar financeiro"
+    ]
+  },
+  "https://itajaionline.com.br/vaga/198503-assistente-administrativo-de-logistica": {
+    "url": "https://itajaionline.com.br/vaga/198503-assistente-administrativo-de-logistica",
+    "list_title": "Assistente Administrativo de Logística ITAJAI Hoje",
+    "title": "Assistente Administrativo de Logística",
+    "city": "ITAJAI",
+    "description": "Responsabilidades e atribuições",
+    "published_at": "2026-09-28T23:56:44.711644+00:00",
+    "priority_score": 180,
+    "category": "ADMINISTRATIVO",
+    "matches": [
+      "assistente administrativo",
+      "administrativo"
     ]
   },
   "https://itajaionline.com.br/vaga/198453-analista-administrativo": {
@@ -993,6 +1021,45 @@
       "rh"
     ]
   },
+  "https://itajaionline.com.br/vaga/198499-vendedor-interno": {
+    "url": "https://itajaionline.com.br/vaga/198499-vendedor-interno",
+    "list_title": "Vendedor interno Itajaí-SC Hoje",
+    "title": "Vendedor interno",
+    "city": "Itajaí-SC",
+    "description": "Somos uma empresa sólida, com 23 anos no mercado do segmento de importação e exportação. Estamos com uma oportunidade para compor a equipe Comercial. Vaga - Vendedor Interno (Nicometal - Comunicação Visual) Realizar vendas de chapas de ACM e PVC. Gestão de carteira de clientes, prospecção de novos clientes, fechamento de vendas, lançamento de pedidos no sistema e cadastro de clientes, Acompanhamento dos pedidos até entrega do produto. Contato com financeiro para acompanhamento dos processos de pagamento do cliente. Desejável experiência na área comercial e curso superior completo ou cursando. Salário compatível com o mercado + comissão e benefícios. Produtos: Metal ACM e PVC. Local de trabalho: Salseiros - Itajaí/SC Interessados enviar currículo para: Selecao@froes.com.br",
+    "published_at": "2026-09-28T23:56:45.549480+00:00",
+    "priority_score": 120,
+    "category": "FINANCEIRO",
+    "matches": [
+      "financeiro"
+    ]
+  },
+  "https://itajaionline.com.br/vaga/198502-auxiliar-administrativo": {
+    "url": "https://itajaionline.com.br/vaga/198502-auxiliar-administrativo",
+    "list_title": "Auxiliar Administrativo Itajaí/SC Hoje",
+    "title": "Auxiliar Administrativo",
+    "city": "Itajaí/SC",
+    "description": ", está em busca de um(a) Auxiliar Administrativo para integrar nossa equipe e atuar junto aos setores de Financeiro e Recursos Humanos, dando suporte às rotinas administrativas do dia a dia.",
+    "published_at": "2026-09-28T23:56:44.920195+00:00",
+    "priority_score": 120,
+    "category": "FINANCEIRO",
+    "matches": [
+      "financeiro"
+    ]
+  },
+  "https://itajaionline.com.br/vaga/198510-faturamento-de-contas-medicas": {
+    "url": "https://itajaionline.com.br/vaga/198510-faturamento-de-contas-medicas",
+    "list_title": "FATURAMENTO DE CONTAS MEDICAS ITAJAI Hoje",
+    "title": "FATURAMENTO DE CONTAS MEDICAS",
+    "city": "ITAJAI",
+    "description": "Estamos buscando profissional para atuar na área de",
+    "published_at": "2026-09-28T23:56:43.265017+00:00",
+    "priority_score": 120,
+    "category": "FINANCEIRO",
+    "matches": [
+      "faturamento"
+    ]
+  },
   "https://itajaionline.com.br/vaga/198245-analista-de-rh-foco-em-r-s": {
     "url": "https://itajaionline.com.br/vaga/198245-analista-de-rh-foco-em-r-s",
     "list_title": "Analista de RH - foco em R&S Itajaí Hoje",
@@ -1228,6 +1295,19 @@
       "cobrança"
     ]
   },
+  "https://itajaionline.com.br/vaga/198497-analista-contabil": {
+    "url": "https://itajaionline.com.br/vaga/198497-analista-contabil",
+    "list_title": "Analista Contábil Itajai Hoje",
+    "title": "Analista Contábil",
+    "city": "Itajai",
+    "description": "5000,00 + beneficios.",
+    "published_at": "2026-09-28T23:56:45.961391+00:00",
+    "priority_score": 90,
+    "category": "ADMINISTRATIVO",
+    "matches": [
+      "contábil"
+    ]
+  },
   "https://itajaionline.com.br/vaga/198363-analista-contabil-sr": {
     "url": "https://itajaionline.com.br/vaga/198363-analista-contabil-sr",
     "list_title": "Analista Contabil Sr Itajaí Hoje",
@@ -1300,84 +1380,6 @@
     "city": "Itajaí",
     "description": "Experiência em rotinas contábeis, preferencialmente em empresas de transportes e/ou logística.",
     "published_at": "2026-09-23T15:02:19.000661+00:00",
-    "priority_score": 90,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "contábil"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/197935-analista-contabil": {
-    "url": "https://itajaionline.com.br/vaga/197935-analista-contabil",
-    "list_title": "Analista contábil Itajaí Hoje",
-    "title": "Analista contábil",
-    "city": "Itajaí",
-    "description": "📌 VAGA: ANALISTA CONTÁBIL",
-    "published_at": "2026-09-17T18:54:32.568431+00:00",
-    "priority_score": 90,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "contábil"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/197715-assistente-contabil": {
-    "url": "https://itajaionline.com.br/vaga/197715-assistente-contabil",
-    "list_title": "ASSISTENTE CONTÁBIL Itajaí Hoje",
-    "title": "ASSISTENTE CONTÁBIL",
-    "city": "Itajaí",
-    "description": "ATIVIDADES:",
-    "published_at": "2026-09-15T12:10:11.179031+00:00",
-    "priority_score": 90,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "contábil"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/197562-analista-de-contabil": {
-    "url": "https://itajaionline.com.br/vaga/197562-analista-de-contabil",
-    "list_title": "Analista de Contábil Itajaí Hoje",
-    "title": "Analista de Contábil",
-    "city": "Itajaí",
-    "description": "Analista de Departamento",
-    "published_at": "2026-09-11T14:49:23.475902+00:00",
-    "priority_score": 90,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "contábil"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/197563-assistente-contabil": {
-    "url": "https://itajaionline.com.br/vaga/197563-assistente-contabil",
-    "list_title": "Assistente Contábil Itajai Hoje",
-    "title": "Assistente Contábil",
-    "city": "Itajai",
-    "description": "Auxiliar Contábil",
-    "published_at": "2026-09-11T14:49:23.254217+00:00",
-    "priority_score": 90,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "contábil"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/197509-analista-contabil": {
-    "url": "https://itajaionline.com.br/vaga/197509-analista-contabil",
-    "list_title": "ANALISTA CONTÁBIL Itajai Hoje",
-    "title": "ANALISTA CONTÁBIL",
-    "city": "Itajai",
-    "description": "Analista Contábil",
-    "published_at": "2026-09-10T21:04:14.230385+00:00",
-    "priority_score": 90,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "contábil"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/197473-auxiliar-contabil": {
-    "url": "https://itajaionline.com.br/vaga/197473-auxiliar-contabil",
-    "list_title": "Auxiliar Contábil Itajaí Hoje",
-    "title": "Auxiliar Contábil",
-    "city": "Itajaí",
-    "description": "ESTAMOS CONTRATANDO AUXILIAR CONTÁBIL",
-    "published_at": "2026-09-10T15:09:39.421211+00:00",
     "priority_score": 90,
     "category": "ADMINISTRATIVO",
     "matches": [
