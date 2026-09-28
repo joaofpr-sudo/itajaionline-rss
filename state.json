@@ -47,6 +47,21 @@
       "analista financeiro"
     ]
   },
+  "https://itajaionline.com.br/vaga/198438-auxiliar-de-contabilidade": {
+    "url": "https://itajaionline.com.br/vaga/198438-auxiliar-de-contabilidade",
+    "list_title": "Auxiliar de contabilidade Itajaí Hoje",
+    "title": "Auxiliar de contabilidade",
+    "city": "Itajaí",
+    "description": "Nosso Escritório Contábil busca um(a) profissional para integrar o Setor Contábil, com atividades pertinentes ao setor e atendimento ao cliente.",
+    "published_at": "2026-09-28T12:00:06.578101+00:00",
+    "priority_score": 270,
+    "category": "ADMINISTRATIVO",
+    "matches": [
+      "contabilidade",
+      "contábil",
+      "contabil"
+    ]
+  },
   "https://itajaionline.com.br/vaga/198049-assistente-administrativo-cod-7783": {
     "url": "https://itajaionline.com.br/vaga/198049-assistente-administrativo-cod-7783",
     "list_title": "Assistente Administrativo - COD: 7783 Itajaí Hoje destaque",
@@ -1357,19 +1372,6 @@
     "category": "ADMINISTRATIVO",
     "matches": [
       "administrativa"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/197621-analista-de-servicos-administrativos-e-governanca": {
-    "url": "https://itajaionline.com.br/vaga/197621-analista-de-servicos-administrativos-e-governanca",
-    "list_title": "Analista de Serviços Administrativos e Governança Itajaí Ontem",
-    "title": "Analista de Serviços Administrativos e Governança",
-    "city": "Itajaí",
-    "description": "Responsabilidades e Atribuições:",
-    "published_at": "2026-09-14T16:26:18.647372+00:00",
-    "priority_score": 85,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "administrativo"
     ]
   }
 }
