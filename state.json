@@ -251,6 +251,20 @@
       "auxiliar financeiro"
     ]
   },
+  "https://itajaionline.com.br/vaga/198574-assistente-administrativo": {
+    "url": "https://itajaionline.com.br/vaga/198574-assistente-administrativo",
+    "list_title": "Assistente Administrativo Itajaí Hoje",
+    "title": "Assistente Administrativo",
+    "city": "Itajaí",
+    "description": "Contrata-se",
+    "published_at": "2026-09-29T21:14:15.605046+00:00",
+    "priority_score": 180,
+    "category": "ADMINISTRATIVO",
+    "matches": [
+      "assistente administrativo",
+      "administrativo"
+    ]
+  },
   "https://itajaionline.com.br/vaga/198534-auxiliar-de-contabilidade": {
     "url": "https://itajaionline.com.br/vaga/198534-auxiliar-de-contabilidade",
     "list_title": "Auxiliar de contabilidade Itajaí Hoje",
@@ -1350,6 +1364,19 @@
       "cobrança"
     ]
   },
+  "https://itajaionline.com.br/vaga/198606-estagiario-contabil": {
+    "url": "https://itajaionline.com.br/vaga/198606-estagiario-contabil",
+    "list_title": "ESTAGIÁRIO CONTABIL GASPAR -SC Hoje",
+    "title": "ESTAGIÁRIO CONTABIL",
+    "city": "GASPAR -SC",
+    "description": "CONHEÇA A EMPRESA CONTRATANTE:",
+    "published_at": "2026-09-29T21:14:08.784815+00:00",
+    "priority_score": 90,
+    "category": "ADMINISTRATIVO",
+    "matches": [
+      "contabil"
+    ]
+  },
   "https://itajaionline.com.br/vaga/198550-auxiliar-de-depto-contabil": {
     "url": "https://itajaionline.com.br/vaga/198550-auxiliar-de-depto-contabil",
     "list_title": "Auxiliar de Depto Contábil Navegantes Hoje",
@@ -1361,32 +1388,6 @@
     "category": "ADMINISTRATIVO",
     "matches": [
       "contábil"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/198497-analista-contabil": {
-    "url": "https://itajaionline.com.br/vaga/198497-analista-contabil",
-    "list_title": "Analista Contábil Itajai Hoje",
-    "title": "Analista Contábil",
-    "city": "Itajai",
-    "description": "5000,00 + beneficios.",
-    "published_at": "2026-09-28T23:56:45.961391+00:00",
-    "priority_score": 90,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "contábil"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/198363-analista-contabil-sr": {
-    "url": "https://itajaionline.com.br/vaga/198363-analista-contabil-sr",
-    "list_title": "Analista Contabil Sr Itajaí Hoje",
-    "title": "Analista Contabil Sr",
-    "city": "Itajaí",
-    "description": "Experiência em rotinas contábeis, preferencialmente em",
-    "published_at": "2026-09-25T15:34:32.115803+00:00",
-    "priority_score": 90,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "contabil"
     ]
   }
 }
