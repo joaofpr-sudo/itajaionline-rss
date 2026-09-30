@@ -5,7 +5,7 @@
     <link>https://itajaionline.com.br/vagas</link>
     <description>Feed de vagas com prioridade para Financeiro, Faturamento, Contas a Pagar/Receber e Administrativo.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 30 Sep 2026 11:49:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 17:30:10 +0000</lastBuildDate>
     <item>
       <title>★ FINANCEIRO | Assistente Financeiro - Ctas a Receber — Itajaí</title>
       <link>https://itajaionline.com.br/vaga/197272-assistente-financeiro-ctas-a-receber</link>
@@ -141,6 +141,14 @@
       <description>[FINANCEIRO] Auxiliar Financeiro | Termos identificados: financeiro, auxiliar financeiro</description>
       <category>FINANCEIRO</category>
       <pubDate>Thu, 17 Sep 2026 14:59:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>☆ ADMINISTRATIVO | Assistente administrativo — ITAJAI</title>
+      <link>https://itajaionline.com.br/vaga/198653-assistente-administrativo</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/198653-assistente-administrativo</guid>
+      <description>[ADMINISTRATIVO] Perfil a vaga | Termos identificados: assistente administrativo, administrativo</description>
+      <category>ADMINISTRATIVO</category>
+      <pubDate>Wed, 30 Sep 2026 17:30:00 +0000</pubDate>
     </item>
     <item>
       <title>☆ ADMINISTRATIVO | Assistente Administrativo — Itajaí</title>
@@ -293,6 +301,14 @@
       <description>[ADMINISTRATIVO] Auxiliar Societário – Alfacon Contabilidade | Termos identificados: contabilidade, contabil</description>
       <category>ADMINISTRATIVO</category>
       <pubDate>Wed, 09 Sep 2026 01:21:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>☆ ADMINISTRATIVO | AUXILIAR ADM/COMERCIAL — ITAJAI SC</title>
+      <link>https://itajaionline.com.br/vaga/198648-auxiliar-admcomercial</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/198648-auxiliar-admcomercial</guid>
+      <description>[ADMINISTRATIVO] Buscamos auxiliar administrativo/comercial para dar suporte às rotinas de atendimento, vendas e organização do escritório. | Termos identificados: auxiliar administrativo, administrativo</description>
+      <category>ADMINISTRATIVO</category>
+      <pubDate>Wed, 30 Sep 2026 17:30:01 +0000</pubDate>
     </item>
     <item>
       <title>☆ ADMINISTRATIVO | Auxiliar Administrativo — ITAJAI</title>
@@ -789,22 +805,6 @@
       <description>[FINANCEIRO] AUXILIAR DE COBRANÇA | Termos identificados: cobrança</description>
       <category>FINANCEIRO</category>
       <pubDate>Wed, 09 Sep 2026 21:28:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>☆ ADMINISTRATIVO | ESTAGIÁRIO CONTABIL — GASPAR -SC</title>
-      <link>https://itajaionline.com.br/vaga/198606-estagiario-contabil</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/198606-estagiario-contabil</guid>
-      <description>[ADMINISTRATIVO] CONHEÇA A EMPRESA CONTRATANTE: | Termos identificados: contabil</description>
-      <category>ADMINISTRATIVO</category>
-      <pubDate>Tue, 29 Sep 2026 21:14:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>☆ ADMINISTRATIVO | Auxiliar de Depto Contábil — Navegantes</title>
-      <link>https://itajaionline.com.br/vaga/198550-auxiliar-de-depto-contabil</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/198550-auxiliar-de-depto-contabil</guid>
-      <description>[ADMINISTRATIVO] 🔎 Estamos contratando: Auxiliar de Departamento Contábil | Termos identificados: contábil</description>
-      <category>ADMINISTRATIVO</category>
-      <pubDate>Tue, 29 Sep 2026 16:45:27 +0000</pubDate>
     </item>
   </channel>
 </rss>

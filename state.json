@@ -251,6 +251,20 @@
       "auxiliar financeiro"
     ]
   },
+  "https://itajaionline.com.br/vaga/198653-assistente-administrativo": {
+    "url": "https://itajaionline.com.br/vaga/198653-assistente-administrativo",
+    "list_title": "Assistente administrativo ITAJAI Hoje",
+    "title": "Assistente administrativo",
+    "city": "ITAJAI",
+    "description": "Perfil a vaga",
+    "published_at": "2026-09-30T17:30:00.556141+00:00",
+    "priority_score": 180,
+    "category": "ADMINISTRATIVO",
+    "matches": [
+      "assistente administrativo",
+      "administrativo"
+    ]
+  },
   "https://itajaionline.com.br/vaga/198574-assistente-administrativo": {
     "url": "https://itajaionline.com.br/vaga/198574-assistente-administrativo",
     "list_title": "Assistente Administrativo Itajaí Hoje",
@@ -515,6 +529,20 @@
     "matches": [
       "contabilidade",
       "contabil"
+    ]
+  },
+  "https://itajaionline.com.br/vaga/198648-auxiliar-admcomercial": {
+    "url": "https://itajaionline.com.br/vaga/198648-auxiliar-admcomercial",
+    "list_title": "AUXILIAR ADM/COMERCIAL ITAJAI SC Hoje",
+    "title": "AUXILIAR ADM/COMERCIAL",
+    "city": "ITAJAI SC",
+    "description": "Buscamos auxiliar administrativo/comercial para dar suporte às rotinas de atendimento, vendas e organização do escritório.",
+    "published_at": "2026-09-30T17:30:01.607643+00:00",
+    "priority_score": 175,
+    "category": "ADMINISTRATIVO",
+    "matches": [
+      "auxiliar administrativo",
+      "administrativo"
     ]
   },
   "https://itajaionline.com.br/vaga/198442-auxiliar-administrativo": {
@@ -1362,32 +1390,6 @@
     "category": "FINANCEIRO",
     "matches": [
       "cobrança"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/198606-estagiario-contabil": {
-    "url": "https://itajaionline.com.br/vaga/198606-estagiario-contabil",
-    "list_title": "ESTAGIÁRIO CONTABIL GASPAR -SC Hoje",
-    "title": "ESTAGIÁRIO CONTABIL",
-    "city": "GASPAR -SC",
-    "description": "CONHEÇA A EMPRESA CONTRATANTE:",
-    "published_at": "2026-09-29T21:14:08.784815+00:00",
-    "priority_score": 90,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "contabil"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/198550-auxiliar-de-depto-contabil": {
-    "url": "https://itajaionline.com.br/vaga/198550-auxiliar-de-depto-contabil",
-    "list_title": "Auxiliar de Depto Contábil Navegantes Hoje",
-    "title": "Auxiliar de Depto Contábil",
-    "city": "Navegantes",
-    "description": "🔎 Estamos contratando: Auxiliar de Departamento Contábil",
-    "published_at": "2026-09-29T16:45:27.323472+00:00",
-    "priority_score": 90,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "contábil"
     ]
   }
 }
