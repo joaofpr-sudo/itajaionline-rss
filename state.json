@@ -226,6 +226,34 @@
       "fiscal"
     ]
   },
+  "https://itajaionline.com.br/vaga/198727-assistente-financeiro": {
+    "url": "https://itajaionline.com.br/vaga/198727-assistente-financeiro",
+    "list_title": "ASSISTENTE FINANCEIRO ITAJAÍ Hoje",
+    "title": "ASSISTENTE FINANCEIRO",
+    "city": "ITAJAÍ",
+    "description": "Descrição da Vaga: Assistente Financeiro",
+    "published_at": "2026-10-01T19:31:20.539275+00:00",
+    "priority_score": 235,
+    "category": "FINANCEIRO",
+    "matches": [
+      "financeiro",
+      "assistente financeiro"
+    ]
+  },
+  "https://itajaionline.com.br/vaga/198751-assistente-financeiro": {
+    "url": "https://itajaionline.com.br/vaga/198751-assistente-financeiro",
+    "list_title": "Assistente Financeiro ITAJAI Hoje",
+    "title": "Assistente Financeiro",
+    "city": "ITAJAI",
+    "description": "Descrição completa da vaga",
+    "published_at": "2026-10-01T19:31:16.285143+00:00",
+    "priority_score": 235,
+    "category": "FINANCEIRO",
+    "matches": [
+      "financeiro",
+      "assistente financeiro"
+    ]
+  },
   "https://itajaionline.com.br/vaga/198501-analista-financeiro": {
     "url": "https://itajaionline.com.br/vaga/198501-analista-financeiro",
     "list_title": "ANALISTA FINANCEIRO Itajaí Hoje",
@@ -589,6 +617,20 @@
     "matches": [
       "contabilidade",
       "contabil"
+    ]
+  },
+  "https://itajaionline.com.br/vaga/198740-administrativoauxiliar": {
+    "url": "https://itajaionline.com.br/vaga/198740-administrativoauxiliar",
+    "list_title": "Administrativo/auxiliar Itajaí Hoje",
+    "title": "Administrativo/auxiliar",
+    "city": "Itajaí",
+    "description": "Vaga disponível para administrativo/auxiliar, salário mais comissão, interessados entrar em contato através do WhatsApp 47-99730-9769 falar com Márcio.",
+    "published_at": "2026-10-01T19:31:18.306327+00:00",
+    "priority_score": 175,
+    "category": "ADMINISTRATIVO",
+    "matches": [
+      "auxiliar administrativo",
+      "administrativo"
     ]
   },
   "https://itajaionline.com.br/vaga/198685-auxiliar-administrativo": {
@@ -1362,45 +1404,6 @@
     "category": "FINANCEIRO",
     "matches": [
       "financeiro"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/197641-analista-de-faturamento-comercio-exterior": {
-    "url": "https://itajaionline.com.br/vaga/197641-analista-de-faturamento-comercio-exterior",
-    "list_title": "Analista de Faturamento Comércio Exterior Itajaí - SC Hoje",
-    "title": "Analista de Faturamento Comércio Exterior",
-    "city": "Itajaí - SC",
-    "description": "Nosso cliente é uma empresa atuante no segmento de Comércio Exterior.",
-    "published_at": "2026-09-14T16:26:14.543529+00:00",
-    "priority_score": 120,
-    "category": "FINANCEIRO",
-    "matches": [
-      "faturamento"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/197574-consultora-de-vendas-area-financeira": {
-    "url": "https://itajaionline.com.br/vaga/197574-consultora-de-vendas-area-financeira",
-    "list_title": "Consultor(a) de Vendas – Área Financeira Itajai Hoje",
-    "title": "Consultor(a) de Vendas – Área Financeira",
-    "city": "Itajai",
-    "description": "Consultor(a) de Vendas – Área Financeira",
-    "published_at": "2026-09-11T18:08:00.496704+00:00",
-    "priority_score": 120,
-    "category": "FINANCEIRO",
-    "matches": [
-      "financeira"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/195749-analista-de-faturamento-de-transportes": {
-    "url": "https://itajaionline.com.br/vaga/195749-analista-de-faturamento-de-transportes",
-    "list_title": "Analista de Faturamento de Transportes Itajaí 21/08 destaque",
-    "title": "Analista de Faturamento de Transportes",
-    "city": "Itajaí",
-    "description": "Cargo: Analista de Faturamento de Transportes",
-    "published_at": "2026-09-09T01:21:40.689162+00:00",
-    "priority_score": 120,
-    "category": "FINANCEIRO",
-    "matches": [
-      "faturamento"
     ]
   }
 }
