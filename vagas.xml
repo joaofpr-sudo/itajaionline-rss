@@ -5,7 +5,7 @@
     <link>https://itajaionline.com.br/vagas</link>
     <description>Feed de vagas com prioridade para Financeiro, Faturamento, Contas a Pagar/Receber e Administrativo.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 30 Sep 2026 21:31:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 00:50:43 +0000</lastBuildDate>
     <item>
       <title>★ FINANCEIRO | Assistente Financeiro - Ctas a Receber — Itajaí</title>
       <link>https://itajaionline.com.br/vaga/197272-assistente-financeiro-ctas-a-receber</link>
@@ -309,6 +309,14 @@
       <description>[ADMINISTRATIVO] Auxiliar Societário – Alfacon Contabilidade | Termos identificados: contabilidade, contabil</description>
       <category>ADMINISTRATIVO</category>
       <pubDate>Wed, 09 Sep 2026 01:21:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>☆ ADMINISTRATIVO | Auxiliar Administrativo — ITAJAÍ</title>
+      <link>https://itajaionline.com.br/vaga/198693-auxiliar-administrativo</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/198693-auxiliar-administrativo</guid>
+      <description>[ADMINISTRATIVO] Vaga: Auxiliar Administrativo | Termos identificados: auxiliar administrativo, administrativo</description>
+      <category>ADMINISTRATIVO</category>
+      <pubDate>Thu, 01 Oct 2026 00:50:25 +0000</pubDate>
     </item>
     <item>
       <title>☆ ADMINISTRATIVO | AUXILIAR ADM/COMERCIAL — ITAJAI SC</title>
@@ -797,14 +805,6 @@
       <description>[FINANCEIRO] Assistente de Cobrança | Termos identificados: cobrança</description>
       <category>FINANCEIRO</category>
       <pubDate>Tue, 15 Sep 2026 12:10:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>★ FINANCEIRO | Recepcionista de clínica médica — Itajaí</title>
-      <link>https://itajaionline.com.br/vaga/197529-recepcionista-de-clinica-medica</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197529-recepcionista-de-clinica-medica</guid>
-      <description>[FINANCEIRO] Clínica médica está contratando recepcionista, onde irá receber os pacientes, autorização de convênios, cobrança de consultas e exames, agendamento de consultas e exames e demais funções pertinentes ao cargo. | Termos identificados: cobrança</description>
-      <category>FINANCEIRO</category>
-      <pubDate>Thu, 10 Sep 2026 21:04:09 +0000</pubDate>
     </item>
   </channel>
 </rss>

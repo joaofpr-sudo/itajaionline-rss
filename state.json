@@ -546,6 +546,20 @@
       "contabil"
     ]
   },
+  "https://itajaionline.com.br/vaga/198693-auxiliar-administrativo": {
+    "url": "https://itajaionline.com.br/vaga/198693-auxiliar-administrativo",
+    "list_title": "Auxiliar Administrativo ITAJAÍ Hoje destaque",
+    "title": "Auxiliar Administrativo",
+    "city": "ITAJAÍ",
+    "description": "Vaga: Auxiliar Administrativo",
+    "published_at": "2026-10-01T00:50:25.795712+00:00",
+    "priority_score": 175,
+    "category": "ADMINISTRATIVO",
+    "matches": [
+      "auxiliar administrativo",
+      "administrativo"
+    ]
+  },
   "https://itajaionline.com.br/vaga/198648-auxiliar-admcomercial": {
     "url": "https://itajaionline.com.br/vaga/198648-auxiliar-admcomercial",
     "list_title": "AUXILIAR ADM/COMERCIAL ITAJAI SC Hoje",
@@ -1375,19 +1389,6 @@
     "city": "Itajaí",
     "description": "Assistente de Cobrança",
     "published_at": "2026-09-15T12:10:12.642567+00:00",
-    "priority_score": 100,
-    "category": "FINANCEIRO",
-    "matches": [
-      "cobrança"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/197529-recepcionista-de-clinica-medica": {
-    "url": "https://itajaionline.com.br/vaga/197529-recepcionista-de-clinica-medica",
-    "list_title": "Recepcionista de clínica médica Itajaí Hoje",
-    "title": "Recepcionista de clínica médica",
-    "city": "Itajaí",
-    "description": "Clínica médica está contratando recepcionista, onde irá receber os pacientes, autorização de convênios, cobrança de consultas e exames, agendamento de consultas e exames e demais funções pertinentes ao cargo.",
-    "published_at": "2026-09-10T21:04:09.995823+00:00",
     "priority_score": 100,
     "category": "FINANCEIRO",
     "matches": [
