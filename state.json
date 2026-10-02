@@ -1249,6 +1249,19 @@
       "rh"
     ]
   },
+  "https://itajaionline.com.br/vaga/198769-assistente-de-faturamento": {
+    "url": "https://itajaionline.com.br/vaga/198769-assistente-de-faturamento",
+    "list_title": "assistente de faturamento ITAJAI Hoje",
+    "title": "assistente de faturamento",
+    "city": "ITAJAI",
+    "description": "Vaga Presencial — Assistente de Faturamento",
+    "published_at": "2026-10-02T15:17:51.342533+00:00",
+    "priority_score": 120,
+    "category": "FINANCEIRO",
+    "matches": [
+      "faturamento"
+    ]
+  },
   "https://itajaionline.com.br/vaga/198524-auxiliar-administrativo-setor-financeiro-urgente": {
     "url": "https://itajaionline.com.br/vaga/198524-auxiliar-administrativo-setor-financeiro-urgente",
     "list_title": "Auxiliar Administrativo - Setor Financeiro - Urgente Itajaí - SC Hoje",
@@ -1391,19 +1404,6 @@
     "category": "FINANCEIRO",
     "matches": [
       "faturamento"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/197686-gestor-a-financeiro": {
-    "url": "https://itajaionline.com.br/vaga/197686-gestor-a-financeiro",
-    "list_title": "Gestor (a) Financeiro Navegantes Hoje",
-    "title": "Gestor (a) Financeiro",
-    "city": "Navegantes",
-    "description": "🚀 Vaga: Gestor Financeiro | Navegantes/SC",
-    "published_at": "2026-09-14T20:24:01.580516+00:00",
-    "priority_score": 120,
-    "category": "FINANCEIRO",
-    "matches": [
-      "financeiro"
     ]
   }
 }
