@@ -95,6 +95,36 @@
       "fiscal"
     ]
   },
+  "https://itajaionline.com.br/vaga/199006-auxiliar-de-depto-contabil-s-a-contabilidade": {
+    "url": "https://itajaionline.com.br/vaga/199006-auxiliar-de-depto-contabil-s-a-contabilidade",
+    "list_title": "Auxiliar de Depto Contábil - S.A. Contabilidade Navegantes Hoje",
+    "title": "Auxiliar de Depto Contábil - S.A. Contabilidade",
+    "city": "Navegantes",
+    "description": "🔎 Estamos contratando: Auxiliar de Departamento Contábil",
+    "published_at": "2026-10-07T18:20:55.246924+00:00",
+    "priority_score": 270,
+    "category": "ADMINISTRATIVO",
+    "matches": [
+      "contabilidade",
+      "contábil",
+      "contabil"
+    ]
+  },
+  "https://itajaionline.com.br/vaga/199007-auxiliar-de-depto-contabil-s-a-contabilidade": {
+    "url": "https://itajaionline.com.br/vaga/199007-auxiliar-de-depto-contabil-s-a-contabilidade",
+    "list_title": "Auxiliar de Depto Contábil - S.A. Contabilidade Navegantes Hoje",
+    "title": "Auxiliar de Depto Contábil - S.A. Contabilidade",
+    "city": "Navegantes",
+    "description": "🔎 Estamos contratando: Auxiliar de Departamento Contábil",
+    "published_at": "2026-10-07T18:20:55.037106+00:00",
+    "priority_score": 270,
+    "category": "ADMINISTRATIVO",
+    "matches": [
+      "contabilidade",
+      "contábil",
+      "contabil"
+    ]
+  },
   "https://itajaionline.com.br/vaga/198704-assistente-contabil-contabilidade": {
     "url": "https://itajaionline.com.br/vaga/198704-assistente-contabil-contabilidade",
     "list_title": "Assistente Contábil- CONTABILIDADE itajai Hoje",
@@ -1391,34 +1421,6 @@
     "matches": [
       "contabil",
       "fiscal"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/194512-assistente-fiscalcontabil": {
-    "url": "https://itajaionline.com.br/vaga/194512-assistente-fiscalcontabil",
-    "list_title": "Assistente Fiscal/Contábil Itajaí Hoje destaque",
-    "title": "Assistente Fiscal/Contábil",
-    "city": "Itajaí",
-    "description": "A MHunting está selecionando Assistente Fiscal/Contábil para uma empresa de referência na cidade de Itajaí 🚀🎯",
-    "published_at": "2026-09-10T18:26:35.318873+00:00",
-    "priority_score": 160,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "contábil",
-      "fiscal"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/197942-assistente-de-rh": {
-    "url": "https://itajaionline.com.br/vaga/197942-assistente-de-rh",
-    "list_title": "Assistente de RH. Navegantes Hoje",
-    "title": "Assistente de RH.",
-    "city": "Navegantes",
-    "description": "Estamos em busca de um profissional para atuar como assistente de RH, com foco em departamento pessoal e auxiliando no facilities",
-    "published_at": "2026-09-18T12:39:20.672405+00:00",
-    "priority_score": 130,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "departamento pessoal",
-      "rh"
     ]
   }
 }
