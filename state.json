@@ -751,6 +751,48 @@
       "contabil"
     ]
   },
+  "https://itajaionline.com.br/vaga/199039-administrativoaux": {
+    "url": "https://itajaionline.com.br/vaga/199039-administrativoaux",
+    "list_title": "Administrativo/Aux Itajaí - sc Hoje",
+    "title": "Administrativo/Aux",
+    "city": "Itajaí - sc",
+    "description": "📢 VAGA DE EMPREGO – AUXILIAR ADMINISTRATIVO",
+    "published_at": "2026-10-07T23:14:17.208953+00:00",
+    "priority_score": 175,
+    "category": "ADMINISTRATIVO",
+    "matches": [
+      "auxiliar administrativo",
+      "administrativo"
+    ]
+  },
+  "https://itajaionline.com.br/vaga/199042-auxiliar-administrativo": {
+    "url": "https://itajaionline.com.br/vaga/199042-auxiliar-administrativo",
+    "list_title": "Auxiliar Administrativo Itajaí Hoje",
+    "title": "Auxiliar Administrativo",
+    "city": "Itajaí",
+    "description": "Remuneração:",
+    "published_at": "2026-10-07T23:14:16.612100+00:00",
+    "priority_score": 175,
+    "category": "ADMINISTRATIVO",
+    "matches": [
+      "auxiliar administrativo",
+      "administrativo"
+    ]
+  },
+  "https://itajaionline.com.br/vaga/199044-auxiliar-administrativo": {
+    "url": "https://itajaionline.com.br/vaga/199044-auxiliar-administrativo",
+    "list_title": "Auxiliar Administrativo itajai Hoje",
+    "title": "Auxiliar Administrativo",
+    "city": "itajai",
+    "description": "Remuneração:",
+    "published_at": "2026-10-07T23:14:16.215913+00:00",
+    "priority_score": 175,
+    "category": "ADMINISTRATIVO",
+    "matches": [
+      "auxiliar administrativo",
+      "administrativo"
+    ]
+  },
   "https://itajaionline.com.br/vaga/198954-auxiliar-administrativo": {
     "url": "https://itajaionline.com.br/vaga/198954-auxiliar-administrativo",
     "list_title": "Auxiliar administrativo Itajai Hoje",
@@ -1378,48 +1420,6 @@
     "category": "ADMINISTRATIVO",
     "matches": [
       "contábil",
-      "fiscal"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/198235-analista-fiscal-contabil": {
-    "url": "https://itajaionline.com.br/vaga/198235-analista-fiscal-contabil",
-    "list_title": "Analista Fiscal Contábil Balneario Camboriu Hoje",
-    "title": "Analista Fiscal Contábil",
-    "city": "Balneario Camboriu",
-    "description": "ANALISTA FISCAL CONTÁBIL - COMÉRCIO EXTERIOR",
-    "published_at": "2026-09-23T19:03:46.346263+00:00",
-    "priority_score": 160,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "contábil",
-      "fiscal"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/197687-auxiliar-contabil-fiscal": {
-    "url": "https://itajaionline.com.br/vaga/197687-auxiliar-contabil-fiscal",
-    "list_title": "Auxiliar Contábil Fiscal Itajaí Hoje",
-    "title": "Auxiliar Contábil Fiscal",
-    "city": "Itajaí",
-    "description": "Auxiliar Contábil Fiscal – Itajaí/SC (Centro)",
-    "published_at": "2026-09-14T20:24:01.356820+00:00",
-    "priority_score": 160,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "contábil",
-      "fiscal"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/197520-assistente-contabilfiscal": {
-    "url": "https://itajaionline.com.br/vaga/197520-assistente-contabilfiscal",
-    "list_title": "ASSISTENTE CONTABIL/FISCAL BALNEARIO CAMBORIU SC Hoje",
-    "title": "ASSISTENTE CONTABIL/FISCAL",
-    "city": "BALNEARIO CAMBORIU SC",
-    "description": "BUSCAMOS PROFISSIONAL, COM CONHECIMENTO NA AREA CONTABIL, TER EXPERIENCIA EM LANÇAMENTOS CONTABEIS, APURAÇÕES DE IMPOSTOS CONCILIAÇÕES E ANALISE DE BALANCETES, TER BOA COMUNICAÇÃO, ESCRITA E FALADA, TER CONCLUIDO ENSINO MEDIO, CURANDO OU ESTAR CURSANDO FACULDADE ADMINISTRAÇÃO, CONTABEIS OU A FINS. ENVIAR CURRICULUM PARA VL7PRIMESOLUCOES@GMAIL.COM",
-    "published_at": "2026-09-10T21:04:11.986538+00:00",
-    "priority_score": 160,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "contabil",
       "fiscal"
     ]
   }
