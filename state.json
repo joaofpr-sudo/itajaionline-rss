@@ -429,6 +429,20 @@
       "auxiliar financeiro"
     ]
   },
+  "https://itajaionline.com.br/vaga/199073-auxiliar-de-contabilidade": {
+    "url": "https://itajaionline.com.br/vaga/199073-auxiliar-de-contabilidade",
+    "list_title": "Auxiliar de contabilidade Itajaí Hoje",
+    "title": "Auxiliar de contabilidade",
+    "city": "Itajaí",
+    "description": "Sobre a oportunidade:",
+    "published_at": "2026-10-08T16:50:23.308527+00:00",
+    "priority_score": 180,
+    "category": "ADMINISTRATIVO",
+    "matches": [
+      "contabilidade",
+      "contabil"
+    ]
+  },
   "https://itajaionline.com.br/vaga/198936-assistente-administrativo": {
     "url": "https://itajaionline.com.br/vaga/198936-assistente-administrativo",
     "list_title": "Assistente administrativo Itajaí Hoje",
@@ -749,6 +763,20 @@
     "matches": [
       "contabilidade",
       "contabil"
+    ]
+  },
+  "https://itajaionline.com.br/vaga/199067-auxiliar-administrativo": {
+    "url": "https://itajaionline.com.br/vaga/199067-auxiliar-administrativo",
+    "list_title": "AUXILIAR ADMINISTRATIVO ITAJAI Hoje",
+    "title": "AUXILIAR ADMINISTRATIVO",
+    "city": "ITAJAI",
+    "description": "VAGA | AUXILIAR ADMINISTRATIVO",
+    "published_at": "2026-10-08T16:50:24.289865+00:00",
+    "priority_score": 175,
+    "category": "ADMINISTRATIVO",
+    "matches": [
+      "auxiliar administrativo",
+      "administrativo"
     ]
   },
   "https://itajaionline.com.br/vaga/199039-administrativoaux": {
@@ -1393,34 +1421,6 @@
     "matches": [
       "administrativa",
       "rotinas administrativas"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/198797-auxiliar-contabil-fiscal": {
-    "url": "https://itajaionline.com.br/vaga/198797-auxiliar-contabil-fiscal",
-    "list_title": "Auxiliar Contábil Fiscal Itajaí Hoje",
-    "title": "Auxiliar Contábil Fiscal",
-    "city": "Itajaí",
-    "description": "Auxiliar Contábil Fiscal",
-    "published_at": "2026-10-03T03:31:54.409494+00:00",
-    "priority_score": 160,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "contábil",
-      "fiscal"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/198542-auxiliar-contabil-fiscal": {
-    "url": "https://itajaionline.com.br/vaga/198542-auxiliar-contabil-fiscal",
-    "list_title": "Auxiliar Contábil Fiscal Itajaí Hoje",
-    "title": "Auxiliar Contábil Fiscal",
-    "city": "Itajaí",
-    "description": "Auxiliar Contábil Fiscal",
-    "published_at": "2026-09-29T16:45:28.421885+00:00",
-    "priority_score": 160,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "contábil",
-      "fiscal"
     ]
   }
 }
