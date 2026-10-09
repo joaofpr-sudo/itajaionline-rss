@@ -111,6 +111,21 @@
       "fiscal"
     ]
   },
+  "https://itajaionline.com.br/vaga/199152-auxiliar-administrativo-sinistro": {
+    "url": "https://itajaionline.com.br/vaga/199152-auxiliar-administrativo-sinistro",
+    "list_title": "Auxiliar Administrativo - Sinistro ITAJAÍ Hoje destaque",
+    "title": "Auxiliar Administrativo - Sinistro",
+    "city": "ITAJAÍ",
+    "description": "Vaga: Assistente Administrativo – Sinistro",
+    "published_at": "2026-10-09T15:17:08.277641+00:00",
+    "priority_score": 270,
+    "category": "ADMINISTRATIVO",
+    "matches": [
+      "assistente administrativo",
+      "auxiliar administrativo",
+      "administrativo"
+    ]
+  },
   "https://itajaionline.com.br/vaga/199006-auxiliar-de-depto-contabil-s-a-contabilidade": {
     "url": "https://itajaionline.com.br/vaga/199006-auxiliar-de-depto-contabil-s-a-contabilidade",
     "list_title": "Auxiliar de Depto Contábil - S.A. Contabilidade Navegantes Hoje",
@@ -302,6 +317,20 @@
       "administrativa",
       "rotinas administrativas",
       "fiscal"
+    ]
+  },
+  "https://itajaionline.com.br/vaga/199130-assistente-financeiro": {
+    "url": "https://itajaionline.com.br/vaga/199130-assistente-financeiro",
+    "list_title": "ASSISTENTE FINANCEIRO ITAJAI Hoje",
+    "title": "ASSISTENTE FINANCEIRO",
+    "city": "ITAJAI",
+    "description": "💚 VAGA: ASSISTENTE FINANCEIRO",
+    "published_at": "2026-10-09T15:17:23.205892+00:00",
+    "priority_score": 235,
+    "category": "FINANCEIRO",
+    "matches": [
+      "financeiro",
+      "assistente financeiro"
     ]
   },
   "https://itajaionline.com.br/vaga/198857-assistente-financeiro": {
@@ -779,6 +808,20 @@
     "matches": [
       "contabilidade",
       "contabil"
+    ]
+  },
+  "https://itajaionline.com.br/vaga/199155-auxiliar-administrativo-pos-vendas": {
+    "url": "https://itajaionline.com.br/vaga/199155-auxiliar-administrativo-pos-vendas",
+    "list_title": "Auxiliar administrativo - Pós-vendas Itajai Hoje",
+    "title": "Auxiliar administrativo - Pós-vendas",
+    "city": "Itajai",
+    "description": "Vaga: Auxiliar Administrativo – Pós-Vendas",
+    "published_at": "2026-10-09T15:17:18.484290+00:00",
+    "priority_score": 175,
+    "category": "ADMINISTRATIVO",
+    "matches": [
+      "auxiliar administrativo",
+      "administrativo"
     ]
   },
   "https://itajaionline.com.br/vaga/199112-auxiliar-administrativo": {
@@ -1376,48 +1419,6 @@
     "city": "Itajaí",
     "description": "Detalhes da vaga:",
     "published_at": "2026-09-15T12:10:10.361146+00:00",
-    "priority_score": 175,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "auxiliar administrativo",
-      "administrativo"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/197638-auxiliar-administrativo-em-oticaestamos-contratando-um-auxiliar-administrat": {
-    "url": "https://itajaionline.com.br/vaga/197638-auxiliar-administrativo-em-oticaestamos-contratando-um-auxiliar-administrat",
-    "list_title": "Auxiliar Administrativo em ÓticaEstamos contratando um Auxiliar Administrat Itajapi/SC Hoje",
-    "title": "Auxiliar Administrativo em ÓticaEstamos contratando um Auxiliar Administrat",
-    "city": "Itajapi/SC",
-    "description": "Estamos contratando um Auxiliar Administrativo para fazer parte da nossa equipe!",
-    "published_at": "2026-09-14T16:26:15.180137+00:00",
-    "priority_score": 175,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "auxiliar administrativo",
-      "administrativo"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/197572-asistente-comercial": {
-    "url": "https://itajaionline.com.br/vaga/197572-asistente-comercial",
-    "list_title": "ASISTENTE COMERCIAL ITAJAI Hoje",
-    "title": "ASISTENTE COMERCIAL",
-    "city": "ITAJAI",
-    "description": "Vaga: Auxiliar Administrativo",
-    "published_at": "2026-09-11T18:08:00.891530+00:00",
-    "priority_score": 175,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "auxiliar administrativo",
-      "administrativo"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/197589-auxiliar-administrativocomercial": {
-    "url": "https://itajaionline.com.br/vaga/197589-auxiliar-administrativocomercial",
-    "list_title": "Auxiliar Administrativo/Comercial ITAJAI/SC Hoje destaque",
-    "title": "Auxiliar Administrativo/Comercial",
-    "city": "ITAJAI/SC",
-    "description": "Vaga: Auxiliar Administrativo/Comercial",
-    "published_at": "2026-09-11T18:07:52.975191+00:00",
     "priority_score": 175,
     "category": "ADMINISTRATIVO",
     "matches": [
