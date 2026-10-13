@@ -462,6 +462,20 @@
       "assistente financeiro"
     ]
   },
+  "https://itajaionline.com.br/vaga/199204-auxiliar-financeiro": {
+    "url": "https://itajaionline.com.br/vaga/199204-auxiliar-financeiro",
+    "list_title": "AUXILIAR FINANCEIRO Itajaí Hoje",
+    "title": "AUXILIAR FINANCEIRO",
+    "city": "Itajaí",
+    "description": "*AUXILIAR FINANCEIRO*",
+    "published_at": "2026-10-13T01:31:14.262212+00:00",
+    "priority_score": 230,
+    "category": "FINANCEIRO",
+    "matches": [
+      "financeiro",
+      "auxiliar financeiro"
+    ]
+  },
   "https://itajaionline.com.br/vaga/199178-auxiliar-financeiro-atendimento-e-suporte-a-boletos": {
     "url": "https://itajaionline.com.br/vaga/199178-auxiliar-financeiro-atendimento-e-suporte-a-boletos",
     "list_title": "AUXILIAR FINANCEIRO (Atendimento e Suporte a Boletos) Itajaí Hoje destaque",
@@ -502,6 +516,20 @@
     "matches": [
       "financeiro",
       "auxiliar financeiro"
+    ]
+  },
+  "https://itajaionline.com.br/vaga/199211-assistente-societario": {
+    "url": "https://itajaionline.com.br/vaga/199211-assistente-societario",
+    "list_title": "Assistente Societário Itajaí, SC Hoje",
+    "title": "Assistente Societário",
+    "city": "Itajaí, SC",
+    "description": "Renomada contabilidade localizada no centro de Itajaí contrata",
+    "published_at": "2026-10-13T01:31:12.809099+00:00",
+    "priority_score": 180,
+    "category": "ADMINISTRATIVO",
+    "matches": [
+      "contabilidade",
+      "contabil"
     ]
   },
   "https://itajaionline.com.br/vaga/199174-assistente-administrativo-comercial": {
@@ -1393,34 +1421,6 @@
     "city": "Itajaí",
     "description": "A vaga em aberto refere-se a recepção, com funções como: receber clientes e correspondências, fazer café, monitorar e coordenar o escritório, administrar sistema entre outras tarefas diárias...",
     "published_at": "2026-09-18T12:39:16.148483+00:00",
-    "priority_score": 175,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "auxiliar administrativo",
-      "administrativo"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/197843-auxiliar-administrativo": {
-    "url": "https://itajaionline.com.br/vaga/197843-auxiliar-administrativo",
-    "list_title": "AUXILIAR ADMINISTRATIVO NAVEGANTES Hoje",
-    "title": "AUXILIAR ADMINISTRATIVO",
-    "city": "NAVEGANTES",
-    "description": "• Disponibilidade de horário;",
-    "published_at": "2026-09-16T19:01:11.317491+00:00",
-    "priority_score": 175,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "auxiliar administrativo",
-      "administrativo"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/197774-auxiliar-administrativo-pcd": {
-    "url": "https://itajaionline.com.br/vaga/197774-auxiliar-administrativo-pcd",
-    "list_title": "AUXILIAR ADMINISTRATIVO - PCD Itajaí Hoje",
-    "title": "AUXILIAR ADMINISTRATIVO - PCD",
-    "city": "Itajaí",
-    "description": "Contrata-se:",
-    "published_at": "2026-09-15T20:03:32.488077+00:00",
     "priority_score": 175,
     "category": "ADMINISTRATIVO",
     "matches": [
