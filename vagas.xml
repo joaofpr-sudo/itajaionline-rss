@@ -5,7 +5,7 @@
     <link>https://itajaionline.com.br/vagas</link>
     <description>Feed de vagas com prioridade para Financeiro, Faturamento, Contas a Pagar/Receber e Administrativo.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 15 Oct 2026 10:10:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 15:00:05 +0000</lastBuildDate>
     <item>
       <title>★ FINANCEIRO | Assistente Financeiro - Ctas a Receber — Itajaí</title>
       <link>https://itajaionline.com.br/vaga/197272-assistente-financeiro-ctas-a-receber</link>
@@ -327,6 +327,14 @@
       <pubDate>Thu, 17 Sep 2026 14:59:19 +0000</pubDate>
     </item>
     <item>
+      <title>☆ ADMINISTRATIVO | Gerente — NAVEGANTES</title>
+      <link>https://itajaionline.com.br/vaga/199433-gerente</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/199433-gerente</guid>
+      <description>[ADMINISTRATIVO] VAGA: GERENTE ADMINISTRATIVO | Termos identificados: gerente administrativo, administrativo</description>
+      <category>ADMINISTRATIVO</category>
+      <pubDate>Thu, 15 Oct 2026 14:59:57 +0000</pubDate>
+    </item>
+    <item>
       <title>☆ ADMINISTRATIVO | GERENTE ADMINISTRATIVO — ITAJAI</title>
       <link>https://itajaionline.com.br/vaga/199289-gerente-administrativo</link>
       <guid isPermaLink="true">https://itajaionline.com.br/vaga/199289-gerente-administrativo</guid>
@@ -559,6 +567,22 @@
       <pubDate>Wed, 09 Sep 2026 01:21:37 +0000</pubDate>
     </item>
     <item>
+      <title>☆ ADMINISTRATIVO | Auxiliar administrativo — Itajaí</title>
+      <link>https://itajaionline.com.br/vaga/199426-auxiliar-administrativo</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/199426-auxiliar-administrativo</guid>
+      <description>[ADMINISTRATIVO] 1. Do Cargo e Funções | Termos identificados: auxiliar administrativo, administrativo</description>
+      <category>ADMINISTRATIVO</category>
+      <pubDate>Thu, 15 Oct 2026 14:59:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>☆ ADMINISTRATIVO | Auxiliar Administrativo/Expedição — Itajaí</title>
+      <link>https://itajaionline.com.br/vaga/199429-auxiliar-administrativoexpedicao</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/199429-auxiliar-administrativoexpedicao</guid>
+      <description>[ADMINISTRATIVO] Empresa situada na av. Reinaldo Schimitalsen, montadora de | Termos identificados: auxiliar administrativo, administrativo</description>
+      <category>ADMINISTRATIVO</category>
+      <pubDate>Thu, 15 Oct 2026 14:59:58 +0000</pubDate>
+    </item>
+    <item>
       <title>☆ ADMINISTRATIVO | VAGA PARA AUXILIAR ADMINISTRATIVO — Itajaí</title>
       <link>https://itajaionline.com.br/vaga/199362-vaga-para-auxiliar-administrativo</link>
       <guid isPermaLink="true">https://itajaionline.com.br/vaga/199362-vaga-para-auxiliar-administrativo</guid>
@@ -781,30 +805,6 @@
       <description>[ADMINISTRATIVO] Descrição da função: | Termos identificados: auxiliar administrativo, administrativo</description>
       <category>ADMINISTRATIVO</category>
       <pubDate>Fri, 25 Sep 2026 22:49:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>☆ ADMINISTRATIVO | Auxiliar Administrativo/comercial — Itajaí</title>
-      <link>https://itajaionline.com.br/vaga/198408-auxiliar-administrativocomercial</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/198408-auxiliar-administrativocomercial</guid>
-      <description>[ADMINISTRATIVO] Auxiliar Administrativo/Comercial | Termos identificados: auxiliar administrativo, administrativo</description>
-      <category>ADMINISTRATIVO</category>
-      <pubDate>Fri, 25 Sep 2026 19:33:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>☆ ADMINISTRATIVO | Auxiliar Administrativo - Recepção (exclusiva para Pessoa com Deficiência) — Itajaí</title>
-      <link>https://itajaionline.com.br/vaga/198409-auxiliar-administrativo-recepcao-exclusiva-para-pessoa-com-deficiencia</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/198409-auxiliar-administrativo-recepcao-exclusiva-para-pessoa-com-deficiencia</guid>
-      <description>[ADMINISTRATIVO] Horário de trabalho: das 07h30 às 17h30 de segunda a sexta-feira. | Termos identificados: auxiliar administrativo, administrativo</description>
-      <category>ADMINISTRATIVO</category>
-      <pubDate>Fri, 25 Sep 2026 19:33:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>☆ ADMINISTRATIVO | Auxiliar ADM - — Itajaí/SC</title>
-      <link>https://itajaionline.com.br/vaga/198362-auxiliar-adm</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/198362-auxiliar-adm</guid>
-      <description>[ADMINISTRATIVO] AUXILIAR ADMINISTRATIVO | Termos identificados: auxiliar administrativo, administrativo</description>
-      <category>ADMINISTRATIVO</category>
-      <pubDate>Fri, 25 Sep 2026 15:34:32 +0000</pubDate>
     </item>
   </channel>
 </rss>

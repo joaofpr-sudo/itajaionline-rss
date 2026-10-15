@@ -590,6 +590,20 @@
       "auxiliar financeiro"
     ]
   },
+  "https://itajaionline.com.br/vaga/199433-gerente": {
+    "url": "https://itajaionline.com.br/vaga/199433-gerente",
+    "list_title": "Gerente NAVEGANTES Hoje",
+    "title": "Gerente",
+    "city": "NAVEGANTES",
+    "description": "VAGA: GERENTE ADMINISTRATIVO",
+    "published_at": "2026-10-15T14:59:57.826664+00:00",
+    "priority_score": 180,
+    "category": "ADMINISTRATIVO",
+    "matches": [
+      "gerente administrativo",
+      "administrativo"
+    ]
+  },
   "https://itajaionline.com.br/vaga/199289-gerente-administrativo": {
     "url": "https://itajaionline.com.br/vaga/199289-gerente-administrativo",
     "list_title": "GERENTE ADMINISTRATIVO ITAJAI Hoje",
@@ -996,6 +1010,34 @@
       "contabil"
     ]
   },
+  "https://itajaionline.com.br/vaga/199426-auxiliar-administrativo": {
+    "url": "https://itajaionline.com.br/vaga/199426-auxiliar-administrativo",
+    "list_title": "Auxiliar administrativo Itajaí Hoje",
+    "title": "Auxiliar administrativo",
+    "city": "Itajaí",
+    "description": "1. Do Cargo e Funções",
+    "published_at": "2026-10-15T14:59:59.296507+00:00",
+    "priority_score": 175,
+    "category": "ADMINISTRATIVO",
+    "matches": [
+      "auxiliar administrativo",
+      "administrativo"
+    ]
+  },
+  "https://itajaionline.com.br/vaga/199429-auxiliar-administrativoexpedicao": {
+    "url": "https://itajaionline.com.br/vaga/199429-auxiliar-administrativoexpedicao",
+    "list_title": "Auxiliar Administrativo/Expedição Itajaí Hoje",
+    "title": "Auxiliar Administrativo/Expedição",
+    "city": "Itajaí",
+    "description": "Empresa situada na av. Reinaldo Schimitalsen, montadora de",
+    "published_at": "2026-10-15T14:59:58.665143+00:00",
+    "priority_score": 175,
+    "category": "ADMINISTRATIVO",
+    "matches": [
+      "auxiliar administrativo",
+      "administrativo"
+    ]
+  },
   "https://itajaionline.com.br/vaga/199362-vaga-para-auxiliar-administrativo": {
     "url": "https://itajaionline.com.br/vaga/199362-vaga-para-auxiliar-administrativo",
     "list_title": "VAGA PARA AUXILIAR ADMINISTRATIVO Itajaí Hoje",
@@ -1381,48 +1423,6 @@
     "city": "Itajai-SC",
     "description": "Descrição da função:",
     "published_at": "2026-09-25T22:49:08.532391+00:00",
-    "priority_score": 175,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "auxiliar administrativo",
-      "administrativo"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/198408-auxiliar-administrativocomercial": {
-    "url": "https://itajaionline.com.br/vaga/198408-auxiliar-administrativocomercial",
-    "list_title": "Auxiliar Administrativo/comercial Itajaí Hoje",
-    "title": "Auxiliar Administrativo/comercial",
-    "city": "Itajaí",
-    "description": "Auxiliar Administrativo/Comercial",
-    "published_at": "2026-09-25T19:33:47.117185+00:00",
-    "priority_score": 175,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "auxiliar administrativo",
-      "administrativo"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/198409-auxiliar-administrativo-recepcao-exclusiva-para-pessoa-com-deficiencia": {
-    "url": "https://itajaionline.com.br/vaga/198409-auxiliar-administrativo-recepcao-exclusiva-para-pessoa-com-deficiencia",
-    "list_title": "Auxiliar Administrativo - Recepção (exclusiva para Pessoa com Deficiência) Itajaí Hoje",
-    "title": "Auxiliar Administrativo - Recepção (exclusiva para Pessoa com Deficiência)",
-    "city": "Itajaí",
-    "description": "Horário de trabalho: das 07h30 às 17h30 de segunda a sexta-feira.",
-    "published_at": "2026-09-25T19:33:46.900258+00:00",
-    "priority_score": 175,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "auxiliar administrativo",
-      "administrativo"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/198362-auxiliar-adm": {
-    "url": "https://itajaionline.com.br/vaga/198362-auxiliar-adm",
-    "list_title": "Auxiliar ADM - Itajaí/SC Hoje",
-    "title": "Auxiliar ADM -",
-    "city": "Itajaí/SC",
-    "description": "AUXILIAR ADMINISTRATIVO",
-    "published_at": "2026-09-25T15:34:32.317966+00:00",
     "priority_score": 175,
     "category": "ADMINISTRATIVO",
     "matches": [
