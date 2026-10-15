@@ -143,6 +143,36 @@
       "rh"
     ]
   },
+  "https://itajaionline.com.br/vaga/199445-auxiliar-de-depto-contabil-s-a-contabilidade": {
+    "url": "https://itajaionline.com.br/vaga/199445-auxiliar-de-depto-contabil-s-a-contabilidade",
+    "list_title": "Auxiliar de Depto Contábil - S.A. Contabilidade Navegantes Hoje",
+    "title": "Auxiliar de Depto Contábil - S.A. Contabilidade",
+    "city": "Navegantes",
+    "description": "🔎 Estamos contratando: Auxiliar de Departamento Contábil",
+    "published_at": "2026-10-15T19:01:20.103125+00:00",
+    "priority_score": 270,
+    "category": "ADMINISTRATIVO",
+    "matches": [
+      "contabilidade",
+      "contábil",
+      "contabil"
+    ]
+  },
+  "https://itajaionline.com.br/vaga/199449-tecnico-contabil": {
+    "url": "https://itajaionline.com.br/vaga/199449-tecnico-contabil",
+    "list_title": "TÉCNICO CONTÁBIL Itajaí Hoje",
+    "title": "TÉCNICO CONTÁBIL",
+    "city": "Itajaí",
+    "description": "TÉCNICO EM CONTABILIDADE",
+    "published_at": "2026-10-15T19:01:19.228872+00:00",
+    "priority_score": 270,
+    "category": "ADMINISTRATIVO",
+    "matches": [
+      "contabilidade",
+      "contábil",
+      "contabil"
+    ]
+  },
   "https://itajaionline.com.br/vaga/199152-auxiliar-administrativo-sinistro": {
     "url": "https://itajaionline.com.br/vaga/199152-auxiliar-administrativo-sinistro",
     "list_title": "Auxiliar Administrativo - Sinistro ITAJAÍ Hoje destaque",
@@ -518,6 +548,20 @@
     "matches": [
       "financeiro",
       "assistente financeiro"
+    ]
+  },
+  "https://itajaionline.com.br/vaga/199468-auxiliar-financeiro-caixa": {
+    "url": "https://itajaionline.com.br/vaga/199468-auxiliar-financeiro-caixa",
+    "list_title": "Auxiliar Financeiro / Caixa Itajai Hoje",
+    "title": "Auxiliar Financeiro / Caixa",
+    "city": "Itajai",
+    "description": "Auxiliar Financeiro / Caixa",
+    "published_at": "2026-10-15T19:01:15.049769+00:00",
+    "priority_score": 230,
+    "category": "FINANCEIRO",
+    "matches": [
+      "financeiro",
+      "auxiliar financeiro"
     ]
   },
   "https://itajaionline.com.br/vaga/199246-auxiliar-financeiro": {
@@ -1381,48 +1425,6 @@
     "city": "Itajai",
     "description": "Vaga: Auxiliar Administrativo – Disk Entulho - Temporária",
     "published_at": "2026-09-28T19:35:04.385469+00:00",
-    "priority_score": 175,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "auxiliar administrativo",
-      "administrativo"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/198481-auxiliar-administrativo-pos-vendas": {
-    "url": "https://itajaionline.com.br/vaga/198481-auxiliar-administrativo-pos-vendas",
-    "list_title": "Auxiliar administrativo - Pós-vendas Itajai Hoje",
-    "title": "Auxiliar administrativo - Pós-vendas",
-    "city": "Itajai",
-    "description": "AUXILIAR ADMINISTRATIVO – PÓS-VENDAS",
-    "published_at": "2026-09-28T19:35:03.276421+00:00",
-    "priority_score": 175,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "auxiliar administrativo",
-      "administrativo"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/198421-auxiliar-administrativo": {
-    "url": "https://itajaionline.com.br/vaga/198421-auxiliar-administrativo",
-    "list_title": "AUXILIAR ADMINISTRATIVO ITAJAÍ Hoje",
-    "title": "AUXILIAR ADMINISTRATIVO",
-    "city": "ITAJAÍ",
-    "description": "Vaga | Auxiliar Administrativo (Logística) — Karimex (Itajaí/SC)",
-    "published_at": "2026-09-25T22:49:17.637738+00:00",
-    "priority_score": 175,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "auxiliar administrativo",
-      "administrativo"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/198332-vaga-recepcionista-auxiliar-administrativo": {
-    "url": "https://itajaionline.com.br/vaga/198332-vaga-recepcionista-auxiliar-administrativo",
-    "list_title": "Vaga: Recepcionista / Auxiliar Administrativo Itajai-SC Hoje destaque",
-    "title": "Vaga: Recepcionista / Auxiliar Administrativo",
-    "city": "Itajai-SC",
-    "description": "Descrição da função:",
-    "published_at": "2026-09-25T22:49:08.532391+00:00",
     "priority_score": 175,
     "category": "ADMINISTRATIVO",
     "matches": [
