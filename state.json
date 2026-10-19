@@ -369,6 +369,21 @@
       "fiscal"
     ]
   },
+  "https://itajaionline.com.br/vaga/199625-secretaria-administrativa": {
+    "url": "https://itajaionline.com.br/vaga/199625-secretaria-administrativa",
+    "list_title": "Secretária Administrativa Itajaí Hoje",
+    "title": "Secretária Administrativa",
+    "city": "Itajaí",
+    "description": "Estamos em busca de uma profissional organizada, proativa e resolutiva para atuar no suporte direto aos sócios, auxiliando na organização das agendas, demandas administrativas e rotinas operacionais da empresa. Buscamos alguém com experiência na área administrativa, autonomia para conduzir atividades do dia a dia e iniciativa para acompanhar pendências, antecipar necessidades e garantir que as demandas sejam concluídas dentro dos prazos.",
+    "published_at": "2026-10-19T20:51:08.128271+00:00",
+    "priority_score": 240,
+    "category": "ADMINISTRATIVO",
+    "matches": [
+      "administrativa",
+      "área administrativa",
+      "secretária"
+    ]
+  },
   "https://itajaionline.com.br/vaga/198177-auxiliar-de-faturamento-bpo-financeiro": {
     "url": "https://itajaionline.com.br/vaga/198177-auxiliar-de-faturamento-bpo-financeiro",
     "list_title": "Auxiliar de Faturamento (BPO Financeiro) Itajaí Hoje",
@@ -593,6 +608,20 @@
     "matches": [
       "financeiro",
       "assistente financeiro"
+    ]
+  },
+  "https://itajaionline.com.br/vaga/199626-auxiliar-financeiro": {
+    "url": "https://itajaionline.com.br/vaga/199626-auxiliar-financeiro",
+    "list_title": "Auxiliar Financeiro Itajaí Hoje",
+    "title": "Auxiliar Financeiro",
+    "city": "Itajaí",
+    "description": "Auxiliar Financeiro",
+    "published_at": "2026-10-19T20:51:07.920478+00:00",
+    "priority_score": 230,
+    "category": "FINANCEIRO",
+    "matches": [
+      "financeiro",
+      "auxiliar financeiro"
     ]
   },
   "https://itajaionline.com.br/vaga/199468-auxiliar-financeiro-caixa": {
@@ -1113,6 +1142,20 @@
       "contabil"
     ]
   },
+  "https://itajaionline.com.br/vaga/199628-auxiliar-administrativo": {
+    "url": "https://itajaionline.com.br/vaga/199628-auxiliar-administrativo",
+    "list_title": "Auxiliar Administrativo Itajaí/SC Hoje",
+    "title": "Auxiliar Administrativo",
+    "city": "Itajaí/SC",
+    "description": "🚛 Vaga: Auxiliar Administrativo – Logística",
+    "published_at": "2026-10-19T20:51:07.503600+00:00",
+    "priority_score": 175,
+    "category": "ADMINISTRATIVO",
+    "matches": [
+      "auxiliar administrativo",
+      "administrativo"
+    ]
+  },
   "https://itajaionline.com.br/vaga/199426-auxiliar-administrativo": {
     "url": "https://itajaionline.com.br/vaga/199426-auxiliar-administrativo",
     "list_title": "Auxiliar administrativo Itajaí Hoje",
@@ -1386,48 +1429,6 @@
     "city": "Itajaí - sc",
     "description": "📢 VAGA DE EMPREGO – AUXILIAR ADMINISTRATIVO",
     "published_at": "2026-10-01T14:07:51.096423+00:00",
-    "priority_score": 175,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "auxiliar administrativo",
-      "administrativo"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/198708-auxiliar-administrativo-foco-em-criacao-de-produtos": {
-    "url": "https://itajaionline.com.br/vaga/198708-auxiliar-administrativo-foco-em-criacao-de-produtos",
-    "list_title": "Auxiliar Administrativo - Foco em criação de produtos. Itajaí/sc Hoje",
-    "title": "Auxiliar Administrativo - Foco em criação de produtos.",
-    "city": "Itajaí/sc",
-    "description": "AUXILIAR ADMINISTRATIVO – FOCO EM CRIAÇÃO DE PRODUTOS",
-    "published_at": "2026-10-01T14:07:46.699423+00:00",
-    "priority_score": 175,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "auxiliar administrativo",
-      "administrativo"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/198693-auxiliar-administrativo": {
-    "url": "https://itajaionline.com.br/vaga/198693-auxiliar-administrativo",
-    "list_title": "Auxiliar Administrativo ITAJAÍ Hoje destaque",
-    "title": "Auxiliar Administrativo",
-    "city": "ITAJAÍ",
-    "description": "Vaga: Auxiliar Administrativo",
-    "published_at": "2026-10-01T00:50:25.795712+00:00",
-    "priority_score": 175,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "auxiliar administrativo",
-      "administrativo"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/198648-auxiliar-admcomercial": {
-    "url": "https://itajaionline.com.br/vaga/198648-auxiliar-admcomercial",
-    "list_title": "AUXILIAR ADM/COMERCIAL ITAJAI SC Hoje",
-    "title": "AUXILIAR ADM/COMERCIAL",
-    "city": "ITAJAI SC",
-    "description": "Buscamos auxiliar administrativo/comercial para dar suporte às rotinas de atendimento, vendas e organização do escritório.",
-    "published_at": "2026-09-30T17:30:01.607643+00:00",
     "priority_score": 175,
     "category": "ADMINISTRATIVO",
     "matches": [
