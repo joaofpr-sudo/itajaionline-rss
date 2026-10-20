@@ -309,6 +309,21 @@
       "rotinas administrativas"
     ]
   },
+  "https://itajaionline.com.br/vaga/199718-assistente-fiscal": {
+    "url": "https://itajaionline.com.br/vaga/199718-assistente-fiscal",
+    "list_title": "Assistente Fiscal Itajaí, SC Hoje",
+    "title": "Assistente Fiscal",
+    "city": "Itajaí, SC",
+    "description": "Renomada Contabilidade em Itajaí/SC, busca para contratação imediata Assistente fiscal",
+    "published_at": "2026-10-20T21:55:28.444927+00:00",
+    "priority_score": 250,
+    "category": "ADMINISTRATIVO",
+    "matches": [
+      "contabilidade",
+      "contabil",
+      "fiscal"
+    ]
+  },
   "https://itajaionline.com.br/vaga/198809-analista-fiscal-jr": {
     "url": "https://itajaionline.com.br/vaga/198809-analista-fiscal-jr",
     "list_title": "ANALISTA FISCAL JR Itajaí Hoje",
@@ -706,6 +721,20 @@
     "matches": [
       "financeiro",
       "auxiliar financeiro"
+    ]
+  },
+  "https://itajaionline.com.br/vaga/199717-assistente-administrativo-operacional-afirmativa-para-pcd": {
+    "url": "https://itajaionline.com.br/vaga/199717-assistente-administrativo-operacional-afirmativa-para-pcd",
+    "list_title": "Assistente Administrativo Operacional - Afirmativa para PCD Navegantes Hoje",
+    "title": "Assistente Administrativo Operacional - Afirmativa para PCD",
+    "city": "Navegantes",
+    "description": "Estamos em busca de um(a) Assistente de TI para dar suporte às atividades operacionais da área de Tecnologia da Informação e apoiar a execução de projetos de melhoria de sistemas, infraestrutura e processos. Você vai trabalhar junto à equipe de projetos e às áreas de logística, ajudando a integrar sistemas e processos.",
+    "published_at": "2026-10-20T21:55:28.645191+00:00",
+    "priority_score": 180,
+    "category": "ADMINISTRATIVO",
+    "matches": [
+      "assistente administrativo",
+      "administrativo"
     ]
   },
   "https://itajaionline.com.br/vaga/199554-assistente-administrativo": {
@@ -1401,34 +1430,6 @@
     "city": "Itajai",
     "description": "Vaga: Auxiliar Administrativo – Pós-Vendas",
     "published_at": "2026-10-06T20:27:31.640087+00:00",
-    "priority_score": 175,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "auxiliar administrativo",
-      "administrativo"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/198910-auxiliar-administrativo": {
-    "url": "https://itajaionline.com.br/vaga/198910-auxiliar-administrativo",
-    "list_title": "AUXILIAR ADMINISTRATIVO NAVEGANTES/SC Hoje",
-    "title": "AUXILIAR ADMINISTRATIVO",
-    "city": "NAVEGANTES/SC",
-    "description": "💼 AUXILIAR ADMINISTRATIVO",
-    "published_at": "2026-10-06T15:24:08.285948+00:00",
-    "priority_score": 175,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "auxiliar administrativo",
-      "administrativo"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/198714-auxiliar-administrativo": {
-    "url": "https://itajaionline.com.br/vaga/198714-auxiliar-administrativo",
-    "list_title": "Auxiliar administrativo Navegantes Hoje destaque",
-    "title": "Auxiliar administrativo",
-    "city": "Navegantes",
-    "description": "VAGA | AUXILIAR ADMINISTRATIVO",
-    "published_at": "2026-10-05T14:44:11.942927+00:00",
     "priority_score": 175,
     "category": "ADMINISTRATIVO",
     "matches": [
