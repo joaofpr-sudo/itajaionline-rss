@@ -127,6 +127,22 @@
       "área administrativa"
     ]
   },
+  "https://itajaionline.com.br/vaga/199906-recepcionista": {
+    "url": "https://itajaionline.com.br/vaga/199906-recepcionista",
+    "list_title": "Recepcionista Itajaí Hoje",
+    "title": "Recepcionista",
+    "city": "Itajaí",
+    "description": "A CEG+ , construtora localizada no bairro Fazenda, em Itajaí/SC, está contratando Auxiliar Administrativo para atuar na recepção, realizando atendimento ao público e prestando suporte às rotinas administrativas.",
+    "published_at": "2026-10-23T19:44:30.020265+00:00",
+    "priority_score": 345,
+    "category": "ADMINISTRATIVO",
+    "matches": [
+      "auxiliar administrativo",
+      "administrativo",
+      "administrativa",
+      "rotinas administrativas"
+    ]
+  },
   "https://itajaionline.com.br/vaga/199520-coordenador-contabilfiscal": {
     "url": "https://itajaionline.com.br/vaga/199520-coordenador-contabilfiscal",
     "list_title": "Coordenador Contábil/Fiscal Itajaí-SC Hoje",
@@ -456,6 +472,48 @@
       "administrativa",
       "rotinas administrativas",
       "fiscal"
+    ]
+  },
+  "https://itajaionline.com.br/vaga/199900-analista-financeiro": {
+    "url": "https://itajaionline.com.br/vaga/199900-analista-financeiro",
+    "list_title": "Analista Financeiro Itajaí Hoje",
+    "title": "Analista Financeiro",
+    "city": "Itajaí",
+    "description": "Vaga: Analista Financeiro",
+    "published_at": "2026-10-23T19:44:31.306367+00:00",
+    "priority_score": 235,
+    "category": "FINANCEIRO",
+    "matches": [
+      "financeiro",
+      "analista financeiro"
+    ]
+  },
+  "https://itajaionline.com.br/vaga/199901-assistente-financeiro": {
+    "url": "https://itajaionline.com.br/vaga/199901-assistente-financeiro",
+    "list_title": "Assistente Financeiro Itajai Hoje",
+    "title": "Assistente Financeiro",
+    "city": "Itajai",
+    "description": "Suas principais responsabilidades",
+    "published_at": "2026-10-23T19:44:31.090580+00:00",
+    "priority_score": 235,
+    "category": "FINANCEIRO",
+    "matches": [
+      "financeiro",
+      "assistente financeiro"
+    ]
+  },
+  "https://itajaionline.com.br/vaga/199902-analista-financeiro": {
+    "url": "https://itajaionline.com.br/vaga/199902-analista-financeiro",
+    "list_title": "Analista Financeiro Itajai Hoje",
+    "title": "Analista Financeiro",
+    "city": "Itajai",
+    "description": "O que você vai fazer no dia a dia (Responsabilidades)",
+    "published_at": "2026-10-23T19:44:30.877971+00:00",
+    "priority_score": 235,
+    "category": "FINANCEIRO",
+    "matches": [
+      "financeiro",
+      "analista financeiro"
     ]
   },
   "https://itajaionline.com.br/vaga/199776-caixa-financeiro": {
@@ -1376,62 +1434,6 @@
     "city": "Itajaí",
     "description": "1. Do Cargo e Funções",
     "published_at": "2026-10-15T14:59:59.296507+00:00",
-    "priority_score": 175,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "auxiliar administrativo",
-      "administrativo"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/199429-auxiliar-administrativoexpedicao": {
-    "url": "https://itajaionline.com.br/vaga/199429-auxiliar-administrativoexpedicao",
-    "list_title": "Auxiliar Administrativo/Expedição Itajaí Hoje",
-    "title": "Auxiliar Administrativo/Expedição",
-    "city": "Itajaí",
-    "description": "Empresa situada na av. Reinaldo Schimitalsen, montadora de",
-    "published_at": "2026-10-15T14:59:58.665143+00:00",
-    "priority_score": 175,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "auxiliar administrativo",
-      "administrativo"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/199362-vaga-para-auxiliar-administrativo": {
-    "url": "https://itajaionline.com.br/vaga/199362-vaga-para-auxiliar-administrativo",
-    "list_title": "VAGA PARA AUXILIAR ADMINISTRATIVO Itajaí Hoje",
-    "title": "VAGA PARA AUXILIAR ADMINISTRATIVO",
-    "city": "Itajaí",
-    "description": "Despachante Brava contrata!",
-    "published_at": "2026-10-14T19:23:14.998596+00:00",
-    "priority_score": 175,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "auxiliar administrativo",
-      "administrativo"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/195630-auxiliar-administrativo": {
-    "url": "https://itajaionline.com.br/vaga/195630-auxiliar-administrativo",
-    "list_title": "AUXILIAR ADMINISTRATIVO Itajaí 30/09 destaque",
-    "title": "AUXILIAR ADMINISTRATIVO",
-    "city": "Itajaí",
-    "description": "Vaga: AUXILIAR ADMINISTRATIVO",
-    "published_at": "2026-10-13T21:18:53.253678+00:00",
-    "priority_score": 175,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "auxiliar administrativo",
-      "administrativo"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/195966-auxiliar-administrativo": {
-    "url": "https://itajaionline.com.br/vaga/195966-auxiliar-administrativo",
-    "list_title": "Auxiliar Administrativo Itajaí 05/10 destaque",
-    "title": "Auxiliar Administrativo",
-    "city": "Itajaí",
-    "description": "SEG A SEX 📍 Local: Itaipava – Itajaí/SC",
-    "published_at": "2026-10-13T21:18:52.142015+00:00",
     "priority_score": 175,
     "category": "ADMINISTRATIVO",
     "matches": [
