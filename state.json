@@ -341,6 +341,21 @@
       "rotinas administrativas"
     ]
   },
+  "https://itajaionline.com.br/vaga/200007-analista-fiscal-contabilidade": {
+    "url": "https://itajaionline.com.br/vaga/200007-analista-fiscal-contabilidade",
+    "list_title": "Analista Fiscal (CONTABILIDADE) Itajaí Hoje",
+    "title": "Analista Fiscal (CONTABILIDADE)",
+    "city": "Itajaí",
+    "description": "ANALISTA FISCAL (CONTABILDIADE)",
+    "published_at": "2026-10-26T21:45:17.650008+00:00",
+    "priority_score": 250,
+    "category": "ADMINISTRATIVO",
+    "matches": [
+      "contabilidade",
+      "contabil",
+      "fiscal"
+    ]
+  },
   "https://itajaionline.com.br/vaga/199718-assistente-fiscal": {
     "url": "https://itajaionline.com.br/vaga/199718-assistente-fiscal",
     "list_title": "Assistente Fiscal Itajaí, SC Hoje",
@@ -472,6 +487,20 @@
       "administrativa",
       "rotinas administrativas",
       "fiscal"
+    ]
+  },
+  "https://itajaionline.com.br/vaga/199994-assistente-financeiro": {
+    "url": "https://itajaionline.com.br/vaga/199994-assistente-financeiro",
+    "list_title": "ASSISTENTE FINANCEIRO ITAJAÍ Hoje",
+    "title": "ASSISTENTE FINANCEIRO",
+    "city": "ITAJAÍ",
+    "description": "Detalhes da vaga:",
+    "published_at": "2026-10-26T21:45:20.097477+00:00",
+    "priority_score": 235,
+    "category": "FINANCEIRO",
+    "matches": [
+      "financeiro",
+      "assistente financeiro"
     ]
   },
   "https://itajaionline.com.br/vaga/199957-assistente-financeiro": {
@@ -1343,6 +1372,20 @@
       "contabil"
     ]
   },
+  "https://itajaionline.com.br/vaga/199654-vaga-auxiliar-administrativo-de-pos-locacao": {
+    "url": "https://itajaionline.com.br/vaga/199654-vaga-auxiliar-administrativo-de-pos-locacao",
+    "list_title": "Vaga: Auxiliar Administrativo de Pós Locação Itajaí 19/10 destaque",
+    "title": "Vaga: Auxiliar Administrativo de Pós Locação",
+    "city": "Itajaí",
+    "description": "Estamos em busca de um profissional organizado, proativo e com boa comunicação para integrar a equipe de",
+    "published_at": "2026-10-26T21:45:12.332207+00:00",
+    "priority_score": 175,
+    "category": "ADMINISTRATIVO",
+    "matches": [
+      "auxiliar administrativo",
+      "administrativo"
+    ]
+  },
   "https://itajaionline.com.br/vaga/199939-administrativo": {
     "url": "https://itajaionline.com.br/vaga/199939-administrativo",
     "list_title": "Administrativo Itajaí Hoje",
@@ -1392,48 +1435,6 @@
     "city": "Itajaí",
     "description": "📢 VAGA – AUX. DE LIMPEZA",
     "published_at": "2026-10-23T22:39:31.803708+00:00",
-    "priority_score": 175,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "auxiliar administrativo",
-      "administrativo"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/199872-aux-administrativo": {
-    "url": "https://itajaionline.com.br/vaga/199872-aux-administrativo",
-    "list_title": "Aux. Administrativo Tijucas/SC Hoje",
-    "title": "Aux. Administrativo",
-    "city": "Tijucas/SC",
-    "description": "AUXILIAR ADMINISTRATIVO para empresa de concreto.",
-    "published_at": "2026-10-23T15:55:16.070402+00:00",
-    "priority_score": 175,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "auxiliar administrativo",
-      "administrativo"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/199857-auxiliar-administrativo-bairro-cordeiros": {
-    "url": "https://itajaionline.com.br/vaga/199857-auxiliar-administrativo-bairro-cordeiros",
-    "list_title": "Auxiliar Administrativo – Bairro Cordeiros ITAJAÍ Hoje destaque",
-    "title": "Auxiliar Administrativo – Bairro Cordeiros",
-    "city": "ITAJAÍ",
-    "description": "Vaga: Auxiliar Administrativo – Bairro Cordeiros",
-    "published_at": "2026-10-23T15:55:04.185855+00:00",
-    "priority_score": 175,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "auxiliar administrativo",
-      "administrativo"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/199778-auxiliar-administrativo": {
-    "url": "https://itajaionline.com.br/vaga/199778-auxiliar-administrativo",
-    "list_title": "AUXILIAR ADMINISTRATIVO NAVEGANTES Hoje",
-    "title": "AUXILIAR ADMINISTRATIVO",
-    "city": "NAVEGANTES",
-    "description": "• Disponibilidade de horário;",
-    "published_at": "2026-10-21T19:18:52.438229+00:00",
     "priority_score": 175,
     "category": "ADMINISTRATIVO",
     "matches": [
