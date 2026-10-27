@@ -5,7 +5,7 @@
     <link>https://itajaionline.com.br/vagas</link>
     <description>Feed de vagas com prioridade para Financeiro, Faturamento, Contas a Pagar/Receber e Administrativo.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 27 Oct 2026 00:53:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 05:56:01 +0000</lastBuildDate>
     <item>
       <title>★ FINANCEIRO | Assistente Financeiro - Ctas a Receber — Itajaí</title>
       <link>https://itajaionline.com.br/vaga/197272-assistente-financeiro-ctas-a-receber</link>
@@ -775,6 +775,14 @@
       <pubDate>Wed, 09 Sep 2026 01:21:37 +0000</pubDate>
     </item>
     <item>
+      <title>☆ ADMINISTRATIVO | Auxiliar Administrativo — Itajaí</title>
+      <link>https://itajaionline.com.br/vaga/195966-auxiliar-administrativo</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/195966-auxiliar-administrativo</guid>
+      <description>[ADMINISTRATIVO] 📢 VAGA – AUX. DE LIMPEZA | Termos identificados: auxiliar administrativo, administrativo</description>
+      <category>ADMINISTRATIVO</category>
+      <pubDate>Tue, 27 Oct 2026 05:55:50 +0000</pubDate>
+    </item>
+    <item>
       <title>☆ ADMINISTRATIVO | Auxiliar Administrativo – Bairro Cordeiros — ITAJAÍ</title>
       <link>https://itajaionline.com.br/vaga/199857-auxiliar-administrativo-bairro-cordeiros</link>
       <guid isPermaLink="true">https://itajaionline.com.br/vaga/199857-auxiliar-administrativo-bairro-cordeiros</guid>
@@ -797,14 +805,6 @@
       <description>[ADMINISTRATIVO] AUXILIAR ADMINISTRATIVO | Termos identificados: auxiliar administrativo, administrativo</description>
       <category>ADMINISTRATIVO</category>
       <pubDate>Mon, 26 Oct 2026 17:22:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>☆ ADMINISTRATIVO | AUX. ADMINISTRATIVO — Itajaí</title>
-      <link>https://itajaionline.com.br/vaga/199940-aux-administrativo</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/199940-aux-administrativo</guid>
-      <description>[ADMINISTRATIVO] Vaga: Auxiliar Administrativo | Termos identificados: auxiliar administrativo, administrativo</description>
-      <category>ADMINISTRATIVO</category>
-      <pubDate>Mon, 26 Oct 2026 17:22:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
