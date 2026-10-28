@@ -504,6 +504,20 @@
       "fiscal"
     ]
   },
+  "https://itajaionline.com.br/vaga/200161-analista-financeiro": {
+    "url": "https://itajaionline.com.br/vaga/200161-analista-financeiro",
+    "list_title": "ANALISTA FINANCEIRO Itajaí Hoje",
+    "title": "ANALISTA FINANCEIRO",
+    "city": "Itajaí",
+    "description": "📢 VAGA ABERTA | ANALISTA FINANCEIRO",
+    "published_at": "2026-10-28T18:58:32.088020+00:00",
+    "priority_score": 235,
+    "category": "FINANCEIRO",
+    "matches": [
+      "financeiro",
+      "analista financeiro"
+    ]
+  },
   "https://itajaionline.com.br/vaga/200045-supervisor-financeiro": {
     "url": "https://itajaionline.com.br/vaga/200045-supervisor-financeiro",
     "list_title": "SUPERVISOR FINANCEIRO Itajaí Hoje",
@@ -1427,20 +1441,6 @@
     "matches": [
       "contabilidade",
       "contabil"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/200140-administrativo-auxiliar": {
-    "url": "https://itajaionline.com.br/vaga/200140-administrativo-auxiliar",
-    "list_title": "Administrativo / Auxiliar ITAJAÍ Hoje",
-    "title": "Administrativo / Auxiliar",
-    "city": "ITAJAÍ",
-    "description": "Vaga: Auxiliar Administrativo – Bairro Cordeiros",
-    "published_at": "2026-10-28T13:19:51.414747+00:00",
-    "priority_score": 175,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "auxiliar administrativo",
-      "administrativo"
     ]
   }
 }
