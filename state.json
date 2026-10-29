@@ -504,6 +504,20 @@
       "fiscal"
     ]
   },
+  "https://itajaionline.com.br/vaga/200181-analista-financeiro": {
+    "url": "https://itajaionline.com.br/vaga/200181-analista-financeiro",
+    "list_title": "ANALISTA FINANCEIRO ITAJAI Hoje",
+    "title": "ANALISTA FINANCEIRO",
+    "city": "ITAJAI",
+    "description": "Oportunidade de Trabalho – IMPORTADORA MARES",
+    "published_at": "2026-10-29T15:36:22.684601+00:00",
+    "priority_score": 235,
+    "category": "FINANCEIRO",
+    "matches": [
+      "financeiro",
+      "analista financeiro"
+    ]
+  },
   "https://itajaionline.com.br/vaga/200161-analista-financeiro": {
     "url": "https://itajaionline.com.br/vaga/200161-analista-financeiro",
     "list_title": "ANALISTA FINANCEIRO Itajaí Hoje",
@@ -923,6 +937,34 @@
     "matches": [
       "financeiro",
       "auxiliar financeiro"
+    ]
+  },
+  "https://itajaionline.com.br/vaga/200176-vaga-assistente-administrativo-de-frota": {
+    "url": "https://itajaionline.com.br/vaga/200176-vaga-assistente-administrativo-de-frota",
+    "list_title": "Vaga: Assistente Administrativo de Frota Itajaí Hoje",
+    "title": "Vaga: Assistente Administrativo de Frota",
+    "city": "Itajaí",
+    "description": "Principais atividades:",
+    "published_at": "2026-10-29T15:36:23.733770+00:00",
+    "priority_score": 180,
+    "category": "ADMINISTRATIVO",
+    "matches": [
+      "assistente administrativo",
+      "administrativo"
+    ]
+  },
+  "https://itajaionline.com.br/vaga/200184-assistente-administrativo-de-frota": {
+    "url": "https://itajaionline.com.br/vaga/200184-assistente-administrativo-de-frota",
+    "list_title": "ASSISTENTE ADMINISTRATIVO DE FROTA Itajaí Hoje",
+    "title": "ASSISTENTE ADMINISTRATIVO DE FROTA",
+    "city": "Itajaí",
+    "description": "VAGA – ASSISTENTE ADMINISTRATIVO DE FROTA",
+    "published_at": "2026-10-29T15:36:22.045531+00:00",
+    "priority_score": 180,
+    "category": "ADMINISTRATIVO",
+    "matches": [
+      "assistente administrativo",
+      "administrativo"
     ]
   },
   "https://itajaionline.com.br/vaga/200048-analista-administrativo-senior-logistica": {
@@ -1399,48 +1441,6 @@
     "matches": [
       "assistente administrativo",
       "administrativo"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/197402-analista-administrativo": {
-    "url": "https://itajaionline.com.br/vaga/197402-analista-administrativo",
-    "list_title": "ANALISTA ADMINISTRATIVO Itajaí Hoje destaque",
-    "title": "ANALISTA ADMINISTRATIVO",
-    "city": "Itajaí",
-    "description": "Vaga: ANALISTA ADMINISTRATIVO",
-    "published_at": "2026-09-09T14:35:42.827500+00:00",
-    "priority_score": 180,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "analista administrativo",
-      "administrativo"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/197372-auxiliar-assistente-administrativo": {
-    "url": "https://itajaionline.com.br/vaga/197372-auxiliar-assistente-administrativo",
-    "list_title": "Auxiliar / Assistente Administrativo Itajaí Hoje",
-    "title": "Auxiliar / Assistente Administrativo",
-    "city": "Itajaí",
-    "description": "💙 OPORTUNIDADE EXCLUSIVA (PCD)",
-    "published_at": "2026-09-09T01:21:43.038974+00:00",
-    "priority_score": 180,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "assistente administrativo",
-      "administrativo"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/197013-auxiliar-societario": {
-    "url": "https://itajaionline.com.br/vaga/197013-auxiliar-societario",
-    "list_title": "Auxiliar Societário Itajaí 01/09 destaque",
-    "title": "Auxiliar Societário",
-    "city": "Itajaí",
-    "description": "Auxiliar Societário – Alfacon Contabilidade",
-    "published_at": "2026-09-09T01:21:37.532388+00:00",
-    "priority_score": 180,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "contabilidade",
-      "contabil"
     ]
   }
 }

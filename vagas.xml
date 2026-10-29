@@ -5,7 +5,7 @@
     <link>https://itajaionline.com.br/vagas</link>
     <description>Feed de vagas com prioridade para Financeiro, Faturamento, Contas a Pagar/Receber e Administrativo.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 29 Oct 2026 08:44:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 15:36:29 +0000</lastBuildDate>
     <item>
       <title>★ FINANCEIRO | Assistente Financeiro - Ctas a Receber — Itajaí</title>
       <link>https://itajaionline.com.br/vaga/197272-assistente-financeiro-ctas-a-receber</link>
@@ -271,6 +271,14 @@
       <pubDate>Thu, 17 Sep 2026 14:59:20 +0000</pubDate>
     </item>
     <item>
+      <title>★ FINANCEIRO | ANALISTA FINANCEIRO — ITAJAI</title>
+      <link>https://itajaionline.com.br/vaga/200181-analista-financeiro</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/200181-analista-financeiro</guid>
+      <description>[FINANCEIRO] Oportunidade de Trabalho – IMPORTADORA MARES | Termos identificados: financeiro, analista financeiro</description>
+      <category>FINANCEIRO</category>
+      <pubDate>Thu, 29 Oct 2026 15:36:22 +0000</pubDate>
+    </item>
+    <item>
       <title>★ FINANCEIRO | ANALISTA FINANCEIRO — Itajaí</title>
       <link>https://itajaionline.com.br/vaga/200161-analista-financeiro</link>
       <guid isPermaLink="true">https://itajaionline.com.br/vaga/200161-analista-financeiro</guid>
@@ -509,6 +517,22 @@
       <description>[FINANCEIRO] Auxiliar Financeiro | Termos identificados: financeiro, auxiliar financeiro</description>
       <category>FINANCEIRO</category>
       <pubDate>Thu, 17 Sep 2026 14:59:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>☆ ADMINISTRATIVO | Vaga: Assistente Administrativo de Frota — Itajaí</title>
+      <link>https://itajaionline.com.br/vaga/200176-vaga-assistente-administrativo-de-frota</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/200176-vaga-assistente-administrativo-de-frota</guid>
+      <description>[ADMINISTRATIVO] Principais atividades: | Termos identificados: assistente administrativo, administrativo</description>
+      <category>ADMINISTRATIVO</category>
+      <pubDate>Thu, 29 Oct 2026 15:36:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>☆ ADMINISTRATIVO | ASSISTENTE ADMINISTRATIVO DE FROTA — Itajaí</title>
+      <link>https://itajaionline.com.br/vaga/200184-assistente-administrativo-de-frota</link>
+      <guid isPermaLink="true">https://itajaionline.com.br/vaga/200184-assistente-administrativo-de-frota</guid>
+      <description>[ADMINISTRATIVO] VAGA – ASSISTENTE ADMINISTRATIVO DE FROTA | Termos identificados: assistente administrativo, administrativo</description>
+      <category>ADMINISTRATIVO</category>
+      <pubDate>Thu, 29 Oct 2026 15:36:22 +0000</pubDate>
     </item>
     <item>
       <title>☆ ADMINISTRATIVO | ANALISTA ADMINISTRATIVO SENIOR - LOGISTICA — ITAJAI</title>
@@ -781,30 +805,6 @@
       <description>[ADMINISTRATIVO] FOCO EM CONTAS À PAGAR | Termos identificados: assistente administrativo, administrativo</description>
       <category>ADMINISTRATIVO</category>
       <pubDate>Thu, 10 Sep 2026 21:04:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>☆ ADMINISTRATIVO | ANALISTA ADMINISTRATIVO — Itajaí</title>
-      <link>https://itajaionline.com.br/vaga/197402-analista-administrativo</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197402-analista-administrativo</guid>
-      <description>[ADMINISTRATIVO] Vaga: ANALISTA ADMINISTRATIVO | Termos identificados: analista administrativo, administrativo</description>
-      <category>ADMINISTRATIVO</category>
-      <pubDate>Wed, 09 Sep 2026 14:35:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>☆ ADMINISTRATIVO | Auxiliar / Assistente Administrativo — Itajaí</title>
-      <link>https://itajaionline.com.br/vaga/197372-auxiliar-assistente-administrativo</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197372-auxiliar-assistente-administrativo</guid>
-      <description>[ADMINISTRATIVO] 💙 OPORTUNIDADE EXCLUSIVA (PCD) | Termos identificados: assistente administrativo, administrativo</description>
-      <category>ADMINISTRATIVO</category>
-      <pubDate>Wed, 09 Sep 2026 01:21:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>☆ ADMINISTRATIVO | Auxiliar Societário — Itajaí</title>
-      <link>https://itajaionline.com.br/vaga/197013-auxiliar-societario</link>
-      <guid isPermaLink="true">https://itajaionline.com.br/vaga/197013-auxiliar-societario</guid>
-      <description>[ADMINISTRATIVO] Auxiliar Societário – Alfacon Contabilidade | Termos identificados: contabilidade, contabil</description>
-      <category>ADMINISTRATIVO</category>
-      <pubDate>Wed, 09 Sep 2026 01:21:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
