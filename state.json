@@ -81,6 +81,21 @@
       "tesouraria"
     ]
   },
+  "https://itajaionline.com.br/vaga/200269-analista-financeiro-contas-a-receber": {
+    "url": "https://itajaionline.com.br/vaga/200269-analista-financeiro-contas-a-receber",
+    "list_title": "Analista Financeiro - Contas a receber Camboriú/SC Hoje",
+    "title": "Analista Financeiro - Contas a receber",
+    "city": "Camboriú/SC",
+    "description": "Responsável",
+    "published_at": "2026-10-30T18:23:09.923556+00:00",
+    "priority_score": 355,
+    "category": "FINANCEIRO",
+    "matches": [
+      "financeiro",
+      "contas a receber",
+      "analista financeiro"
+    ]
+  },
   "https://itajaionline.com.br/vaga/198670-assistente-financeiro-contas-a-receber": {
     "url": "https://itajaionline.com.br/vaga/198670-assistente-financeiro-contas-a-receber",
     "list_title": "ASSISTENTE FINANCEIRO - CONTAS A RECEBER ITAJAI Hoje",
@@ -1426,20 +1441,6 @@
     "category": "ADMINISTRATIVO",
     "matches": [
       "gerente administrativo",
-      "administrativo"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/197536-assistente-administrativo-contas-a-pagar": {
-    "url": "https://itajaionline.com.br/vaga/197536-assistente-administrativo-contas-a-pagar",
-    "list_title": "ASSISTENTE ADMINISTRATIVO - CONTAS À PAGAR Itajaí Hoje",
-    "title": "ASSISTENTE ADMINISTRATIVO - CONTAS À PAGAR",
-    "city": "Itajaí",
-    "description": "FOCO EM CONTAS À PAGAR",
-    "published_at": "2026-09-10T21:04:08.418067+00:00",
-    "priority_score": 180,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "assistente administrativo",
       "administrativo"
     ]
   }
