@@ -356,6 +356,21 @@
       "rotinas administrativas"
     ]
   },
+  "https://itajaionline.com.br/vaga/200283-analista-fiscal-contabilidade": {
+    "url": "https://itajaionline.com.br/vaga/200283-analista-fiscal-contabilidade",
+    "list_title": "Analista Fiscal (Contabilidade) ITAJAI 30/10",
+    "title": "Analista Fiscal (Contabilidade)",
+    "city": "ITAJAI",
+    "description": "ANALISTA FISCAL",
+    "published_at": "2026-11-02T19:04:47.281575+00:00",
+    "priority_score": 250,
+    "category": "ADMINISTRATIVO",
+    "matches": [
+      "contabilidade",
+      "contabil",
+      "fiscal"
+    ]
+  },
   "https://itajaionline.com.br/vaga/200116-analista-administrativo": {
     "url": "https://itajaionline.com.br/vaga/200116-analista-administrativo",
     "list_title": "ANALISTA ADMINISTRATIVO ITAJAÍ Hoje",
@@ -517,6 +532,20 @@
       "administrativa",
       "rotinas administrativas",
       "fiscal"
+    ]
+  },
+  "https://itajaionline.com.br/vaga/200291-assistente-financeiro-comex": {
+    "url": "https://itajaionline.com.br/vaga/200291-assistente-financeiro-comex",
+    "list_title": "ASSISTENTE FINANCEIRO- COMEX itajai 30/10",
+    "title": "ASSISTENTE FINANCEIRO- COMEX",
+    "city": "itajai",
+    "description": "Assistente Financeiro",
+    "published_at": "2026-11-02T19:04:45.485170+00:00",
+    "priority_score": 235,
+    "category": "FINANCEIRO",
+    "matches": [
+      "financeiro",
+      "assistente financeiro"
     ]
   },
   "https://itajaionline.com.br/vaga/200181-analista-financeiro": {
@@ -954,6 +983,34 @@
       "auxiliar financeiro"
     ]
   },
+  "https://itajaionline.com.br/vaga/200285-analista-administrativo-contratos": {
+    "url": "https://itajaionline.com.br/vaga/200285-analista-administrativo-contratos",
+    "list_title": "Analista Administrativo - Contratos Itajaí 30/10",
+    "title": "Analista Administrativo - Contratos",
+    "city": "Itajaí",
+    "description": "📢 ANALISTA ADMINISTRATIVO – CONTRATOS",
+    "published_at": "2026-11-02T19:04:46.818857+00:00",
+    "priority_score": 180,
+    "category": "ADMINISTRATIVO",
+    "matches": [
+      "analista administrativo",
+      "administrativo"
+    ]
+  },
+  "https://itajaionline.com.br/vaga/200293-assistente-administrativo-de-frota": {
+    "url": "https://itajaionline.com.br/vaga/200293-assistente-administrativo-de-frota",
+    "list_title": "ASSISTENTE ADMINISTRATIVO DE FROTA Itajaí 30/10",
+    "title": "ASSISTENTE ADMINISTRATIVO DE FROTA",
+    "city": "Itajaí",
+    "description": "VAGA – ASSISTENTE ADMINISTRATIVO DE FROTA",
+    "published_at": "2026-11-02T19:04:45.047772+00:00",
+    "priority_score": 180,
+    "category": "ADMINISTRATIVO",
+    "matches": [
+      "assistente administrativo",
+      "administrativo"
+    ]
+  },
   "https://itajaionline.com.br/vaga/200176-vaga-assistente-administrativo-de-frota": {
     "url": "https://itajaionline.com.br/vaga/200176-vaga-assistente-administrativo-de-frota",
     "list_title": "Vaga: Assistente Administrativo de Frota Itajaí Hoje",
@@ -1385,62 +1442,6 @@
     "category": "ADMINISTRATIVO",
     "matches": [
       "assistente administrativo",
-      "administrativo"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/197809-analista-administrativo": {
-    "url": "https://itajaionline.com.br/vaga/197809-analista-administrativo",
-    "list_title": "Analista Administrativo Itajaí - SC Hoje",
-    "title": "Analista Administrativo",
-    "city": "Itajaí - SC",
-    "description": "Nosso cliente é uma importadora de materiais elétricos.",
-    "published_at": "2026-09-16T15:28:20.961680+00:00",
-    "priority_score": 180,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "analista administrativo",
-      "administrativo"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/197789-analista-administrativo-contratos": {
-    "url": "https://itajaionline.com.br/vaga/197789-analista-administrativo-contratos",
-    "list_title": "Analista Administrativo - Contratos Itajaí Hoje",
-    "title": "Analista Administrativo - Contratos",
-    "city": "Itajaí",
-    "description": "📢 ANALISTA ADMINISTRATIVO – CONTRATOS",
-    "published_at": "2026-09-15T20:03:29.647373+00:00",
-    "priority_score": 180,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "analista administrativo",
-      "administrativo"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/197704-assistente-administrativo-logistica": {
-    "url": "https://itajaionline.com.br/vaga/197704-assistente-administrativo-logistica",
-    "list_title": "ASSISTENTE ADMINISTRATIVO / Logística Itajaí Hoje",
-    "title": "ASSISTENTE ADMINISTRATIVO / Logística",
-    "city": "Itajaí",
-    "description": "CONHEÇA A EMPRESA CONTRATANTE:",
-    "published_at": "2026-09-15T12:10:13.071256+00:00",
-    "priority_score": 180,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "assistente administrativo",
-      "administrativo"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/197640-gerente-administrativo": {
-    "url": "https://itajaionline.com.br/vaga/197640-gerente-administrativo",
-    "list_title": "GERENTE ADMINISTRATIVO ITAJAI Hoje",
-    "title": "GERENTE ADMINISTRATIVO",
-    "city": "ITAJAI",
-    "description": "📢 VAGA | GERENTE ADMINISTRATIVO",
-    "published_at": "2026-09-14T16:26:14.760949+00:00",
-    "priority_score": 180,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "gerente administrativo",
       "administrativo"
     ]
   }
