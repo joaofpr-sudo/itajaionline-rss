@@ -476,6 +476,21 @@
       "fiscal"
     ]
   },
+  "https://itajaionline.com.br/vaga/200401-secretaria-bairro-itaipava": {
+    "url": "https://itajaionline.com.br/vaga/200401-secretaria-bairro-itaipava",
+    "list_title": "Secretária Bairro Itaipava itajai Hoje",
+    "title": "Secretária Bairro Itaipava",
+    "city": "itajai",
+    "description": "Ensino médio completo, conhecimento na área administrativa",
+    "published_at": "2026-11-04T17:31:27.367526+00:00",
+    "priority_score": 240,
+    "category": "ADMINISTRATIVO",
+    "matches": [
+      "administrativa",
+      "área administrativa",
+      "secretária"
+    ]
+  },
   "https://itajaionline.com.br/vaga/199625-secretaria-administrativa": {
     "url": "https://itajaionline.com.br/vaga/199625-secretaria-administrativa",
     "list_title": "Secretária Administrativa Itajaí Hoje",
@@ -1428,20 +1443,6 @@
     "category": "ADMINISTRATIVO",
     "matches": [
       "analista administrativo",
-      "administrativo"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/198378-assistente-administrativo": {
-    "url": "https://itajaionline.com.br/vaga/198378-assistente-administrativo",
-    "list_title": "ASSISTENTE ADMINISTRATIVO ITAJAI Hoje",
-    "title": "ASSISTENTE ADMINISTRATIVO",
-    "city": "ITAJAI",
-    "description": "VAGA ASSISTENTE ADMINISTRATIVO",
-    "published_at": "2026-09-25T15:34:29.516198+00:00",
-    "priority_score": 180,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "assistente administrativo",
       "administrativo"
     ]
   }
