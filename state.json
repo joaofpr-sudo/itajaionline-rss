@@ -126,6 +126,22 @@
       "analista financeiro"
     ]
   },
+  "https://itajaionline.com.br/vaga/200458-assistente-administrativo-bairro-brilhante": {
+    "url": "https://itajaionline.com.br/vaga/200458-assistente-administrativo-bairro-brilhante",
+    "list_title": "Assistente Administrativo - Bairro Brilhante Itajaí Hoje",
+    "title": "Assistente Administrativo - Bairro Brilhante",
+    "city": "Itajaí",
+    "description": "Estamos contratando um(a) Assistente Administrativo(a) para atuar em uma empresa do segmento de máquinas e equipamentos para terraplanagem, dando suporte às rotinas administrativas da base e à gestão de frota.",
+    "published_at": "2026-11-05T18:28:07.169999+00:00",
+    "priority_score": 350,
+    "category": "ADMINISTRATIVO",
+    "matches": [
+      "assistente administrativo",
+      "administrativo",
+      "administrativa",
+      "rotinas administrativas"
+    ]
+  },
   "https://itajaionline.com.br/vaga/199363-assistente-administrativo": {
     "url": "https://itajaionline.com.br/vaga/199363-assistente-administrativo",
     "list_title": "Assistente Administrativo Itajaí Hoje",
@@ -354,6 +370,21 @@
       "administrativo",
       "administrativa",
       "rotinas administrativas"
+    ]
+  },
+  "https://itajaionline.com.br/vaga/200389-auxiliar-fiscal": {
+    "url": "https://itajaionline.com.br/vaga/200389-auxiliar-fiscal",
+    "list_title": "Auxiliar Fiscal Itajaí Hoje destaque",
+    "title": "Auxiliar Fiscal",
+    "city": "Itajaí",
+    "description": "Auxiliar Fiscal – Alfasolut Contabilidade",
+    "published_at": "2026-11-05T18:27:59.712950+00:00",
+    "priority_score": 250,
+    "category": "ADMINISTRATIVO",
+    "matches": [
+      "contabilidade",
+      "contabil",
+      "fiscal"
     ]
   },
   "https://itajaionline.com.br/vaga/200283-analista-fiscal-contabilidade": {
@@ -1415,34 +1446,6 @@
     "category": "ADMINISTRATIVO",
     "matches": [
       "assistente administrativo",
-      "administrativo"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/198453-analista-administrativo": {
-    "url": "https://itajaionline.com.br/vaga/198453-analista-administrativo",
-    "list_title": "Analista Administrativo Itajaí - SC Hoje",
-    "title": "Analista Administrativo",
-    "city": "Itajaí - SC",
-    "description": "Nosso cliente é uma importadora de materiais elétricos.",
-    "published_at": "2026-09-28T19:35:08.392827+00:00",
-    "priority_score": 180,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "analista administrativo",
-      "administrativo"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/198462-analista-administrativo": {
-    "url": "https://itajaionline.com.br/vaga/198462-analista-administrativo",
-    "list_title": "Analista administrativo Itajaí Hoje",
-    "title": "Analista administrativo",
-    "city": "Itajaí",
-    "description": "Estamos contratando:",
-    "published_at": "2026-09-28T19:35:06.618402+00:00",
-    "priority_score": 180,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "analista administrativo",
       "administrativo"
     ]
   }
