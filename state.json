@@ -610,6 +610,20 @@
       "fiscal"
     ]
   },
+  "https://itajaionline.com.br/vaga/200509-analista-financeiro-e-administrativo": {
+    "url": "https://itajaionline.com.br/vaga/200509-analista-financeiro-e-administrativo",
+    "list_title": "Analista Financeiro e Administrativo Itapema Hoje",
+    "title": "Analista Financeiro e Administrativo",
+    "city": "Itapema",
+    "description": "Empresa do Ramo da Construção Civil e Incorporação",
+    "published_at": "2026-11-06T19:41:56.145763+00:00",
+    "priority_score": 235,
+    "category": "FINANCEIRO",
+    "matches": [
+      "financeiro",
+      "analista financeiro"
+    ]
+  },
   "https://itajaionline.com.br/vaga/200363-assistente-financeiro": {
     "url": "https://itajaionline.com.br/vaga/200363-assistente-financeiro",
     "list_title": "Assistente Financeiro Itajai Hoje",
@@ -1430,20 +1444,6 @@
     "city": "ITAJAI",
     "description": "Perfil a vaga",
     "published_at": "2026-09-30T17:30:00.556141+00:00",
-    "priority_score": 180,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "assistente administrativo",
-      "administrativo"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/198574-assistente-administrativo": {
-    "url": "https://itajaionline.com.br/vaga/198574-assistente-administrativo",
-    "list_title": "Assistente Administrativo Itajaí Hoje",
-    "title": "Assistente Administrativo",
-    "city": "Itajaí",
-    "description": "Contrata-se",
-    "published_at": "2026-09-29T21:14:15.605046+00:00",
     "priority_score": 180,
     "category": "ADMINISTRATIVO",
     "matches": [
