@@ -610,6 +610,20 @@
       "fiscal"
     ]
   },
+  "https://itajaionline.com.br/vaga/200522-analista-financeiro": {
+    "url": "https://itajaionline.com.br/vaga/200522-analista-financeiro",
+    "list_title": "ANALISTA FINANCEIRO ITAJAI Hoje",
+    "title": "ANALISTA FINANCEIRO",
+    "city": "ITAJAI",
+    "description": "Oportunidade de Trabalho – IMPORTADORA MARES",
+    "published_at": "2026-11-07T04:21:19.402779+00:00",
+    "priority_score": 235,
+    "category": "FINANCEIRO",
+    "matches": [
+      "financeiro",
+      "analista financeiro"
+    ]
+  },
   "https://itajaionline.com.br/vaga/200509-analista-financeiro-e-administrativo": {
     "url": "https://itajaionline.com.br/vaga/200509-analista-financeiro-e-administrativo",
     "list_title": "Analista Financeiro e Administrativo Itapema Hoje",
@@ -1435,20 +1449,6 @@
     "matches": [
       "contabilidade",
       "contabil"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/198653-assistente-administrativo": {
-    "url": "https://itajaionline.com.br/vaga/198653-assistente-administrativo",
-    "list_title": "Assistente administrativo ITAJAI Hoje",
-    "title": "Assistente administrativo",
-    "city": "ITAJAI",
-    "description": "Perfil a vaga",
-    "published_at": "2026-09-30T17:30:00.556141+00:00",
-    "priority_score": 180,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "assistente administrativo",
-      "administrativo"
     ]
   }
 }
