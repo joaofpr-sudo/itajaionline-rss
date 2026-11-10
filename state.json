@@ -1129,6 +1129,20 @@
       "auxiliar financeiro"
     ]
   },
+  "https://itajaionline.com.br/vaga/200562-consultor-de-vendas-contabilidade": {
+    "url": "https://itajaionline.com.br/vaga/200562-consultor-de-vendas-contabilidade",
+    "list_title": "CONSULTOR DE VENDAS (CONTABILIDADE) Itajaí Hoje",
+    "title": "CONSULTOR DE VENDAS (CONTABILIDADE)",
+    "city": "Itajaí",
+    "description": "🚨 CONSULTOR DE VENDAS (CONTABILIDADE) #128 🚨Praia Brava - Itajaí",
+    "published_at": "2026-11-10T01:42:06.778765+00:00",
+    "priority_score": 180,
+    "category": "ADMINISTRATIVO",
+    "matches": [
+      "contabilidade",
+      "contabil"
+    ]
+  },
   "https://itajaionline.com.br/vaga/200319-assistente-adminstrativo-logistico-brilhante-i": {
     "url": "https://itajaionline.com.br/vaga/200319-assistente-adminstrativo-logistico-brilhante-i",
     "list_title": "Assistente Adminstrativo Logistico - Brilhante I Itajái - Brilhante(...) Hoje",
@@ -1435,20 +1449,6 @@
     "matches": [
       "assistente administrativo",
       "administrativo"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/198810-desenvolvedoranalista-de-inovacao": {
-    "url": "https://itajaionline.com.br/vaga/198810-desenvolvedoranalista-de-inovacao",
-    "list_title": "Desenvolvedor/analista de inovação Itajaí Hoje",
-    "title": "Desenvolvedor/analista de inovação",
-    "city": "Itajaí",
-    "description": "Nosso cliente é uma contabilidade e está em busca de um Desenvolvedor/Analista de Inovação para fazer parte de seu time!",
-    "published_at": "2026-10-03T03:31:51.773412+00:00",
-    "priority_score": 180,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "contabilidade",
-      "contabil"
     ]
   }
 }
