@@ -402,6 +402,21 @@
       "rotinas administrativas"
     ]
   },
+  "https://itajaionline.com.br/vaga/200681-auxiliar-fiscal": {
+    "url": "https://itajaionline.com.br/vaga/200681-auxiliar-fiscal",
+    "list_title": "Auxiliar Fiscal Itajaí, SC Hoje",
+    "title": "Auxiliar Fiscal",
+    "city": "Itajaí, SC",
+    "description": "Renomada Contabilidade",
+    "published_at": "2026-11-10T21:58:32.894486+00:00",
+    "priority_score": 250,
+    "category": "ADMINISTRATIVO",
+    "matches": [
+      "contabilidade",
+      "contabil",
+      "fiscal"
+    ]
+  },
   "https://itajaionline.com.br/vaga/200389-auxiliar-fiscal": {
     "url": "https://itajaionline.com.br/vaga/200389-auxiliar-fiscal",
     "list_title": "Auxiliar Fiscal Itajaí Hoje destaque",
@@ -608,6 +623,34 @@
       "administrativa",
       "rotinas administrativas",
       "fiscal"
+    ]
+  },
+  "https://itajaionline.com.br/vaga/200678-analista-financeiro-jr": {
+    "url": "https://itajaionline.com.br/vaga/200678-analista-financeiro-jr",
+    "list_title": "ANALISTA FINANCEIRO JR Itajaí Hoje",
+    "title": "ANALISTA FINANCEIRO JR",
+    "city": "Itajaí",
+    "description": "Local de atuação: Centro de Itajaí - edíficio absolut business",
+    "published_at": "2026-11-10T21:58:33.491679+00:00",
+    "priority_score": 235,
+    "category": "FINANCEIRO",
+    "matches": [
+      "financeiro",
+      "analista financeiro"
+    ]
+  },
+  "https://itajaionline.com.br/vaga/200683-assistente-financeiro": {
+    "url": "https://itajaionline.com.br/vaga/200683-assistente-financeiro",
+    "list_title": "Assistente Financeiro Itajaí, SC Hoje",
+    "title": "Assistente Financeiro",
+    "city": "Itajaí, SC",
+    "description": "Tradicional concessionária de veículos localizada no centro de Itajaí/SC",
+    "published_at": "2026-11-10T21:58:32.689130+00:00",
+    "priority_score": 235,
+    "category": "FINANCEIRO",
+    "matches": [
+      "financeiro",
+      "assistente financeiro"
     ]
   },
   "https://itajaionline.com.br/vaga/200522-analista-financeiro": {
@@ -1129,6 +1172,20 @@
       "auxiliar financeiro"
     ]
   },
+  "https://itajaionline.com.br/vaga/200685-assistente-administrativo": {
+    "url": "https://itajaionline.com.br/vaga/200685-assistente-administrativo",
+    "list_title": "Assistente Administrativo Balneário Cambori&(...) Hoje",
+    "title": "Assistente Administrativo",
+    "city": "Balneário Camboriú",
+    "description": "Estamos em busca de um(a) profissional organizado(a), proativo(a) e comprometido(a) para integrar nossa equipe!",
+    "published_at": "2026-11-10T21:58:32.284544+00:00",
+    "priority_score": 180,
+    "category": "ADMINISTRATIVO",
+    "matches": [
+      "assistente administrativo",
+      "administrativo"
+    ]
+  },
   "https://itajaionline.com.br/vaga/200562-consultor-de-vendas-contabilidade": {
     "url": "https://itajaionline.com.br/vaga/200562-consultor-de-vendas-contabilidade",
     "list_title": "CONSULTOR DE VENDAS (CONTABILIDADE) Itajaí Hoje",
@@ -1393,62 +1450,6 @@
     "matches": [
       "contabilidade",
       "contabil"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/199174-assistente-administrativo-comercial": {
-    "url": "https://itajaionline.com.br/vaga/199174-assistente-administrativo-comercial",
-    "list_title": "Assistente Administrativo (Comercial) Itajaí Hoje",
-    "title": "Assistente Administrativo (Comercial)",
-    "city": "Itajaí",
-    "description": "VAGA ABERTA 📊",
-    "published_at": "2026-10-09T20:12:31.600665+00:00",
-    "priority_score": 180,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "assistente administrativo",
-      "administrativo"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/199073-auxiliar-de-contabilidade": {
-    "url": "https://itajaionline.com.br/vaga/199073-auxiliar-de-contabilidade",
-    "list_title": "Auxiliar de contabilidade Itajaí Hoje",
-    "title": "Auxiliar de contabilidade",
-    "city": "Itajaí",
-    "description": "Sobre a oportunidade:",
-    "published_at": "2026-10-08T16:50:23.308527+00:00",
-    "priority_score": 180,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "contabilidade",
-      "contabil"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/198936-assistente-administrativo": {
-    "url": "https://itajaionline.com.br/vaga/198936-assistente-administrativo",
-    "list_title": "Assistente administrativo Itajaí Hoje",
-    "title": "Assistente administrativo",
-    "city": "Itajaí",
-    "description": "Perfil: ser comunicativo (a) e gostar de atender o público.",
-    "published_at": "2026-10-06T20:27:35.043917+00:00",
-    "priority_score": 180,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "assistente administrativo",
-      "administrativo"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/198817-assistente-administrativo-area-de-logistica": {
-    "url": "https://itajaionline.com.br/vaga/198817-assistente-administrativo-area-de-logistica",
-    "list_title": "assistente administrativo area de logistica Itajai Hoje",
-    "title": "assistente administrativo area de logistica",
-    "city": "Itajai",
-    "description": "Vaga : Assistente administrativo área de logística",
-    "published_at": "2026-10-05T14:44:26.841429+00:00",
-    "priority_score": 180,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "assistente administrativo",
-      "administrativo"
     ]
   }
 }
