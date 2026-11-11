@@ -625,6 +625,20 @@
       "fiscal"
     ]
   },
+  "https://itajaionline.com.br/vaga/200761-assistente-financeiro": {
+    "url": "https://itajaionline.com.br/vaga/200761-assistente-financeiro",
+    "list_title": "Assistente financeiro Itajaí Hoje",
+    "title": "Assistente financeiro",
+    "city": "Itajaí",
+    "description": "Fechamento de caixa;",
+    "published_at": "2026-11-11T23:16:35.645274+00:00",
+    "priority_score": 235,
+    "category": "FINANCEIRO",
+    "matches": [
+      "financeiro",
+      "assistente financeiro"
+    ]
+  },
   "https://itajaionline.com.br/vaga/200730-assistente-financeiro": {
     "url": "https://itajaionline.com.br/vaga/200730-assistente-financeiro",
     "list_title": "ASSISTENTE FINANCEIRO Itajai - SC Hoje",
@@ -1186,6 +1200,20 @@
       "auxiliar financeiro"
     ]
   },
+  "https://itajaionline.com.br/vaga/200758-assistente-administrativo": {
+    "url": "https://itajaionline.com.br/vaga/200758-assistente-administrativo",
+    "list_title": "Assistente administrativo Itajaí Hoje",
+    "title": "Assistente administrativo",
+    "city": "Itajaí",
+    "description": "Estamos contratando",
+    "published_at": "2026-11-11T23:16:36.246070+00:00",
+    "priority_score": 180,
+    "category": "ADMINISTRATIVO",
+    "matches": [
+      "assistente administrativo",
+      "administrativo"
+    ]
+  },
   "https://itajaionline.com.br/vaga/200685-assistente-administrativo": {
     "url": "https://itajaionline.com.br/vaga/200685-assistente-administrativo",
     "list_title": "Assistente Administrativo Balneário Cambori&(...) Hoje",
@@ -1421,34 +1449,6 @@
     "category": "ADMINISTRATIVO",
     "matches": [
       "gerente administrativo",
-      "administrativo"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/199214-auxiliar-de-contabilidade": {
-    "url": "https://itajaionline.com.br/vaga/199214-auxiliar-de-contabilidade",
-    "list_title": "Auxiliar de contabilidade Itajaí Hoje",
-    "title": "Auxiliar de contabilidade",
-    "city": "Itajaí",
-    "description": "Sobre a oportunidade:",
-    "published_at": "2026-10-13T16:15:03.384176+00:00",
-    "priority_score": 180,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "contabilidade",
-      "contabil"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/199217-administrativo": {
-    "url": "https://itajaionline.com.br/vaga/199217-administrativo",
-    "list_title": "Administrativo ITAJAI Hoje",
-    "title": "Administrativo",
-    "city": "ITAJAI",
-    "description": "Vaga : Assistente administrativo área de logística",
-    "published_at": "2026-10-13T16:15:02.707150+00:00",
-    "priority_score": 180,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "assistente administrativo",
       "administrativo"
     ]
   }
