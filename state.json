@@ -625,6 +625,20 @@
       "fiscal"
     ]
   },
+  "https://itajaionline.com.br/vaga/200730-assistente-financeiro": {
+    "url": "https://itajaionline.com.br/vaga/200730-assistente-financeiro",
+    "list_title": "ASSISTENTE FINANCEIRO Itajai - SC Hoje",
+    "title": "ASSISTENTE FINANCEIRO",
+    "city": "Itajai - SC",
+    "description": "ASSISTENTE FINANCEIRO",
+    "published_at": "2026-11-11T16:51:42.571112+00:00",
+    "priority_score": 235,
+    "category": "FINANCEIRO",
+    "matches": [
+      "financeiro",
+      "assistente financeiro"
+    ]
+  },
   "https://itajaionline.com.br/vaga/200678-analista-financeiro-jr": {
     "url": "https://itajaionline.com.br/vaga/200678-analista-financeiro-jr",
     "list_title": "ANALISTA FINANCEIRO JR Itajaí Hoje",
@@ -1436,20 +1450,6 @@
     "matches": [
       "assistente administrativo",
       "administrativo"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/199211-assistente-societario": {
-    "url": "https://itajaionline.com.br/vaga/199211-assistente-societario",
-    "list_title": "Assistente Societário Itajaí, SC Hoje",
-    "title": "Assistente Societário",
-    "city": "Itajaí, SC",
-    "description": "Renomada contabilidade localizada no centro de Itajaí contrata",
-    "published_at": "2026-10-13T01:31:12.809099+00:00",
-    "priority_score": 180,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "contabilidade",
-      "contabil"
     ]
   }
 }
