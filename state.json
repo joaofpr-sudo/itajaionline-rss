@@ -552,6 +552,21 @@
       "fiscal"
     ]
   },
+  "https://itajaionline.com.br/vaga/200787-tst": {
+    "url": "https://itajaionline.com.br/vaga/200787-tst",
+    "list_title": "TST ITAJAÍ Hoje",
+    "title": "TST",
+    "city": "ITAJAÍ",
+    "description": "Responsável por acompanhar e orientar as atividades relacionadas à Segurança e Saúde no Trabalho (SST), realizando inspeções nos setores, identificando riscos e propondo medidas preventivas. Atuar na fiscalização do uso de EPIs, investigação de acidentes e incidentes, elaboração de relatórios, realização de treinamentos e integração de colaboradores, acompanhamento de programas de segurança e cumprimento das normas regulamentadoras (NRs) e rotinas administrativas. Experiência em indústria será um diferencial.",
+    "published_at": "2026-11-12T12:27:54.334631+00:00",
+    "priority_score": 240,
+    "category": "ADMINISTRATIVO",
+    "matches": [
+      "administrativa",
+      "rotinas administrativas",
+      "fiscal"
+    ]
+  },
   "https://itajaionline.com.br/vaga/200401-secretaria-bairro-itaipava": {
     "url": "https://itajaionline.com.br/vaga/200401-secretaria-bairro-itaipava",
     "list_title": "Secretária Bairro Itaipava itajai Hoje",
@@ -1200,6 +1215,20 @@
       "auxiliar financeiro"
     ]
   },
+  "https://itajaionline.com.br/vaga/200767-auxiliar-administrativo-cobranca-financeiro": {
+    "url": "https://itajaionline.com.br/vaga/200767-auxiliar-administrativo-cobranca-financeiro",
+    "list_title": "Auxiliar Administrativo – Cobrança / Financeiro ITAJAÍ Hoje destaque",
+    "title": "Auxiliar Administrativo – Cobrança / Financeiro",
+    "city": "ITAJAÍ",
+    "description": "Vaga: Auxiliar Administrativo – Cobrança / Financeiro",
+    "published_at": "2026-11-12T12:27:41.130363+00:00",
+    "priority_score": 220,
+    "category": "FINANCEIRO",
+    "matches": [
+      "financeiro",
+      "cobrança"
+    ]
+  },
   "https://itajaionline.com.br/vaga/200758-assistente-administrativo": {
     "url": "https://itajaionline.com.br/vaga/200758-assistente-administrativo",
     "list_title": "Assistente administrativo Itajaí Hoje",
@@ -1421,34 +1450,6 @@
     "category": "ADMINISTRATIVO",
     "matches": [
       "assistente administrativo",
-      "administrativo"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/199433-gerente": {
-    "url": "https://itajaionline.com.br/vaga/199433-gerente",
-    "list_title": "Gerente NAVEGANTES Hoje",
-    "title": "Gerente",
-    "city": "NAVEGANTES",
-    "description": "VAGA: GERENTE ADMINISTRATIVO",
-    "published_at": "2026-10-15T14:59:57.826664+00:00",
-    "priority_score": 180,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "gerente administrativo",
-      "administrativo"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/199289-gerente-administrativo": {
-    "url": "https://itajaionline.com.br/vaga/199289-gerente-administrativo",
-    "list_title": "GERENTE ADMINISTRATIVO ITAJAI Hoje",
-    "title": "GERENTE ADMINISTRATIVO",
-    "city": "ITAJAI",
-    "description": "🚀 VAGA: GERENTE ADMINISTRATIVO – ITAJAÍ/SC 📦 Importadora Mares",
-    "published_at": "2026-10-13T21:18:55.918070+00:00",
-    "priority_score": 180,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "gerente administrativo",
       "administrativo"
     ]
   }
