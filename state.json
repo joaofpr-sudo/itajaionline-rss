@@ -402,6 +402,21 @@
       "rotinas administrativas"
     ]
   },
+  "https://itajaionline.com.br/vaga/200864-assistente-fiscal-contabilidade": {
+    "url": "https://itajaionline.com.br/vaga/200864-assistente-fiscal-contabilidade",
+    "list_title": "ASSISTENTE FISCAL CONTABILIDADE Itajaí-SC Hoje",
+    "title": "ASSISTENTE FISCAL CONTABILIDADE",
+    "city": "Itajaí-SC",
+    "description": "Detalhes da vaga - ASSISTENTE FISCAL",
+    "published_at": "2026-11-13T16:39:39.561287+00:00",
+    "priority_score": 250,
+    "category": "ADMINISTRATIVO",
+    "matches": [
+      "contabilidade",
+      "contabil",
+      "fiscal"
+    ]
+  },
   "https://itajaionline.com.br/vaga/200681-auxiliar-fiscal": {
     "url": "https://itajaionline.com.br/vaga/200681-auxiliar-fiscal",
     "list_title": "Auxiliar Fiscal Itajaí, SC Hoje",
@@ -638,6 +653,20 @@
       "administrativa",
       "rotinas administrativas",
       "fiscal"
+    ]
+  },
+  "https://itajaionline.com.br/vaga/200876-assistente-financeiro": {
+    "url": "https://itajaionline.com.br/vaga/200876-assistente-financeiro",
+    "list_title": "Assistente Financeiro Itajaí Hoje",
+    "title": "Assistente Financeiro",
+    "city": "Itajaí",
+    "description": "Buscamos um(a) Assistente para integrar nosso time e contribuir com as rotinas que garantem o bom funcionamento das nossas operações logísticas.",
+    "published_at": "2026-11-13T16:39:37.287393+00:00",
+    "priority_score": 235,
+    "category": "FINANCEIRO",
+    "matches": [
+      "financeiro",
+      "assistente financeiro"
     ]
   },
   "https://itajaionline.com.br/vaga/200761-assistente-financeiro": {
@@ -1418,34 +1447,6 @@
     "city": "Itajaí",
     "description": "Hórus Logística contrata : Assistente Administrativo",
     "published_at": "2026-10-26T17:22:09.525209+00:00",
-    "priority_score": 180,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "assistente administrativo",
-      "administrativo"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/199781-gerente-administrativo": {
-    "url": "https://itajaionline.com.br/vaga/199781-gerente-administrativo",
-    "list_title": "GERENTE ADMINISTRATIVO ITAJAI Hoje",
-    "title": "GERENTE ADMINISTRATIVO",
-    "city": "ITAJAI",
-    "description": "🚀 VAGA: GERENTE ADMINISTRATIVO – ITAJAÍ/SC 📦 Importadora Mares",
-    "published_at": "2026-10-21T19:18:51.753973+00:00",
-    "priority_score": 180,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "gerente administrativo",
-      "administrativo"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/199791-assistente-administrativo": {
-    "url": "https://itajaionline.com.br/vaga/199791-assistente-administrativo",
-    "list_title": "ASSISTENTE ADMINISTRATIVO NAVEGANTES Hoje",
-    "title": "ASSISTENTE ADMINISTRATIVO",
-    "city": "NAVEGANTES",
-    "description": "Auxiliar com",
-    "published_at": "2026-10-21T19:18:49.459232+00:00",
     "priority_score": 180,
     "category": "ADMINISTRATIVO",
     "matches": [
