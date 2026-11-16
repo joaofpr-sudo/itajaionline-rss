@@ -402,6 +402,21 @@
       "rotinas administrativas"
     ]
   },
+  "https://itajaionline.com.br/vaga/200936-auxiliar-fiscal": {
+    "url": "https://itajaionline.com.br/vaga/200936-auxiliar-fiscal",
+    "list_title": "Auxiliar Fiscal Itajaí, SC Hoje",
+    "title": "Auxiliar Fiscal",
+    "city": "Itajaí, SC",
+    "description": "Renomada Contabilidade",
+    "published_at": "2026-11-16T21:03:27.927107+00:00",
+    "priority_score": 250,
+    "category": "ADMINISTRATIVO",
+    "matches": [
+      "contabilidade",
+      "contabil",
+      "fiscal"
+    ]
+  },
   "https://itajaionline.com.br/vaga/200864-assistente-fiscal-contabilidade": {
     "url": "https://itajaionline.com.br/vaga/200864-assistente-fiscal-contabilidade",
     "list_title": "ASSISTENTE FISCAL CONTABILIDADE Itajaí-SC Hoje",
@@ -653,6 +668,34 @@
       "administrativa",
       "rotinas administrativas",
       "fiscal"
+    ]
+  },
+  "https://itajaionline.com.br/vaga/200926-assistente-financeiro": {
+    "url": "https://itajaionline.com.br/vaga/200926-assistente-financeiro",
+    "list_title": "Assistente Financeiro Itajaí Hoje",
+    "title": "Assistente Financeiro",
+    "city": "Itajaí",
+    "description": "Buscamos um(a) Assistente para integrar nosso time e contribuir com as rotinas que garantem o bom funcionamento das nossas operações logísticas.",
+    "published_at": "2026-11-16T21:03:29.881891+00:00",
+    "priority_score": 235,
+    "category": "FINANCEIRO",
+    "matches": [
+      "financeiro",
+      "assistente financeiro"
+    ]
+  },
+  "https://itajaionline.com.br/vaga/200934-assistente-financeiro": {
+    "url": "https://itajaionline.com.br/vaga/200934-assistente-financeiro",
+    "list_title": "Assistente Financeiro Itajaí, SC Hoje",
+    "title": "Assistente Financeiro",
+    "city": "Itajaí, SC",
+    "description": "Tradicional",
+    "published_at": "2026-11-16T21:03:28.316821+00:00",
+    "priority_score": 235,
+    "category": "FINANCEIRO",
+    "matches": [
+      "financeiro",
+      "assistente financeiro"
     ]
   },
   "https://itajaionline.com.br/vaga/200876-assistente-financeiro": {
@@ -1405,48 +1448,6 @@
     "city": "Itajaí",
     "description": "Principais atividades:",
     "published_at": "2026-10-29T15:36:23.733770+00:00",
-    "priority_score": 180,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "assistente administrativo",
-      "administrativo"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/200184-assistente-administrativo-de-frota": {
-    "url": "https://itajaionline.com.br/vaga/200184-assistente-administrativo-de-frota",
-    "list_title": "ASSISTENTE ADMINISTRATIVO DE FROTA Itajaí Hoje",
-    "title": "ASSISTENTE ADMINISTRATIVO DE FROTA",
-    "city": "Itajaí",
-    "description": "VAGA – ASSISTENTE ADMINISTRATIVO DE FROTA",
-    "published_at": "2026-10-29T15:36:22.045531+00:00",
-    "priority_score": 180,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "assistente administrativo",
-      "administrativo"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/200048-analista-administrativo-senior-logistica": {
-    "url": "https://itajaionline.com.br/vaga/200048-analista-administrativo-senior-logistica",
-    "list_title": "ANALISTA ADMINISTRATIVO SENIOR - LOGISTICA ITAJAI Hoje",
-    "title": "ANALISTA ADMINISTRATIVO SENIOR - LOGISTICA",
-    "city": "ITAJAI",
-    "description": "ANALISTA ADMINISTRIVO SENIOR - LOGISTICA",
-    "published_at": "2026-10-27T16:51:41.487808+00:00",
-    "priority_score": 180,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "analista administrativo",
-      "administrativo"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/200032-assistente-administrativo-marketing": {
-    "url": "https://itajaionline.com.br/vaga/200032-assistente-administrativo-marketing",
-    "list_title": "Assistente administrativo / marketing Itajai Hoje",
-    "title": "Assistente administrativo / marketing",
-    "city": "Itajai",
-    "description": "Perfil: ser comunicativa e gostar de atender ao público.",
-    "published_at": "2026-10-27T00:53:07.139290+00:00",
     "priority_score": 180,
     "category": "ADMINISTRATIVO",
     "matches": [
