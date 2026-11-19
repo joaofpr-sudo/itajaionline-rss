@@ -699,6 +699,34 @@
       "fiscal"
     ]
   },
+  "https://itajaionline.com.br/vaga/201154-analista-financeiro": {
+    "url": "https://itajaionline.com.br/vaga/201154-analista-financeiro",
+    "list_title": "ANALISTA FINANCEIRO ITAJAI Hoje",
+    "title": "ANALISTA FINANCEIRO",
+    "city": "ITAJAI",
+    "description": "Oportunidade de Trabalho – IMPORTADORA MARES",
+    "published_at": "2026-11-19T18:27:00.663397+00:00",
+    "priority_score": 235,
+    "category": "FINANCEIRO",
+    "matches": [
+      "financeiro",
+      "analista financeiro"
+    ]
+  },
+  "https://itajaionline.com.br/vaga/201175-assistente-financeiro": {
+    "url": "https://itajaionline.com.br/vaga/201175-assistente-financeiro",
+    "list_title": "assistente financeiro Itajaí Hoje",
+    "title": "assistente financeiro",
+    "city": "Itajaí",
+    "description": "Fechamento de caixa;",
+    "published_at": "2026-11-19T18:26:57.427103+00:00",
+    "priority_score": 235,
+    "category": "FINANCEIRO",
+    "matches": [
+      "financeiro",
+      "assistente financeiro"
+    ]
+  },
   "https://itajaionline.com.br/vaga/201087-analista-de-rh-sr-foco-em-contabilidade-de-folha": {
     "url": "https://itajaionline.com.br/vaga/201087-analista-de-rh-sr-foco-em-contabilidade-de-folha",
     "list_title": "Analista de RH Sr – Foco em Contabilidade de Folha ITAJAI Hoje",
@@ -1428,34 +1456,6 @@
     "matches": [
       "assistente administrativo",
       "administrativo"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/200685-assistente-administrativo": {
-    "url": "https://itajaionline.com.br/vaga/200685-assistente-administrativo",
-    "list_title": "Assistente Administrativo Balneário Cambori&(...) Hoje",
-    "title": "Assistente Administrativo",
-    "city": "Balneário Camboriú",
-    "description": "Estamos em busca de um(a) profissional organizado(a), proativo(a) e comprometido(a) para integrar nossa equipe!",
-    "published_at": "2026-11-10T21:58:32.284544+00:00",
-    "priority_score": 180,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "assistente administrativo",
-      "administrativo"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/200562-consultor-de-vendas-contabilidade": {
-    "url": "https://itajaionline.com.br/vaga/200562-consultor-de-vendas-contabilidade",
-    "list_title": "CONSULTOR DE VENDAS (CONTABILIDADE) Itajaí Hoje",
-    "title": "CONSULTOR DE VENDAS (CONTABILIDADE)",
-    "city": "Itajaí",
-    "description": "🚨 CONSULTOR DE VENDAS (CONTABILIDADE) #128 🚨Praia Brava - Itajaí",
-    "published_at": "2026-11-10T01:42:06.778765+00:00",
-    "priority_score": 180,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "contabilidade",
-      "contabil"
     ]
   }
 }
