@@ -1388,6 +1388,20 @@
       "cobrança"
     ]
   },
+  "https://itajaionline.com.br/vaga/201196-operacional": {
+    "url": "https://itajaionline.com.br/vaga/201196-operacional",
+    "list_title": "Operacional itajaí Hoje",
+    "title": "Operacional",
+    "city": "itajaí",
+    "description": "Vaga: Vendedor(a) Comercial – Whatz Contabilidade",
+    "published_at": "2026-11-20T00:47:17.997907+00:00",
+    "priority_score": 180,
+    "category": "ADMINISTRATIVO",
+    "matches": [
+      "contabilidade",
+      "contabil"
+    ]
+  },
   "https://itajaionline.com.br/vaga/201064-assistente-administrativo-de-frota": {
     "url": "https://itajaionline.com.br/vaga/201064-assistente-administrativo-de-frota",
     "list_title": "ASSISTENTE ADMINISTRATIVO DE FROTA Itajaí Hoje",
@@ -1437,20 +1451,6 @@
     "city": "itajai",
     "description": "Assistente administrativo",
     "published_at": "2026-11-12T20:16:41.938281+00:00",
-    "priority_score": 180,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "assistente administrativo",
-      "administrativo"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/200758-assistente-administrativo": {
-    "url": "https://itajaionline.com.br/vaga/200758-assistente-administrativo",
-    "list_title": "Assistente administrativo Itajaí Hoje",
-    "title": "Assistente administrativo",
-    "city": "Itajaí",
-    "description": "Estamos contratando",
-    "published_at": "2026-11-11T23:16:36.246070+00:00",
     "priority_score": 180,
     "category": "ADMINISTRATIVO",
     "matches": [
