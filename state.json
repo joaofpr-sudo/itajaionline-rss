@@ -699,6 +699,20 @@
       "fiscal"
     ]
   },
+  "https://itajaionline.com.br/vaga/201232-assistente-financeiro": {
+    "url": "https://itajaionline.com.br/vaga/201232-assistente-financeiro",
+    "list_title": "Assistente Financeiro Itajaí Hoje",
+    "title": "Assistente Financeiro",
+    "city": "Itajaí",
+    "description": "Buscamos um(a) Assistente para integrar nosso time e contribuir com as rotinas que garantem o bom funcionamento das nossas operações logísticas.",
+    "published_at": "2026-11-23T19:29:42.370009+00:00",
+    "priority_score": 235,
+    "category": "FINANCEIRO",
+    "matches": [
+      "financeiro",
+      "assistente financeiro"
+    ]
+  },
   "https://itajaionline.com.br/vaga/201154-analista-financeiro": {
     "url": "https://itajaionline.com.br/vaga/201154-analista-financeiro",
     "list_title": "ANALISTA FINANCEIRO ITAJAI Hoje",
@@ -1388,6 +1402,34 @@
       "cobrança"
     ]
   },
+  "https://itajaionline.com.br/vaga/201228-assistente-contabil": {
+    "url": "https://itajaionline.com.br/vaga/201228-assistente-contabil",
+    "list_title": "ASSISTENTE CONTABIL Itajai Hoje",
+    "title": "ASSISTENTE CONTABIL",
+    "city": "Itajai",
+    "description": "VAGA ABERTA – ASSISTENTE CONTÁBIL",
+    "published_at": "2026-11-23T19:29:43.188003+00:00",
+    "priority_score": 180,
+    "category": "ADMINISTRATIVO",
+    "matches": [
+      "contábil",
+      "contabil"
+    ]
+  },
+  "https://itajaionline.com.br/vaga/201276-assistente-administrativo": {
+    "url": "https://itajaionline.com.br/vaga/201276-assistente-administrativo",
+    "list_title": "Assistente Administrativo Itajaí Hoje",
+    "title": "Assistente Administrativo",
+    "city": "Itajaí",
+    "description": "Assistente Administrativo",
+    "published_at": "2026-11-23T19:29:34.324780+00:00",
+    "priority_score": 180,
+    "category": "ADMINISTRATIVO",
+    "matches": [
+      "assistente administrativo",
+      "administrativo"
+    ]
+  },
   "https://itajaionline.com.br/vaga/201196-operacional": {
     "url": "https://itajaionline.com.br/vaga/201196-operacional",
     "list_title": "Operacional itajaí Hoje",
@@ -1409,48 +1451,6 @@
     "city": "Itajaí",
     "description": "ASSISTENTE ADMINISTRATIVO DE FROTA",
     "published_at": "2026-11-17T21:21:38.869341+00:00",
-    "priority_score": 180,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "assistente administrativo",
-      "administrativo"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/200886-supervisor-administrativo-recepcao": {
-    "url": "https://itajaionline.com.br/vaga/200886-supervisor-administrativo-recepcao",
-    "list_title": "Supervisor Administrativo (Recepção) Balneário Cambori&(...) Hoje",
-    "title": "Supervisor Administrativo (Recepção)",
-    "city": "Balneário Camboriú",
-    "description": "Horário: Jornada 12x36 - 7h às 19h - Disponibilidade para cobertura de férias do supervisor do plantão oposto",
-    "published_at": "2026-11-13T22:11:27.234973+00:00",
-    "priority_score": 180,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "supervisor administrativo",
-      "administrativo"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/200804-consultor-de-vendas-contabilidade": {
-    "url": "https://itajaionline.com.br/vaga/200804-consultor-de-vendas-contabilidade",
-    "list_title": "CONSULTOR DE VENDAS (CONTABILIDADE) Itajaí Hoje",
-    "title": "CONSULTOR DE VENDAS (CONTABILIDADE)",
-    "city": "Itajaí",
-    "description": "🚨 CONSULTOR DE VENDAS (CONTABILIDADE) #128 🚨Praia Brava - Itajaí",
-    "published_at": "2026-11-12T20:16:42.965688+00:00",
-    "priority_score": 180,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "contabilidade",
-      "contabil"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/200809-assistente-adminstrativo": {
-    "url": "https://itajaionline.com.br/vaga/200809-assistente-adminstrativo",
-    "list_title": "assistente adminstrativo itajai Hoje",
-    "title": "assistente adminstrativo",
-    "city": "itajai",
-    "description": "Assistente administrativo",
-    "published_at": "2026-11-12T20:16:41.938281+00:00",
     "priority_score": 180,
     "category": "ADMINISTRATIVO",
     "matches": [
