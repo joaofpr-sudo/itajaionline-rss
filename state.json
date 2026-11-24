@@ -699,6 +699,20 @@
       "fiscal"
     ]
   },
+  "https://itajaionline.com.br/vaga/201346-assistente-administrativo-financeiro": {
+    "url": "https://itajaionline.com.br/vaga/201346-assistente-administrativo-financeiro",
+    "list_title": "Assistente Administrativo Financeiro Itajaí, SC Hoje",
+    "title": "Assistente Administrativo Financeiro",
+    "city": "Itajaí, SC",
+    "description": "Tradicional concessionária de veículos localizada no centro de Itajaí/SC contrata Assistente Financeiro",
+    "published_at": "2026-11-24T23:52:55.868267+00:00",
+    "priority_score": 235,
+    "category": "FINANCEIRO",
+    "matches": [
+      "financeiro",
+      "assistente financeiro"
+    ]
+  },
   "https://itajaionline.com.br/vaga/201232-assistente-financeiro": {
     "url": "https://itajaionline.com.br/vaga/201232-assistente-financeiro",
     "list_title": "Assistente Financeiro Itajaí Hoje",
@@ -1402,6 +1416,20 @@
       "cobrança"
     ]
   },
+  "https://itajaionline.com.br/vaga/201343-auxiliar-contabilidade": {
+    "url": "https://itajaionline.com.br/vaga/201343-auxiliar-contabilidade",
+    "list_title": "Auxiliar Contabilidade ITAJAÍ Hoje",
+    "title": "Auxiliar Contabilidade",
+    "city": "ITAJAÍ",
+    "description": "Vaga para auxiliar de contabilidade.",
+    "published_at": "2026-11-24T23:52:56.470273+00:00",
+    "priority_score": 180,
+    "category": "ADMINISTRATIVO",
+    "matches": [
+      "contabilidade",
+      "contabil"
+    ]
+  },
   "https://itajaionline.com.br/vaga/201228-assistente-contabil": {
     "url": "https://itajaionline.com.br/vaga/201228-assistente-contabil",
     "list_title": "ASSISTENTE CONTABIL Itajai Hoje",
@@ -1423,34 +1451,6 @@
     "city": "Itajaí",
     "description": "Assistente Administrativo",
     "published_at": "2026-11-23T19:29:34.324780+00:00",
-    "priority_score": 180,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "assistente administrativo",
-      "administrativo"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/201196-operacional": {
-    "url": "https://itajaionline.com.br/vaga/201196-operacional",
-    "list_title": "Operacional itajaí Hoje",
-    "title": "Operacional",
-    "city": "itajaí",
-    "description": "Vaga: Vendedor(a) Comercial – Whatz Contabilidade",
-    "published_at": "2026-11-20T00:47:17.997907+00:00",
-    "priority_score": 180,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "contabilidade",
-      "contabil"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/201064-assistente-administrativo-de-frota": {
-    "url": "https://itajaionline.com.br/vaga/201064-assistente-administrativo-de-frota",
-    "list_title": "ASSISTENTE ADMINISTRATIVO DE FROTA Itajaí Hoje",
-    "title": "ASSISTENTE ADMINISTRATIVO DE FROTA",
-    "city": "Itajaí",
-    "description": "ASSISTENTE ADMINISTRATIVO DE FROTA",
-    "published_at": "2026-11-17T21:21:38.869341+00:00",
     "priority_score": 180,
     "category": "ADMINISTRATIVO",
     "matches": [
