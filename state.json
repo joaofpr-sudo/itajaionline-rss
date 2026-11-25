@@ -699,6 +699,20 @@
       "fiscal"
     ]
   },
+  "https://itajaionline.com.br/vaga/201384-analista-financeiro": {
+    "url": "https://itajaionline.com.br/vaga/201384-analista-financeiro",
+    "list_title": "Analista Financeiro Itajaí Hoje",
+    "title": "Analista Financeiro",
+    "city": "Itajaí",
+    "description": "Vaga inicial imediato",
+    "published_at": "2026-11-25T17:38:46.959121+00:00",
+    "priority_score": 235,
+    "category": "FINANCEIRO",
+    "matches": [
+      "financeiro",
+      "analista financeiro"
+    ]
+  },
   "https://itajaionline.com.br/vaga/201346-assistente-administrativo-financeiro": {
     "url": "https://itajaionline.com.br/vaga/201346-assistente-administrativo-financeiro",
     "list_title": "Assistente Administrativo Financeiro Itajaí, SC Hoje",
@@ -1442,20 +1456,6 @@
     "matches": [
       "contábil",
       "contabil"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/201276-assistente-administrativo": {
-    "url": "https://itajaionline.com.br/vaga/201276-assistente-administrativo",
-    "list_title": "Assistente Administrativo Itajaí Hoje",
-    "title": "Assistente Administrativo",
-    "city": "Itajaí",
-    "description": "Assistente Administrativo",
-    "published_at": "2026-11-23T19:29:34.324780+00:00",
-    "priority_score": 180,
-    "category": "ADMINISTRATIVO",
-    "matches": [
-      "assistente administrativo",
-      "administrativo"
     ]
   }
 }
