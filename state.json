@@ -729,6 +729,20 @@
       "fiscal"
     ]
   },
+  "https://itajaionline.com.br/vaga/201565-assistente-de-adm-financeiro": {
+    "url": "https://itajaionline.com.br/vaga/201565-assistente-de-adm-financeiro",
+    "list_title": "ASSISTENTE DE ADM - FINANCEIRO Itajaí Hoje",
+    "title": "ASSISTENTE DE ADM - FINANCEIRO",
+    "city": "Itajaí",
+    "description": "Vaga: Assistente Financeiro",
+    "published_at": "2026-11-28T02:28:34.426953+00:00",
+    "priority_score": 235,
+    "category": "FINANCEIRO",
+    "matches": [
+      "financeiro",
+      "assistente financeiro"
+    ]
+  },
   "https://itajaionline.com.br/vaga/201452-analista-financeiro": {
     "url": "https://itajaionline.com.br/vaga/201452-analista-financeiro",
     "list_title": "ANALISTA FINANCEIRO ITAJAI Hoje",
@@ -1439,20 +1453,6 @@
     "city": "Itajaí",
     "description": "VAGA: AUXILIAR FINANCEIRO (Atendimento e Suporte a Boletos)",
     "published_at": "2026-10-09T20:12:20.669916+00:00",
-    "priority_score": 230,
-    "category": "FINANCEIRO",
-    "matches": [
-      "financeiro",
-      "auxiliar financeiro"
-    ]
-  },
-  "https://itajaionline.com.br/vaga/198541-auxiliar-financeiro": {
-    "url": "https://itajaionline.com.br/vaga/198541-auxiliar-financeiro",
-    "list_title": "Auxiliar Financeiro Itajaí Hoje",
-    "title": "Auxiliar Financeiro",
-    "city": "Itajaí",
-    "description": "Auxiliar Financeiro",
-    "published_at": "2026-09-29T16:45:28.639542+00:00",
     "priority_score": 230,
     "category": "FINANCEIRO",
     "matches": [
